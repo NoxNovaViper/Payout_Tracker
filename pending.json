@@ -1538,5 +1538,305 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-06-21T03:36:46.300755Z"
+  },
+  {
+    "id": "61bf759703",
+    "headline": "Alameda County to pay $36 million in wrongful death settlement to family of 2022 homicide victims killed by sheriff's deputy - ABC7 Bay Area",
+    "detected_amount": 36000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQks0NHZucXNBSlkwU1pjNmRHVGRObVZ0Nl9zN0NGeWxGZU5sTGJrV0Z0T1lEOXA2QXZIamViaEt3Rmsydlh3TG53NGpzdWJ5Z0VZRTlPQlBwbmNUNlJoRzZDS0F4T1FhLXFtUFY3SDEzSE9oZm1QaDVNeEJrSVM1aThmMTdVUWdDaEVTZHc5TWNWMXJqZFQzRUcySnBxdnVtbVViUlhHU0Z1ckZWU3VsMDI5TmhUYUVXR0JyT1A1M3R2UXE4NzBvdkNySE5LSkVoZmZTZEowVkV6R3PSAeABQVVfeXFMTW5sckhlUUUzYkc4cENkVGMzYzBMN05HZ1pyN2swNmxmaFJ2SGtsVjRITGptZTNPV2FfR2RZdnRxRDhXa283N2xvTFZjY0RJV3piQ3pmM2Y1elEyYnBaOF8wX1N0NFdzZFZOMGg0Tzk2eFRtdUVoc2RaYjJ6QUFPMUx6dDdkYmJKMVVLSjVQaEp6d2J2X0JxeUp2c1JOcVdGZDVxY2tweFJzcnVjOERLVGlvUjhfeWR1VkdIc0c2djZuX3ZxdDh1M01CQVUwNkNTV3NUcTF4b01QRklPQWE5V1g?oc=5",
+    "published": "Thu, 14 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:28.645432Z"
+  },
+  {
+    "id": "76a722a155",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - WFSB",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGNTU0ZONGZxNGt0b2FaSkp2dERkNDdaV0RIY1BYcTk0Z3NRcEc1a0NuMWhQcTh5bVltaDlDS2dQZDRkOFRYZXB5bGh2OXNwS2NhXzlPaGF4bXpSRFdFcHo5aEt4d3VIQzdvS0NFTzJ5ZXdselowRHZhQWxZV1h3R0RYbEZNS1JYTktwNEZ5VW1FU1kxWlJOOUZRZzNSSDJuVUxj0gG3AUFVX3lxTE15Q1R5YVZTa0JZSjBfdmxYMkdZdzYzM1FtbTd1MDlqMGF4S2hfRTNyRjRQaFAydG1ZQjhoQklvQ2RuUnlUem11RDRfSWpQX20wOWhtR0EwZTNtNzlNWUEwLTZ6T0gtMHU3UWRza3hGanhRYzdkMUhsR1haY2tpa1dkZEN0RjlLSzRtOVhzNEFtRzcyRkNld20xaUxUQmltQnhJbXhWcVBLWXBtSkFsSmtuQUJla2l5aw?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:28.645479Z"
+  },
+  {
+    "id": "decfe93685",
+    "headline": "Historic $17 Million Settlement Reached in Solano County Police Brutality Case - Davis Vanguard",
+    "detected_amount": 17000000,
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05WEQ2NFpYTjhSRlFlVkNFNm1sQ0ZoWVhqZkxLRUJLZHQzbUZkSDdMZnljMkV5bE1lRzV1eXViWmRYaGpWVXh6NTRzdUVKa0FRN1ZEc0xZT0ZVRWM2Nk1JM3pTU0tNaE1qZ3d5a3JaRzl6QUU?oc=5",
+    "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:28.645520Z"
+  },
+  {
+    "id": "b958293fd4",
+    "headline": "Chicago city attorneys recommend $12.7 million settlement for Jackie Wilson, cleared of 1982 murders of 2 CPD officers - CBS News",
+    "detected_amount": 12700000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOG5yQ0NQZG96QzAtVWt4bEYtLTFqb0NtWndtN28xTUFPS2VPLUR5emc3UU9LT0ttN2lqeWJ2bjMyN0tRVmY1Tm1tR2lGUGFUOTZ0V1VxWUM1NEdxZ2NoQ3VCRzNWMmdUa0pSVnVCTjdqdXZlU1BmdUhkOUdxLU1ybUN6Sm96MzFnT2JoaVJJMWp5TjN3emltRHdFX1JyZzVicG5WZkZsRGFoQdIBrwFBVV95cUxQdHRHZXRSZ1dkdkptLVRRSEVzTE92TjZySEFyd0Z1MXVma1lValJKRHk0bC1TcWdSLUxDSXdISmNzVmprVjFCNGEzZWo4OGxiWlI0TWNpbS1HU2pGWkF1VmppMFJLM0Rjb3QxR014YXBHTUF0RjlNeVJDdkh6R2pRUWc2bXpGT255WUZHUm1YSmlUMmc1b2VXdU5GVDNVUFJTZEx4aVlJVEFENjd3aVVn?oc=5",
+    "published": "Thu, 10 Jul 2025 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:31.760696Z"
+  },
+  {
+    "id": "61a67da3cf",
+    "headline": "Romanucci & Blandin Announces $10.5 Million Settlement with Elk Grove Village and Four of Its Police Officers in the Shooting Death of Jack Murray - Romanucci & Blandin, LLC",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTk05ZlVZUFZWZTg4ei01ekZabUJMaFRtc3ZxYkE4cnl3QkVmR3RKZkRVNWhCdnl0OVdpdHpDbmJtRVF3YmJtMElKZzNua0FCY3lfaXVqWXBTLWRmUFVvbXctaEFMRDlfcEFkWUN1cTRyeTdyNWVyWlpLX3BxNDk4Qkw4bTNXYWZwaHhybDE2NmdCWG45Z2NMWm9GTnR2YlV0UF9zN3otQlRfT3ZhTWJMVjZWV0hGd1pUMGs0?oc=5",
+    "published": "Wed, 17 Jun 2026 13:39:13 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363205Z"
+  },
+  {
+    "id": "fe7bfceee2",
+    "headline": "Elk Grove Village reaches $10.5 million settlement with family of man fatally shot by police - Chicago Tribune",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTl5NF9YQmJ1UDJ3TThxSlJWbmRxMWFtNDhnQTVyS3BXYnFDcmdZdjU4a2l4dTlfZ0t6THlDOWdaaGlLUmJGbEktWkhxSWVtLUViTFVEMEFDaFB0ZDNZZHRERnE2UlhCT0U3VHBreVR0VE0xRk1UU3k2a1V0akV3Z2V4bGJNZHVBNGZqVlFOUGU?oc=5",
+    "published": "Wed, 17 Jun 2026 22:51:02 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363223Z"
+  },
+  {
+    "id": "b8fdba4a2f",
+    "headline": "$10.5 million settlement in Elk Grove Village police shooting case - Audacy",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2R1RG1KMEpyakFNTGlncDNqRkdacFV0WTd3aDlxVTA0VmhDYVJQOHFmOXpjZlhuaGhlZ2MyVGVmeWV0U0xDd2J3MzFBU1BxUTUzbk51RDRUaFVTdlkxWVEtVXFiZ0RDX3VId2hsdlRHcVhhdXhXLWJDU040c1VKMTZ1Y0d2eEZVVmFEeVRxZzFQLTlaMW9MbVNudWpaTkVQYTVV?oc=5",
+    "published": "Wed, 17 Jun 2026 17:41:11 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363231Z"
+  },
+  {
+    "id": "60f0a63332",
+    "headline": "$10.5M settlement reached for family of man fatally shot by Elk Grove Village police - WGN-TV",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTFRZ1NBOEVRU3hnUEFvYS1zalJmd2VnUFY3WFhYbVRIeW1jTGtuZkRUUjF3bm5qbWhqcmhMV2JpenNUVFhZMkplYnp1akJpTjRjS3d4OE52al94SFZ6dDVLdWo5cGdwZjZMTHlNZnp0RVJ2ekxBVk1Jc25kSWZZeU02c3dFcDFzS3djTGJjVDM0UEIzWGQxTUZpVjhCVUE2RjVhSC1xUG5CQXVmb3B1dno0TW5EYVpFMy1zOC01UnREZ2fSAcgBQVVfeXFMTVpCZ2RuS2JLZGVKYmdvYm9sLVBVMnBLTGhkOHhuSC1aM2pxcjlBSWNSYzl2SlVHMGx1TEpvRS1JVjd3Q1dtaC03azVfLVJLY0R3YWJMbXp4ZmFfbnE4T2ZkdlRGOUlKcjBFeEhfaGo5VHdENl9WdjhMTzdQYk5hRm1ySU9wZXUwWGZSTUdGakdJbk1YM200d0xDWEllQU5tVGx3MGo5em1nYTRJbE9MbHhIUnJpRXpQTW9rRjFSQ1l3RktIcC0tMG0?oc=5",
+    "published": "Wed, 17 Jun 2026 18:52:37 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363238Z"
+  },
+  {
+    "id": "18a90111a9",
+    "headline": "Family of man shot and killed by Chandler police in 2025 files $10M lawsuit - ABC15 Arizona",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEJCeEx4Sl9GQWVUa1FfQnNaajRQQ1htcHdON0NScndBZFF0Y1h0UWFXaGxYVlRrbWtocUo4eV9mOVpDc2NlWGdJLVpEX0hMdkZIdHVLc0g5ZGE4UnF4NXA1QldERzlXaDdqZXdnWlhjM3doVWdNZExDekwzZ19kZGg4MGlDbWpodXc2eFRCbmtnMmdGWWw5aUw3UVNtR2ZYOWxuWlJlQlN4cnFPci1nazQ2LU9nZ0lET0pmLTZoOThaQmYwWnp1R1U0MlB4LW8?oc=5",
+    "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363269Z"
+  },
+  {
+    "id": "d36861e9c6",
+    "headline": "Elk Grove Village approves $10.5 million settlement with family of man killed by police - CBS News",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdTQ0pZcG1BVHVwclRhd0lERmw1V3JtX1Z1UVBiazNzZjlybzF0TVoxdUZYM2REQ1dGdjlIY0tZVVAya25PUUhya3JfZ2hYekY2ZjFoc3dZNGFyX0pJeUU4bWFoejlSdjlVYkdXTGpVXzlZZlVQSV9BN1ExTjNDUXpGemFCMHllUnFncTZFYzlwWGxzLUlmRC1GNUQ3bUlyRDJKOFNsbHlBZ01pMnhvbE9vY2tHMFVud1VsVVJxVGZlb1E?oc=5",
+    "published": "Wed, 17 Jun 2026 23:08:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363275Z"
+  },
+  {
+    "id": "4177080fa0",
+    "headline": "San Diego considers $30 million settlement in police-involved shooting death of Black teen - AP News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbE9IOUg3MWRsaEdIRkNkanFKU2JWUzNBdU9rR2I4U1lWN0NfbmlWWVZ4SkhHeTZPRFRvVk9qb0NzeHdsQ0JKZGNTWVVyVlF2YnVXYXZKR2QzT2k0VHBCRDRwWVNJOTJHWTdzTndhNUdqYWpaTlNSSjVJVnZ3OHZscXFlQzQ4NWhpQVcycF80cXFRNXNEczVYRkdOOVZ2dw?oc=5",
+    "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363305Z"
+  },
+  {
+    "id": "33800f5d59",
+    "headline": "San Diego OK's historic $30M payout to family of teen fatally shot by police - NBC 7 San Diego",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa21XdGVTTzZMWmRldEp0cWs0MWQ0Y1VoZkRyeDVNM0tycmptYmc1QnhjSkNjd2x5aS1EVS1OZjdodHhUMUZsZ2RTTXRZLVNXa1dIN2dPdHpBakRGOVl3Z19jaUJQYzlENkw1bDFnMWNMTl84LUFaeW1IbUFPX2NKQkw1cGlSMjJoY2dxM3VObl9aTFQ1Z19kZG12UjJQRG84TVFwYzZpaHLSAbABQVVfeXFMT0thZDV4cHBxX0tJQThLN1RzTkNqUWRraE84YU05SDdBWlpmQ1lTaEQ5czJDZ3RheGdPSTg0dDVnSGlERDE3ZWg5eERvM1phVjZYUzZvR0JOXzBjR01WM2JEVEZWOTc3V09zYW5WUlZuWTBZWmVQV3ZfNjVxcHFkQnhUc0s3OGRUd0Fmb1Jrb3dTTm5EVHZ3TWRWZWRNbWRoTFpLOHNwRkZ0M29JUlZ0Yk8?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363316Z"
+  },
+  {
+    "id": "26ce4ec414",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - AP News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFFoX1ZhLVpINUVmWTUwdlpwRHhIWjh1clpFZ1FrNDQxbHFnQXJVVWhkS3NJSHMxcVFyRmEtelMxZkpfWnRUak1ucXUzam9UQkhDemJSN0FreVU5WmZ5cTlNM0l2cnk2YlFSTGZZUnhvUDRYVVlaQzBaQWpmUjBVR2hJeWdDcGdiN2luYTVyVjhvdEN4OFRtS2w0b0doeTBXd3ktNmMxeGtNTHNvemc?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363347Z"
+  },
+  {
+    "id": "8d2bd93fd8",
+    "headline": "City of Sturgeon Agrees to Pay $500,000 in Settlement Over Police Shooting of Blind, Deaf Dog - Animal Legal Defense Fund",
+    "detected_amount": 500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXlRNzBRRTZJR09YRlRzaFlfeW0yTmdsanZnb2Q5V2RucDFIMzN3d2dFYXEwSU5fWUJmQzAzZFAycGpWVG5rVUtxaW9vdF9QQmVobUFqejFGVEdaQXg4dFJEcVhrMnVtNkhJSFVaRWVIQ1RfRWxpWFhZV0hWd3lfMVF6aTFRZ2dYMkRYbTNVTFBLLU1OUHE5VTR2ME1lOVVPU1pqR2VrM2pYLTNBaHNHTG9oNGZPbTA?oc=5",
+    "published": "Fri, 14 Nov 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363361Z"
+  },
+  {
+    "id": "2a21d94214",
+    "headline": "Officer called himself acting detective weeks before city paid $30M in fatal teen shooting settlement - 10News.com",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVdWdUhLTllpU3M4NWtERmJ2M2dydUVLTGNTRDhaYUllVENzNjFxbUc0RHpWTEw5U25CSS1uaG81ZkN4eXBWNTVZMzAxcS10eU9TTGhhQ1Jqd3BTcFZuTUJTSGlLVlpvV3M0azZhTTZIZlJjYURSTUF2WlRLd2hacnpvaEh5X1JZS2JDeVE4bHNyblh1MTNBSldWcmJWckdGY2g0U2FCeUdUX1ZFOVhmWGxTT2tuQmlBcWtxV2huVmV1Vy1DcVVQeDZod0lVNzktT1E?oc=5",
+    "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363368Z"
+  },
+  {
+    "id": "c7f254a296",
+    "headline": "Phoenix OKs $1.2M settlement for family of man killed by police in 2019 - AZ Family",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGhETVQybFpxN0hxRm5sN3g5N21qR25kRkN4MjFfWUlZV1c2TWpER19Sb1FxaWRXcUFyemw4N08zeDV2UjEzRlRhVFJGb3VJQTdNRUFYRWRjV3UybmJMempCUk91RkxLVE9Kc2Y5UldHS0d0RHN4WlpvTi1jdFljMGZpalpVMWZ6R1ZQVUh5YzRqSEEwYUVZZDF6dE7SAbABQVVfeXFMTXE2eEdwR3lMSGhpMVRyVF9WMTh6N1dSMWRNZWJQZF9Rd3huQ3VBblpFQ2ZVYVdCU3dYeGJ5ck9SSlA0ZXNSdUlQdVZ5WTllYXpyMXBkSzFwNFpiM2pxMW5sNUFDdTlOZkJUY3dCbzQzZldaUFNScGZyOVhBODZseVhHeGFzVGhfT04zRTgweVdjYVFpVlVPeERKV1hoZGRWNGJVQmx1M2pSQkx6bVFaR1M?oc=5",
+    "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363421Z"
+  },
+  {
+    "id": "1947f0270e",
+    "headline": "Family of man fatally shot by off-duty Pineville officer files $10 million lawsuit - WFAE",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzNYMTdaVER4Z1hMei1RcEVzNmd2T1N2d1I5b2UzTldDUm9XTktiaVZtSmdkMV9aelVmaWU0OU5qTXdnMlIzekFQS0VMQVNjRzhqdzRzcWJBeXEyQ3ZqQ0tpNkFLOXBPby0xbXhObmhQTElIQ29ETVgtOXgtVGF3cjFIVlZ2eE1tcnRXNUtGTnplWjJwVTJ6ZHpMWlhvUjJHT2JFckQwM0RsSjRmZUZ3NkZsUVluMGtvbHdUd0RXcF9GeGl6aGc?oc=5",
+    "published": "Thu, 08 Jan 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363450Z"
+  },
+  {
+    "id": "2e2912ef5a",
+    "headline": "Family of man fatally shot by Carol Stream police gets $9.4 million settlement - Daily Herald",
+    "detected_amount": 9400000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlVTdVJMRm4tTUpHUGcyVjdtSm5vYTE3LXNoWFhoZ010c0xBb1FkWm1WNjN6R0ViVTZoWnVyX29aZ2xjOFYwaGFNZDdrTjdIaXhsZFBmd3V1ZW5MQmdqSTBRX3p2QU1RV1U0QXlHQUcyWklaX21VLXV4WmdRV1ZpR1N1ZFRfYmZ5NDNoWk1qcG0taGdkOGZwTkRockk0YVNsZHRLTGJ2c3g4aGZWcXhjaFNBVEp6VlN0Vk1ubFBn?oc=5",
+    "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363461Z"
+  },
+  {
+    "id": "daaa9610ee",
+    "headline": "City agrees to pay $30M to settle suit of teen's shooting death by San Diego police - NBC 7 San Diego",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTAteTh3REdlMktCUWJYZHk5NGhzWFo4S3ByU19Ld291QjBCZE5fdkNNamNCUnZYR3B0QlNpWVNqQnk4N3l5b09ZMEJsR2EwN3hMTThUbDBQQU5aMzNvTWkzcjBVb3R6eXhsS1h5WVM1c1hkbjA0SkpBaDFuRTRqeHNBVUIwVG0xYVRXczBmSkIyZWV2b3lpbXRENXM3WUtlZERCZFcwRTY1V0V0YXh3eXpoTXBCU0dmY1QxY2l6dkxiVURpOHJfNlRqQdIB0wFBVV95cUxPcVpzbFQxVm1lS0RJMTlkdTN5Ym1yT3psZU1oc2RibDlHYTlVb2xCWlJKQ2NBZGplV1VQTEhDZHIwQTEzSGpPbkVNaDU5bzR2VnFhYjVOOGlvVmRiTVI4a0o2RzRJdUU5ZWhKMS02X0NNNUpucTVIQjdEczQ0Z0RmeEw0MUVmeFQybXluMUstbW5qMWtsWDBZU2xhd1ZnSTVpTkJEaEZhRWJJMGdSMi1YR3p5QTVNNlpRLVdETGV6N1JTQTI4eWNmODcwb3BMN3ZyajVv?oc=5",
+    "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363473Z"
+  },
+  {
+    "id": "2587b2b896",
+    "headline": "Vallejo reaches $8.5 million settlement in Sean Monterrosa police shooting - KRON4",
+    "detected_amount": 8500000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnpsR01xN2N2NUR1aFJWcnhoM3pFcjNIRXU1WUx0S052eExhTXlWcHA4dmFmamx0TjR1T1dMQ21vV2JObGZ4TFBUWkdtdFBzQXhDaFdLemhIQkh6SnB6RGE2dTVJOEdiNW8yY0N0Yk5NakhlSzZmVndzdURlSDBrNjRaeE93aV94MXZOU3AzT1BWVWwzX0hzeVFfbGstczVLRnFHb1pFX3M4dE9EMDdJ0gG0AUFVX3lxTFBZZ0dsTkpySTJnSVI3dmdwNE9tODNZeDVRS1pYTVJxSnZaUldIQTFha3RqOW9telAyUS1qSGNaTDlteEpSaGRQbG9WeWJpQjE0RU1QMmotOTFQUEV5Y0ZIQlJlRVZWQ0FsMkE5U2xENFFNVHFsMTc5bVM5clAzbjJkYkhxbFU2d3JJS1o0UkExNjljMURHNFp1T1hFS1V3ZS1GbHNwWTdFZUtPZktOak5JemZJaQ?oc=5",
+    "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363497Z"
+  },
+  {
+    "id": "f57f3691d2",
+    "headline": "Honolulu to Settle Lawsuit Over Police Shooting of Micronesian Teen for $1M - U.S. News & World Report",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzgxS1VRZkVWRDlGVEdfdTU2T1FNT2puRjB5U1AzLWFxVEdlcUlKOUV2OVRpd2h6TEJrX2RMcUk3Y3YtckFzNmRZdGFVSkV2YUREbm40VGlRRDFoQXJmb3JQWHFXVnh5UUJ1LW5zcldqb29HeGJZcUtja0JyT19VZmV3OE5OTmtoVWhTSm5BWTFneGQtR21Ic0F5WGoxZGFsckFJU29ybWhoX052dUNRSGl4N1E5RHV6RkdReENUcEJiY2M?oc=5",
+    "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363503Z"
+  },
+  {
+    "id": "4151dbeeaa",
+    "headline": "San Diego Considers $30 Million Settlement in Police-Involved Shooting Death of Black Teen - The San Diego Voice & Viewpoint",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHAzWXZ0RkUwRWE1bldXM1BLc0pUVUhBdE5RTmZEbEk1V2trY2ZHZTVxTUd6YWZGNlFwUTU4U0pYcGlkRzJjeXRmZHBSYlM5QTlEd29DUUE0blhCWHhXNlJXaVJWVUx1bGplaVlQRDRreklxaHY5Z2VOWGIxekZYUEZ0TUIyVUliYW9XbGFNeEJ3aVBIZlFfa1VaaG5TWExEcjRCbG9OWFl5YV9YNWVULQ?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363509Z"
+  },
+  {
+    "id": "7b7cf01bf3",
+    "headline": "Family of 16-year-old killed by police in San Diego to receive $30 million settlement - CBS News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUc1UFJDRUdwRmVCcGs4ZHl2YlgzVFI4V2FVakZHcExLUURZeXYyRGZxUDJXSDZMcklGTEFOR04zbm5ZT0NoRktuRWQ0Zl8zRTFHdVhLZ1hEcWVfcjh1dTItYmhHb3VXeVl1SXNmejlmSzdxQ3AxWlJSdFdnOTFTSm92VjUxS01abUVMTzJwRkFZSGdMMVM2aFgxdGtfeGljQjlwYXRsTXBuczNnWWt4SUVzeXI5Zw?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363523Z"
+  },
+  {
+    "id": "a6ce8bedec",
+    "headline": "Union County settles lawsuit for $3.25 million in fatal deputy shooting - WCNC",
+    "detected_amount": 3250000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNGk1Q0xIckV4dEZuRWVRREZTV3JtS2hIdGNLYjNQd0tVblduZm84M1FRQ3VLcDFicWFfRHdaUVhLX0R2T0c5MDRPV2dtY3ZUMXcySDRVQ2tjZy10WGszU0hwSTRYZ2lzLWFKM2RIakJWeVppNXY5TFQyTVBVbVVkUmNSU0dKOFRyLTlHdWVORGg1Z0dsTTY2UjlwUVFhQ3JVWWVYWEtuaFdQMl9wdC1fWUU0OEhOMnBRanh2OUpHeExzSDlhdG1JWkMydnpfOWNPQ3ZoN2VaWDI4dw?oc=5",
+    "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363530Z"
+  },
+  {
+    "id": "b865bb2ad2",
+    "headline": "Family of man killed by Phoenix Police files $5 million lawsuit alleging excessive force - 12News",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSDhjY2ZSeXFSUGRVYWduNWhLX1JNbnBfUFZSLWdpaDNjSUtLOE1PQjNrTTFzazhTU2lIUjRSdlR2OWJQUnJ3dENwY3BGVVFrUjBPbkhPTmhuVFk4ODlCcllnaWdoZjNkUkN0RTRlbktjQmJ5azFqam0xWHR4cWpTbjF2UzJDbEUxeUpVN2IxeEVtRWtmN2lRWkNNcnItLUJWMXZuRkg2LUJXd19Yb2xUOXh1QVR4M2I2OS1UYTE2ZnZsR01MN0U5T2hRaHc3LXcyMmZyeTUwT0EwWGpUM3V3S052bVg5NGRvcHQ0MG9LRV9tTGE5aUdMTGpOSUVRcWpBVTZ3NWhKTDY?oc=5",
+    "published": "Mon, 27 Oct 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363537Z"
+  },
+  {
+    "id": "f4dc23071f",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - Los Angeles Daily News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDWTVqRm81SFAxbW5QX1ExM1huU3l5WG9uY0lZU25rYWJ6NjBTT1F3bktiR0dOYUNUWlVVbEl6ZTlTLWxGbG94MGFGay1ORDY0VldnZXVjUVBWbXJnUlk0S2ZWX1ZPTHFiLVFsRE00WWRnQ3ZlQ2l3djc2LTV2UQ?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363573Z"
+  },
+  {
+    "id": "7ff5cf9e3f",
+    "headline": "Council approves record $3.75M settlement with family of man fatally shot by Portland police - KGW",
+    "detected_amount": 3750000,
+    "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYzdCdkdFVW02YTJjV1NrZm83andlTUltMVNlQ0pZeWFpa2NEZVoya0NkcExRTFFrdkpCUnVTbjRXSUhJTVQtbkFCeDFiTUl3U055dmkyYmxTcHVfUGNDeVJ6aTJRQkpNWWY5WlNXOUlrdWtIVXJ1Qmlqb3lzemp2T2VfTWdnalF2RUFWaV9vQ1VGYUFyalM5TmVoUGVfdDRienpidk5BOWlicng5SExZbnhvX3VINGhCTkxuWDhiMW95OFBlbjkwN1l4SHZnLW5YU2lwQkVBZVRoR1hxTEdkR0hPbVN3ZkpDS0RhNy1pRXRBX3hkeEFZV3RlaUxoY09XajFQRQ?oc=5",
+    "published": "Thu, 07 Aug 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363592Z"
+  },
+  {
+    "id": "4ae6986be2",
+    "headline": "Cincinnati agrees to $1.45M settlement in fatal police shooting of man in 2015 - WKRC",
+    "detected_amount": 1450000,
+    "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQVmNJZ3RIenUzZXY1VnZaREtyT1NRUklfQzlRbzktVlJCcHpITWh2RUdfdUh1U25YakZMY0xFOXl0cmVsZDRiOTJxYVA5UjFnc19oR1Z0ODNrT3VUYUlxY0htcG9qeWs5Skh1OTJ4QTFlREJUbEFkWEp6YWtfMFNVcDROQmRQT1dXOE94a3g5WndLX0dEVjJ4U01uQUxWaFBUejZkcElpamJCUXFCbXRPRXBzbnRJYnduVWtUQV9tSmRFc1pkem03VmRFaDY2Z0NuLXVtMW9STHdKMVdjS2o4d1ZsMUhrRGREWDBwcU1WakZqZmViMDU5UUhXcnlvMkJoYms0emNVaGpnTmZiRlpHMkVocFpUT3k5TzJveU9QbS1ZRGdGWU1rc2xkZzhXaXY2Vmp6THdScV9VckRNR0FpbUd1UkZ5REQta3M0LUVrcnVEM3ZHdm16SXpQMnAtbGlQc2JJN1N1Mmhpc0pJdlgxWGx0ZHZRWm9oeDV4eUpUYUVELW12N21vRA?oc=5",
+    "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363597Z"
+  },
+  {
+    "id": "576ffd890f",
+    "headline": "City of Phoenix pays $1.2M settlement after police fatally shot man during manhunt for someone else - 12News",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORmJpOXNCaW1VZ3pzSVp4bkdDdkF1U2VtbmVhamRRMmZXN2RhWTNMeFVXMExTOGFFblNLdmU5QUNNYmNWb252WVN5NEF4em5XTTNHQTFZNTNiYnd5Rjhna1p6dTJvNlRTZFNxbFlDZjN6Q0w2R01SdGdmV0VrREdJMElvZENGcl81Q0sta1hWajl5SnhIOS0xWVZ0OVN2ZGJLSDN4MFNyb2d2OS1KWm1CODBRYlVpS2Eyd0VWWDdTVkdfcnBBaGpQR3JWemhxRHZma0pJTlVHMUh5Vi0yM3hPVUhVVG1DYTM3T1RXVVJFblp6ekU?oc=5",
+    "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363629Z"
+  },
+  {
+    "id": "c017cf8f14",
+    "headline": "Portland to pay $3.75 million settlement to family of man killed in 2022 police shooting - OregonLive.com",
+    "detected_amount": 3750000,
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFNRbDdGaFBUMlM2eVdNNjNoS21sbDdOMjVtRTR6blc1dmpoWXJIWGp0OUxESDRVU0xPMGVuZkFyNU5FcjRGY3ZMREExb05NTVBuZVRnMW43NVdTRXE1VURTaHZmMFdQQWxhbTB0b2d2OUFCRV9Pd2JwaHVmLXVuYlpvMHFMdllpTEpUV2ZpUHRwT2N0Tm1vN01hb3UzM09iT1FVWEE3dWwyeWcwTmNwNEJmeHFDWVFKR3RYY29WVkRVVUpRSWlzOWFvT0HSAeABQVVfeXFMT0EzWXc5OGU2Wk93Q0x5clFqRmdQaFFLYUJINGJrTE5Nd19XNWFlLWQ3Y2J5MXRGOGVweDI0RE16azFlaHlYeGRmV0tSSlJyeXllMzNjWU83b3lQNGw4WHpLYTI4eE1tUGJLRzJQX0VEcXVsdGh5YzhXN0trVzY3UE00Vnk5bnB1SlM5c3drczJFODdaM2lDcDM4RHVRSFhsOC1reE9vS3h0MFBpV3E5V1p4Z1dScThleTByRkxJUzhNVFRaWE9ZVzZLb1hIN0VOd29hUzVTajhFbmlqY3JhdDc?oc=5",
+    "published": "Fri, 01 Aug 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-21T14:12:33.363640Z"
   }
 ]
