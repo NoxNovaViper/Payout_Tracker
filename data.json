@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-06-21T00:00:00Z",
+  "cases": [
+    {
+      "id": "cox-2023",
+      "name": "Randy Cox",
+      "location": "New Haven, CT",
+      "amount": 45000000,
+      "date": "2023-06-12",
+      "category": "Failure to Provide Care",
+      "summary": "Left paralyzed from the chest down after officers transported him handcuffed and unbelted in a police van that braked sharply; officers allegedly mocked his pleas for medical help.",
+      "source_name": "WBUR",
+      "source_url": "https://www.wbur.org/news/2023/06/12/police-misconduct-settlement-historic-new-haven-connecticut"
+    },
+    {
+      "id": "wilson-2025",
+      "name": "Konoa Wilson",
+      "location": "San Diego, CA",
+      "amount": 30000000,
+      "date": "2025-12-09",
+      "category": "Wrongful Shooting",
+      "summary": "A 16-year-old fleeing gunfire fired by someone else was shot twice in the back by an officer who gave no warning before firing.",
+      "source_name": "Voice of San Diego",
+      "source_url": "https://voiceofsandiego.org/2025/12/12/sacramento-report-lethal-force-reform-cost-san-diego/"
+    },
+    {
+      "id": "floyd-2021",
+      "name": "George Floyd",
+      "location": "Minneapolis, MN",
+      "amount": 27000000,
+      "date": "2021-03-12",
+      "category": "Wrongful Death",
+      "summary": "Died after an officer knelt on his neck for over nine minutes during an arrest over a suspected counterfeit bill, sparking nationwide protests.",
+      "source_name": "Romanucci & Blandin",
+      "source_url": "https://www.rblaw.net/experience-27-000-000-settlement-civil-rights-police"
+    },
+    {
+      "id": "benitez-2025",
+      "name": "Francisco Benitez",
+      "location": "Chicago, IL",
+      "amount": 18500000,
+      "date": "2025-10-16",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 34 years in prison for a double murder he did not commit after evidence was allegedly fabricated by Chicago police.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2025/10/16/chicago-pay-356m-settle-6-police-misconduct-cases"
+    },
+    {
+      "id": "mcclain-2021",
+      "name": "Elijah McClain",
+      "location": "Aurora, CO",
+      "amount": 15000000,
+      "date": "2021-11-19",
+      "category": "Wrongful Death",
+      "summary": "An unarmed massage therapist walking home was placed in a carotid hold by officers, then injected with ketamine by paramedics; he died days later. He was not suspected of any crime.",
+      "source_name": "Colorado Sun",
+      "source_url": "https://coloradosun.com/2021/11/19/aurora-elijah-mcclain-settlement/"
+    },
+    {
+      "id": "taylor-2020",
+      "name": "Breonna Taylor",
+      "location": "Louisville, KY",
+      "amount": 12000000,
+      "date": "2020-09-15",
+      "category": "Wrongful Death",
+      "summary": "Shot multiple times in her own apartment when officers executed a no-knock warrant during a botched drug raid.",
+      "source_name": "Fairmont Post",
+      "source_url": "https://fairmontpost.com/new-york-tops-list-of-states-payouts-for-police-misconduct-settlements-followed-by-illinois-and-pennsylvania/"
+    },
+    {
+      "id": "murray-2026",
+      "name": "Jack Murray",
+      "location": "Elk Grove Village, IL",
+      "amount": 10500000,
+      "date": "2026-06-17",
+      "category": "Wrongful Death",
+      "summary": "Fatally shot by officers who responded to his own 911 call during a mental health crisis. Believed to be the largest reported settlement for a non-bystander police shooting in Illinois history.",
+      "source_name": "Daily Herald",
+      "source_url": "https://www.dailyherald.com/20260617/news/elk-grove-village-approves-10-5-million-settlement-in-fatal-police-shooting/"
+    },
+    {
+      "id": "reed-2026",
+      "name": "Carl Reed",
+      "location": "Chicago, IL",
+      "amount": 9500000,
+      "date": "2026-04-15",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 19 years in prison for a murder he did not commit, tied to a detective later found to have fabricated reports and physically abused suspects.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2026/04/15/4-months-year-chicago-has-spent-least-1756m-resolve-police-misconduct-lawsuits"
+    },
+    {
+      "id": "green-2026",
+      "name": "K'Aun Green",
+      "location": "San Jose, CA",
+      "amount": 8000000,
+      "date": "2026-01-13",
+      "category": "Wrongful Shooting",
+      "summary": "A college football player was shot by a San Jose police officer.",
+      "source_name": "ABC7 San Francisco",
+      "source_url": "https://abc7news.com/post/kaun-green-lawsuit-san-jose-city-council-approves-8-million-settlement-case-college-football-player-shot-police/18404044/"
+    },
+    {
+      "id": "blackmon-2025",
+      "name": "Eric Blackmon",
+      "location": "Chicago, IL",
+      "amount": 8000000,
+      "date": "2025-10-16",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 16 years in prison after being wrongfully convicted of a 2002 murder.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2025/10/16/chicago-pay-356m-settle-6-police-misconduct-cases"
+    },
+    {
+      "id": "rice-2016",
+      "name": "Tamir Rice",
+      "location": "Cleveland, OH",
+      "amount": 6000000,
+      "date": "2016-04-25",
+      "category": "Wrongful Death",
+      "summary": "A 12-year-old playing with a toy gun in a park was shot by an officer within two seconds of the patrol car arriving.",
+      "source_name": "PBS NewsHour",
+      "source_url": "https://www.pbs.org/newshour/nation/cleveland-agrees-to-pay-6-million-over-fatal-shooting-of-tamir-rice"
+    },
+    {
+      "id": "gray-2015",
+      "name": "Freddie Gray",
+      "location": "Baltimore, MD",
+      "amount": 6400000,
+      "date": "2015-09-09",
+      "category": "Wrongful Death",
+      "summary": "Suffered a fatal spinal injury while shackled and unrestrained in the back of a police transport van.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/sections/thetwo-way/2015/09/08/438561298/baltimore-reaches-6-4-million-settlement-proposal-with-freddie-gray-family"
+    },
+    {
+      "id": "garner-2015",
+      "name": "Eric Garner",
+      "location": "Staten Island, NY",
+      "amount": 5900000,
+      "date": "2015-07-13",
+      "category": "Wrongful Death",
+      "summary": "Died after an officer placed him in a chokehold while arresting him on suspicion of selling untaxed cigarettes.",
+      "source_name": "Police Brutality Center",
+      "source_url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/"
+    },
+    {
+      "id": "mcdonald-2015",
+      "name": "Laquan McDonald",
+      "location": "Chicago, IL",
+      "amount": 5000000,
+      "date": "2015-11-01",
+      "category": "Wrongful Death",
+      "summary": "A 17-year-old was shot 16 times by an officer; the city settled with his family before dashcam footage of the shooting was made public.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2021/03/13/look-big-settlements-us-police-killings"
+    }
+  ]
+}

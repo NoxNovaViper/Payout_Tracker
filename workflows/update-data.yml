@@ -1,0 +1,48 @@
+name: Refresh Ledger Data
+
+# Runs completely on GitHub's own infrastructure, on a schedule, with no
+# involvement from Claude/Anthropic or any third-party service. This is what
+# makes the site self-updating once it's deployed.
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # 00:00 and 12:00 UTC, every day
+  workflow_dispatch: {}       # lets you trigger a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Scan public news for new settlement reports
+        run: python scraper.py
+
+      - name: Stamp refresh time
+        run: |
+          python3 -c "
+          import json, datetime
+          with open('data.json') as f:
+              d = json.load(f)
+          d['generated_at'] = datetime.datetime.utcnow().isoformat() + 'Z'
+          with open('data.json', 'w') as f:
+              json.dump(d, f, indent=2)
+              f.write('\n')
+          "
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "the-ledger-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json pending.json
+          git diff --quiet --cached || git commit -m "Auto-refresh: scan for new settlement reports"
+          git push

@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ledger — Tracking the Cost of Police Misconduct</title>
+<meta name="description" content="An independent, self-updating public record of confirmed payouts U.S. taxpayers have made to settle police misconduct cases.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%231E3622'/%3E%3Ccircle cx='32' cy='32' r='30' fill='none' stroke='%23C99A4E' stroke-width='2'/%3E%3Ctext x='32' y='42' font-size='30' text-anchor='middle' fill='%23C99A4E' font-family='Georgia,serif'%3E%24%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EFEAE0;
+    --paper-deep:#E6DFD0;
+    --line:#D2C9B2;
+    --line-soft:#DEDACB;
+    --ink:#1B2A20;
+    --ink-soft:#5A6A5C;
+    --green:#2F5233;
+    --green-deep:#16241B;
+    --green-mid:#22381E;
+    --brass:#9C7A3D;
+    --brass-bright:#D7AE63;
+    --stamp:#9C3B2E;
+    --stamp-bg:#F2DCD6;
+    --conv-bg:#E2E6D8;
+    --conv-ink:#516043;
+    --shoot-bg:#E9DCD4;
+    --shoot-ink:#7A4B30;
+    --care-bg:#DCE2E0;
+    --care-ink:#3C5C56;
+    --radius:3px;
+    --maxw:1040px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      repeating-linear-gradient(transparent, transparent 35px, rgba(46,62,46,0.035) 35px, rgba(46,62,46,0.035) 36px),
+      var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',-apple-system,sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+  ::selection{background:var(--brass-bright);color:var(--green-deep);}
+  :focus-visible{outline:2px solid var(--stamp);outline-offset:2px;}
+
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px;}
+
+  /* ---------- Header ---------- */
+  header.site-header{
+    border-bottom:1px solid var(--line);
+    padding:22px 0;
+  }
+  .header-row{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+  .wordmark{display:flex;align-items:center;gap:12px;text-decoration:none;}
+  .seal{
+    width:38px;height:38px;border-radius:50%;
+    background:var(--green-deep);
+    border:1.5px solid var(--brass);
+    color:var(--brass-bright);
+    display:flex;align-items:center;justify-content:center;
+    font-family:Georgia,serif;font-size:20px;flex:none;
+  }
+  .wordmark-text h1{
+    font-family:'Fraunces',serif;font-weight:700;font-size:1.5rem;
+    margin:0;letter-spacing:0.01em;color:var(--ink);
+  }
+  .wordmark-text p{margin:1px 0 0;font-size:0.78rem;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;letter-spacing:0.02em;}
+  .live-pill{
+    display:inline-flex;align-items:center;gap:7px;
+    font-family:'IBM Plex Mono',monospace;font-size:0.72rem;
+    color:var(--green-deep);background:var(--conv-bg);
+    border:1px solid var(--line);
+    padding:6px 11px;border-radius:20px;
+  }
+  .live-dot{width:7px;height:7px;border-radius:50%;background:#3E7A45;flex:none;animation:pulse 2.4s ease-in-out infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.35;}}
+
+  nav.subnav{margin-top:14px;display:flex;gap:18px;flex-wrap:wrap;}
+  nav.subnav a{
+    font-family:'IBM Plex Mono',monospace;font-size:0.76rem;text-decoration:none;
+    color:var(--ink-soft);border-bottom:1px solid transparent;padding-bottom:2px;
+  }
+  nav.subnav a:hover{color:var(--ink);border-bottom-color:var(--brass);}
+
+  /* ---------- Hero / Meters ---------- */
+  .hero{padding:52px 0 36px;}
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;font-size:0.74rem;letter-spacing:0.12em;
+    text-transform:uppercase;color:var(--stamp);margin:0 0 10px;
+  }
+  .hero h2{
+    font-family:'Fraunces',serif;font-weight:600;font-size:clamp(1.6rem,3.6vw,2.5rem);
+    line-height:1.18;margin:0 0 14px;max-width:780px;
+  }
+  .hero p.lede{max-width:620px;color:var(--ink-soft);margin:0 0 36px;font-size:1rem;}
+
+  .meters{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+  @media (max-width:640px){.meters{grid-template-columns:1fr;}}
+
+  .meter{
+    background:linear-gradient(180deg,var(--green-mid),var(--green-deep));
+    border-radius:var(--radius);
+    padding:22px 24px 20px;
+    box-shadow:inset 0 0 0 1px rgba(215,174,99,0.18), 0 10px 26px -16px rgba(20,30,20,0.55);
+    position:relative;
+    overflow:hidden;
+  }
+  .meter::before{
+    content:"";position:absolute;inset:0;
+    background:repeating-linear-gradient(90deg, rgba(255,255,255,0.025) 0 1px, transparent 1px 9px);
+    pointer-events:none;
+  }
+  .meter-label{
+    font-family:'IBM Plex Mono',monospace;font-size:0.72rem;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--brass-bright);margin:0 0 10px;opacity:0.9;
+  }
+  .meter-value{
+    font-family:'IBM Plex Mono',monospace;font-weight:600;
+    font-size:clamp(1.9rem,5vw,2.7rem);
+    color:#F4E9D2;
+    letter-spacing:0.01em;
+    font-variant-numeric:tabular-nums;
+  }
+  .meter-sub{
+    margin-top:8px;font-size:0.78rem;color:#B9C9B4;font-family:'IBM Plex Mono',monospace;
+  }
+
+  .as-of{
+    margin-top:16px;font-size:0.76rem;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;
+  }
+  .as-of strong{color:var(--ink);}
+
+  /* ---------- Sections ---------- */
+  section.block{padding:44px 0;border-top:1px solid var(--line-soft);}
+  .block-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:22px;}
+  .block-head h3{
+    font-family:'Fraunces',serif;font-weight:600;font-size:1.5rem;margin:0;
+  }
+  .block-head .note{font-size:0.82rem;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;}
+
+  .ledger{border-top:1px solid var(--line);}
+  .row{
+    display:grid;
+    grid-template-columns:64px 1fr auto;
+    gap:18px;
+    align-items:start;
+    padding:18px 14px;
+    border-bottom:1px solid var(--line);
+    text-decoration:none;color:inherit;
+    transition:background 0.15s ease;
+  }
+  .row:hover{background:rgba(47,82,51,0.05);}
+  .row:hover .row-name{color:var(--green);}
+  .row-rank{
+    font-family:'Fraunces',serif;font-weight:600;font-size:1.6rem;color:var(--line);
+    line-height:1;
+  }
+  .row-date{
+    font-family:'IBM Plex Mono',monospace;font-size:0.74rem;color:var(--ink-soft);
+    white-space:nowrap;
+  }
+  .row-main{min-width:0;}
+  .row-name{
+    font-family:'Fraunces',serif;font-weight:600;font-size:1.08rem;margin:0 0 4px;
+    color:var(--ink);
+  }
+  .row-meta{font-size:0.86rem;color:var(--ink-soft);margin:0 0 6px;}
+  .row-summary{font-size:0.88rem;color:var(--ink-soft);margin:0;max-width:64ch;}
+  .tag{
+    display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:0.68rem;
+    letter-spacing:0.03em;text-transform:uppercase;
+    padding:2px 8px;border-radius:10px;margin-right:8px;
+  }
+  .tag.death{background:var(--stamp-bg);color:var(--stamp);}
+  .tag.conviction{background:var(--conv-bg);color:var(--conv-ink);}
+  .tag.shooting{background:var(--shoot-bg);color:var(--shoot-ink);}
+  .tag.care{background:var(--care-bg);color:var(--care-ink);}
+
+  .row-amount{
+    font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:1.05rem;
+    color:var(--green);white-space:nowrap;text-align:right;
+    font-variant-numeric:tabular-nums;
+  }
+
+  .row-date-col{display:flex;flex-direction:column;gap:4px;align-items:flex-start;}
+
+  @media (max-width:640px){
+    .row{grid-template-columns:1fr;gap:8px;padding:16px 4px;}
+    .row-rank{display:none;}
+    .row-amount{text-align:left;font-size:1.15rem;}
+  }
+
+  /* ---------- Pending ---------- */
+  .pending-row{
+    display:flex;justify-content:space-between;gap:14px;align-items:flex-start;
+    padding:14px;border:1px dashed var(--line);border-radius:var(--radius);margin-bottom:10px;
+    font-size:0.86rem;
+  }
+  .pending-headline{margin:0 0 4px;color:var(--ink);font-weight:500;}
+  .pending-meta{color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;font-size:0.74rem;}
+  .pending-amount{font-family:'IBM Plex Mono',monospace;color:var(--brass);white-space:nowrap;font-weight:600;}
+  .empty-pending{
+    font-family:'IBM Plex Mono',monospace;font-size:0.84rem;color:var(--ink-soft);
+    padding:16px;border:1px dashed var(--line);border-radius:var(--radius);
+  }
+
+  /* ---------- About / Footer ---------- */
+  .about p{max-width:68ch;color:var(--ink-soft);font-size:0.92rem;}
+  .about h4{font-family:'Fraunces',serif;font-size:1rem;margin:22px 0 6px;color:var(--ink);}
+  .about ul{padding-left:20px;color:var(--ink-soft);font-size:0.9rem;max-width:64ch;}
+  .about li{margin-bottom:6px;}
+
+  footer{
+    border-top:1px solid var(--line);
+    padding:28px 0 50px;
+    font-size:0.78rem;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;
+  }
+  footer .foot-row{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;}
+
+  @media (prefers-reduced-motion: reduce){
+    .live-dot{animation:none;}
+    html{scroll-behavior:auto;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="header-row">
+      <a class="wordmark" href="#top">
+        <span class="seal" aria-hidden="true">$</span>
+        <span class="wordmark-text">
+          <h1>The Ledger</h1>
+          <p>What U.S. police misconduct costs the public</p>
+        </span>
+      </a>
+      <span class="live-pill"><span class="live-dot" aria-hidden="true"></span> Auto-refreshes every 12h · independent, no affiliation</span>
+    </div>
+    <nav class="subnav">
+      <a href="#recent">Recent entries</a>
+      <a href="#largest">Largest payouts</a>
+      <a href="#pending">Newly spotted</a>
+      <a href="#about">About this ledger</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero wrap">
+    <p class="eyebrow">Public account — confirmed settlements &amp; judgments</p>
+    <h2>Every dollar here came out of a public budget to settle a claim of police misconduct.</h2>
+    <p class="lede">A running, sourced tally of confirmed payouts to people harmed by wrongful arrests, excessive force, wrongful convictions, and in-custody deaths — drawn from court filings, city council records, and reporting on each case.</p>
+
+    <div class="meters">
+      <div class="meter">
+        <p class="meter-label" id="year-label">Paid this year</p>
+        <p class="meter-value" id="year-total" data-target="0">$0</p>
+        <p class="meter-sub" id="year-sub">across 0 confirmed cases</p>
+      </div>
+      <div class="meter">
+        <p class="meter-label">Paid all‑time (tracked)</p>
+        <p class="meter-value" id="all-total" data-target="0">$0</p>
+        <p class="meter-sub" id="all-sub">across 0 confirmed cases</p>
+      </div>
+    </div>
+    <p class="as-of">Ledger last refreshed <strong id="as-of-date">—</strong>. "All‑time" reflects only the cases in this ledger — see <a href="#about">why that's not the national total</a>.</p>
+  </section>
+
+  <section class="block wrap" id="recent">
+    <div class="block-head">
+      <h3>Recent entries</h3>
+      <span class="note">sorted newest first</span>
+    </div>
+    <div class="ledger" id="recent-list"></div>
+  </section>
+
+  <section class="block wrap" id="largest">
+    <div class="block-head">
+      <h3>Largest payouts on record</h3>
+      <span class="note">ranked by amount</span>
+    </div>
+    <div class="ledger" id="largest-list"></div>
+  </section>
+
+  <section class="block wrap" id="pending">
+    <div class="block-head">
+      <h3>Newly spotted — awaiting verification</h3>
+      <span class="note">auto-detected from public news, not yet counted above</span>
+    </div>
+    <div id="pending-list"></div>
+  </section>
+
+  <section class="block about wrap" id="about">
+    <div class="block-head"><h3>About this ledger</h3></div>
+    <p>This page tracks <strong>publicly confirmed</strong> settlements and court judgments paid to resolve U.S. police misconduct claims — wrongful deaths, wrongful shootings, wrongful convictions, and failures to provide care in custody. Every figure links to its source.</p>
+    <h4>What the totals mean</h4>
+    <ul>
+      <li><strong>"This year"</strong> sums confirmed cases dated in the current calendar year.</li>
+      <li><strong>"All‑time (tracked)"</strong> sums every confirmed case in this ledger — it is not a claim about every settlement ever paid in the U.S. Most payouts are small, undisclosed, or simply never covered by press; independent analyses have put the true national total in the billions over the past decade alone.</li>
+    </ul>
+    <h4>How it stays current</h4>
+    <p>A scraper bundled with this site's source code scans public news coverage for new settlement reports roughly every 12 hours and lists candidates under "Newly spotted." Nothing moves into the confirmed ledger — or into the totals above — without a human checking the figure against a primary source first. That's a deliberate choice: a wrong dollar amount next to a real person's name is worse than a slower update.</p>
+    <h4>Independence</h4>
+    <p>This is a self-hosted, open project. It is not produced or operated by any AI company, law firm, or government body, and it does not speak for any of the people or families named on it.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot-row">
+    <span>Sources cited per entry. Figures are settlement/judgment amounts as reported; final distributions to families (after legal fees) are often lower.</span>
+    <span id="foot-updated">—</span>
+  </div>
+</footer>
+
+<script>
+// ---------- Fallback dataset (used if data.json / pending.json aren't reachable) ----------
+const FALLBACK_DATA = {
+  "generated_at": "2026-06-21T00:00:00Z",
+  "cases": [
+    {
+      "id": "cox-2023",
+      "name": "Randy Cox",
+      "location": "New Haven, CT",
+      "amount": 45000000,
+      "date": "2023-06-12",
+      "category": "Failure to Provide Care",
+      "summary": "Left paralyzed from the chest down after officers transported him handcuffed and unbelted in a police van that braked sharply; officers allegedly mocked his pleas for medical help.",
+      "source_name": "WBUR",
+      "source_url": "https://www.wbur.org/news/2023/06/12/police-misconduct-settlement-historic-new-haven-connecticut"
+    },
+    {
+      "id": "wilson-2025",
+      "name": "Konoa Wilson",
+      "location": "San Diego, CA",
+      "amount": 30000000,
+      "date": "2025-12-09",
+      "category": "Wrongful Shooting",
+      "summary": "A 16-year-old fleeing gunfire fired by someone else was shot twice in the back by an officer who gave no warning before firing.",
+      "source_name": "Voice of San Diego",
+      "source_url": "https://voiceofsandiego.org/2025/12/12/sacramento-report-lethal-force-reform-cost-san-diego/"
+    },
+    {
+      "id": "floyd-2021",
+      "name": "George Floyd",
+      "location": "Minneapolis, MN",
+      "amount": 27000000,
+      "date": "2021-03-12",
+      "category": "Wrongful Death",
+      "summary": "Died after an officer knelt on his neck for over nine minutes during an arrest over a suspected counterfeit bill, sparking nationwide protests.",
+      "source_name": "Romanucci & Blandin",
+      "source_url": "https://www.rblaw.net/experience-27-000-000-settlement-civil-rights-police"
+    },
+    {
+      "id": "benitez-2025",
+      "name": "Francisco Benitez",
+      "location": "Chicago, IL",
+      "amount": 18500000,
+      "date": "2025-10-16",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 34 years in prison for a double murder he did not commit after evidence was allegedly fabricated by Chicago police.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2025/10/16/chicago-pay-356m-settle-6-police-misconduct-cases"
+    },
+    {
+      "id": "mcclain-2021",
+      "name": "Elijah McClain",
+      "location": "Aurora, CO",
+      "amount": 15000000,
+      "date": "2021-11-19",
+      "category": "Wrongful Death",
+      "summary": "An unarmed massage therapist walking home was placed in a carotid hold by officers, then injected with ketamine by paramedics; he died days later. He was not suspected of any crime.",
+      "source_name": "Colorado Sun",
+      "source_url": "https://coloradosun.com/2021/11/19/aurora-elijah-mcclain-settlement/"
+    },
+    {
+      "id": "taylor-2020",
+      "name": "Breonna Taylor",
+      "location": "Louisville, KY",
+      "amount": 12000000,
+      "date": "2020-09-15",
+      "category": "Wrongful Death",
+      "summary": "Shot multiple times in her own apartment when officers executed a no-knock warrant during a botched drug raid.",
+      "source_name": "Fairmont Post",
+      "source_url": "https://fairmontpost.com/new-york-tops-list-of-states-payouts-for-police-misconduct-settlements-followed-by-illinois-and-pennsylvania/"
+    },
+    {
+      "id": "murray-2026",
+      "name": "Jack Murray",
+      "location": "Elk Grove Village, IL",
+      "amount": 10500000,
+      "date": "2026-06-17",
+      "category": "Wrongful Death",
+      "summary": "Fatally shot by officers who responded to his own 911 call during a mental health crisis. Believed to be the largest reported settlement for a non-bystander police shooting in Illinois history.",
+      "source_name": "Daily Herald",
+      "source_url": "https://www.dailyherald.com/20260617/news/elk-grove-village-approves-10-5-million-settlement-in-fatal-police-shooting/"
+    },
+    {
+      "id": "reed-2026",
+      "name": "Carl Reed",
+      "location": "Chicago, IL",
+      "amount": 9500000,
+      "date": "2026-04-15",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 19 years in prison for a murder he did not commit, tied to a detective later found to have fabricated reports and physically abused suspects.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2026/04/15/4-months-year-chicago-has-spent-least-1756m-resolve-police-misconduct-lawsuits"
+    },
+    {
+      "id": "green-2026",
+      "name": "K'Aun Green",
+      "location": "San Jose, CA",
+      "amount": 8000000,
+      "date": "2026-01-13",
+      "category": "Wrongful Shooting",
+      "summary": "A college football player was shot by a San Jose police officer.",
+      "source_name": "ABC7 San Francisco",
+      "source_url": "https://abc7news.com/post/kaun-green-lawsuit-san-jose-city-council-approves-8-million-settlement-case-college-football-player-shot-police/18404044/"
+    },
+    {
+      "id": "blackmon-2025",
+      "name": "Eric Blackmon",
+      "location": "Chicago, IL",
+      "amount": 8000000,
+      "date": "2025-10-16",
+      "category": "Wrongful Conviction",
+      "summary": "Spent 16 years in prison after being wrongfully convicted of a 2002 murder.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2025/10/16/chicago-pay-356m-settle-6-police-misconduct-cases"
+    },
+    {
+      "id": "rice-2016",
+      "name": "Tamir Rice",
+      "location": "Cleveland, OH",
+      "amount": 6000000,
+      "date": "2016-04-25",
+      "category": "Wrongful Death",
+      "summary": "A 12-year-old playing with a toy gun in a park was shot by an officer within two seconds of the patrol car arriving.",
+      "source_name": "PBS NewsHour",
+      "source_url": "https://www.pbs.org/newshour/nation/cleveland-agrees-to-pay-6-million-over-fatal-shooting-of-tamir-rice"
+    },
+    {
+      "id": "gray-2015",
+      "name": "Freddie Gray",
+      "location": "Baltimore, MD",
+      "amount": 6400000,
+      "date": "2015-09-09",
+      "category": "Wrongful Death",
+      "summary": "Suffered a fatal spinal injury while shackled and unrestrained in the back of a police transport van.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/sections/thetwo-way/2015/09/08/438561298/baltimore-reaches-6-4-million-settlement-proposal-with-freddie-gray-family"
+    },
+    {
+      "id": "garner-2015",
+      "name": "Eric Garner",
+      "location": "Staten Island, NY",
+      "amount": 5900000,
+      "date": "2015-07-13",
+      "category": "Wrongful Death",
+      "summary": "Died after an officer placed him in a chokehold while arresting him on suspicion of selling untaxed cigarettes.",
+      "source_name": "Police Brutality Center",
+      "source_url": "https://policebrutalitycenter.org/police-brutality/lawsuit-settlements/"
+    },
+    {
+      "id": "mcdonald-2015",
+      "name": "Laquan McDonald",
+      "location": "Chicago, IL",
+      "amount": 5000000,
+      "date": "2015-11-01",
+      "category": "Wrongful Death",
+      "summary": "A 17-year-old was shot 16 times by an officer; the city settled with his family before dashcam footage of the shooting was made public.",
+      "source_name": "WTTW News",
+      "source_url": "https://news.wttw.com/2021/03/13/look-big-settlements-us-police-killings"
+    }
+  ]
+};
+const FALLBACK_PENDING = [];
+
+const CATEGORY_CLASS = {
+  "Wrongful Death": "death",
+  "Wrongful Conviction": "conviction",
+  "Wrongful Shooting": "shooting",
+  "Failure to Provide Care": "care"
+};
+
+const fmtMoney = n => '$' + Math.round(n).toLocaleString('en-US');
+const fmtDate = iso => {
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+};
+
+async function loadJSON(path, fallback){
+  try{
+    const res = await fetch(path, { cache: 'no-store' });
+    if(!res.ok) throw new Error('status ' + res.status);
+    return await res.json();
+  }catch(e){
+    return fallback;
+  }
+}
+
+function animateCount(el, target, duration){
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce){ el.textContent = fmtMoney(target); return; }
+  const start = performance.now();
+  function tick(now){
+    const p = Math.min(1, (now - start) / duration);
+    const eased = 1 - Math.pow(1 - p, 4);
+    el.textContent = fmtMoney(target * eased);
+    if(p < 1) requestAnimationFrame(tick);
+    else el.textContent = fmtMoney(target);
+  }
+  requestAnimationFrame(tick);
+}
+
+function rowEl(c, rank){
+  const a = document.createElement('a');
+  a.className = 'row';
+  a.href = c.source_url || '#';
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+
+  const dateCol = document.createElement('div');
+  dateCol.className = rank ? 'row-rank' : 'row-date-col';
+  if(rank){
+    dateCol.textContent = String(rank).padStart(2,'0');
+  } else {
+    const d = document.createElement('span');
+    d.className = 'row-date';
+    d.textContent = fmtDate(c.date);
+    dateCol.appendChild(d);
+  }
+
+  const main = document.createElement('div');
+  main.className = 'row-main';
+  const name = document.createElement('p');
+  name.className = 'row-name';
+  name.textContent = c.name;
+  const meta = document.createElement('p');
+  meta.className = 'row-meta';
+  const tag = document.createElement('span');
+  tag.className = 'tag ' + (CATEGORY_CLASS[c.category] || 'death');
+  tag.textContent = c.category;
+  meta.appendChild(tag);
+  meta.appendChild(document.createTextNode(c.location + (rank ? ' · ' + fmtDate(c.date) : '')));
+  const summary = document.createElement('p');
+  summary.className = 'row-summary';
+  summary.textContent = c.summary;
+  main.appendChild(name);
+  main.appendChild(meta);
+  main.appendChild(summary);
+
+  const amount = document.createElement('div');
+  amount.className = 'row-amount';
+  amount.textContent = fmtMoney(c.amount);
+
+  a.appendChild(dateCol);
+  a.appendChild(main);
+  a.appendChild(amount);
+  return a;
+}
+
+function pendingEl(p){
+  const wrap = document.createElement('div');
+  wrap.className = 'pending-row';
+  const left = document.createElement('div');
+  const h = document.createElement('p');
+  h.className = 'pending-headline';
+  h.textContent = p.headline;
+  const meta = document.createElement('p');
+  meta.className = 'pending-meta';
+  const src = p.published ? p.published : '';
+  meta.textContent = 'Detected ' + (p.detected_at ? new Date(p.detected_at).toLocaleDateString('en-US') : '') + (src ? ' · ' + src : '');
+  left.appendChild(h);
+  left.appendChild(meta);
+  const right = document.createElement('div');
+  right.className = 'pending-amount';
+  right.textContent = p.detected_amount ? '~' + fmtMoney(p.detected_amount) : '—';
+  wrap.appendChild(left);
+  wrap.appendChild(right);
+  wrap.style.cursor = 'pointer';
+  wrap.addEventListener('click', () => { if(p.source_url) window.open(p.source_url, '_blank', 'noopener'); });
+  return wrap;
+}
+
+(async function init(){
+  const data = await loadJSON('./data.json', FALLBACK_DATA);
+  const pending = await loadJSON('./pending.json', FALLBACK_PENDING);
+  const cases = (data.cases || []).slice();
+
+  const thisYear = new Date().getFullYear();
+  const yearCases = cases.filter(c => new Date(c.date + 'T00:00:00').getFullYear() === thisYear);
+  const yearTotal = yearCases.reduce((s,c) => s + c.amount, 0);
+  const allTotal = cases.reduce((s,c) => s + c.amount, 0);
+
+  document.getElementById('year-label').textContent = 'Paid in ' + thisYear;
+  document.getElementById('year-sub').textContent = 'across ' + yearCases.length + ' confirmed case' + (yearCases.length === 1 ? '' : 's');
+  document.getElementById('all-sub').textContent = 'across ' + cases.length + ' confirmed case' + (cases.length === 1 ? '' : 's');
+
+  const yearEl = document.getElementById('year-total');
+  const allEl = document.getElementById('all-total');
+  animateCount(yearEl, yearTotal, 1700);
+  animateCount(allEl, allTotal, 1900);
+
+  const generated = data.generated_at ? new Date(data.generated_at) : new Date();
+  const stamp = generated.toLocaleString('en-US', { month:'short', day:'numeric', year:'numeric', hour:'numeric', minute:'2-digit' });
+  document.getElementById('as-of-date').textContent = stamp;
+  document.getElementById('foot-updated').textContent = 'Ledger data as of ' + stamp;
+
+  const recent = document.getElementById('recent-list');
+  cases.slice().sort((a,b) => new Date(b.date) - new Date(a.date)).forEach(c => recent.appendChild(rowEl(c, null)));
+
+  const largest = document.getElementById('largest-list');
+  cases.slice().sort((a,b) => b.amount - a.amount).forEach((c,i) => largest.appendChild(rowEl(c, i+1)));
+
+  const pendingList = document.getElementById('pending-list');
+  if(pending && pending.length){
+    pending.slice(0, 12).forEach(p => pendingList.appendChild(pendingEl(p)));
+  } else {
+    const empty = document.createElement('p');
+    empty.className = 'empty-pending';
+    empty.textContent = 'No unverified reports right now — the next automated scan runs within 12 hours.';
+    pendingList.appendChild(empty);
+  }
+})();
+</script>
+</body>
+</html>
