@@ -1938,5 +1938,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-06-22T04:19:37.428636Z"
+  },
+  {
+    "id": "851dd6f444",
+    "headline": "Aldermen advance $27 million settlement for woman killed in Chicago police chase - Chicago Tribune",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWm5qZHZjZXNoUzJ3dGdlZXVadV9TQXl2XzZJV3hKZWZYc2RTUk9xWkJISlhaWEo4aEN2M1l2WkdBUDJ4MUtYV3NHdGhfT05lS0ZLdVdrSThmcExONmFPUndETmFobnA5eWhjb2o1U3V1VVpzelc3WWtDU2RjU2RXN2R2TmdnUzlRa203R01yTklrUFBhSV8zM3V4SmtKQTRG?oc=5",
+    "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T16:59:09.638374Z"
   }
 ]
