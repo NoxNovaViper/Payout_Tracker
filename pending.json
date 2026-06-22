@@ -1838,5 +1838,105 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-06-21T14:12:33.363640Z"
+  },
+  {
+    "id": "77b355f5c5",
+    "headline": "$13 million proposed settlement latest in police torture case tied to ex-Cmdr. Burge - Chicago Tribune",
+    "detected_amount": 13000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk5lZDh0WnZ2R2JmNXJMNmUwdFVqV3hZRTN0b2xHbGRDTk83YjZGY2xTX1NRTmxqSGVyZUgtbk9YZ2VKMzZpSzViQmFiSHhVZlp5UnVCTEw2Sk40YkNLQUhEMkh2c1l2MkVhUm5JWm4yRDZsVFJmTk14akZ0OE1GX0x4WjNQSF9EUGFWZW1B?oc=5",
+    "published": "Thu, 14 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326332Z"
+  },
+  {
+    "id": "78b3861013",
+    "headline": "Family of deaf woman settles lawsuit with North Las Vegas police for $1.2 million - ktnv.com",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2stVm5KMll4VWxiSE91UGFwWThmY25xWTZrQ1pqdjk4YWI2M2ZPSFIwYmNLc3FualJhd0hfOTR1MTRpZVpYTktGSkxOSnBxZ3ZaRzFCa1IzeWFnOHhBTzNWTFFBXzJCLVZyQUEwRTYxN0dUd3R3c3RNamlZR0JIUWIwLVUwREJxbjgzMjM1NERWMjZINTdxVVllR21nSU1USGlHWVhibnVIUQ?oc=5",
+    "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326386Z"
+  },
+  {
+    "id": "de9a5c53a1",
+    "headline": "Topeka settles police discrimination lawsuits for $1.025M - The Topeka Capital-Journal",
+    "detected_amount": 1024999,
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHVBY1Z1Y1I0WFYyNXQ5M1EzcVJ3RFdCSnBkbjFLUFNybXFYX1dQTFQwcUFiMGJrSjNvODlzaFo3YkM1OWpldjlMYVNFQm9UZDU0S3VaN2U3T0ZEX2pDSllGaWdfMHpmaEdjelJuaEZNZjgzRWhCSFRrYzFFakJ4aXFNRnlDN2p0a3NEVlJicG1qUnhoQVFtZDRIRGlFbGttNzdRWFFvZ1Z1XzFqSFBmMlBsVFZCamVHVTVxRw?oc=5",
+    "published": "Fri, 01 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326394Z"
+  },
+  {
+    "id": "c93e64e042",
+    "headline": "Upstate NY city to pay $700,000 to settle police misconduct lawsuit - Syracuse.com",
+    "detected_amount": 700000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTk3TUY2ZXJIQkpHUDlYbEZ1d3FCNlhhSWtpOWdRNkNZYmQ0bjk4clZKWVo3Q2YxZW1DVktueV90MFFaeE5UM0FLeDdUM3FGTUJXOERqb0hUOTNlVEljdVltbE1rSlBqU211QUVMZVJiaVRFNldGcmpudHQ5S1gxU2VTaFE2NEphVlNKb1k3M284aDhDU0hZbTRzUjJ3VnFjSjVmZDFaSEJxdElncEHSAcIBQVVfeXFMTlIxZUdPMEFLeTdiakxQcTd3aFZtY19td3ZfcU53NVloRVFQaFhEbUpaeGNIN056N1lVdXo5MTF5dlllNGgwUDRackw0Z2I1YjRLZmNaQTZRc1cyQTY1YURmc3hDUkc0QU9vVzFLa3NsNVZ1VFEzMUxwU1dmcjMtR2hvMkktX1NtRWl5QXJfSHdNV1NZQ1UtM1hkSzZNMjAtMFpCbFY2RktqdzBUNy1tbEhUV1ItY3dQajJlZmtTWUN5YkE?oc=5",
+    "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326430Z"
+  },
+  {
+    "id": "9a05dc0446",
+    "headline": "Aldermen to weigh $8.25 million settlement in fatal crash during high-speed police chase of stolen car - CBS News",
+    "detected_amount": 8250000,
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVdpektfSmRxTUVWRUVISFF5T3VudFp2MkZDYW9zT0FwdnNSQ0FETHd3YXV4Z2ZxZnl1R3NlVjk0WTllNURIcG10NmFPNF9kRFBjbnBVMFpHSG0yN042dFZja1NmcUpPdUNwOVlzdWdFX0JZSHdsOWloYVRfc3ZTZGFIalpsX3BBc1BRMGRlbEVVNGNJZ2UtaXJMbWxiZVZZR3lSWWFxNXh1ZVUyRjRaTGo0YTMta1RFNGpRaDRTRS1BWlJXYVNLTDRB0gHPAUFVX3lxTFBkUGRjc0lWNEJCQ2xCNWx5Q0ttYW9hT0ZrQUxzQV8xV2VjUnJUUVJqNmNIZjAyamgzZlZFQ21wQ2hMaEZRQ0VCUzh5U3FIMXR0aTktQzZZTU1jQkwwbmtscXVvS20xRDltWklPNTJ5dllta2tGZjFSWDc5a2dVbFVNY242WnZkajUwa1VfeTB5dElITmlVTVZzUFM5OFRQUnV4TnFiQ21oN2pwMnotZGpBM282VmRRV0ItZEJIc25XYUtJaGlyMXVPNFNYTXFxZw?oc=5",
+    "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326440Z"
+  },
+  {
+    "id": "473fe10e4a",
+    "headline": "City lawyers recommend $22 million settlement for family of man killed in crash during Chicago police chase - CBS News",
+    "detected_amount": 22000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUU1IQzlUWGEyS3B4OG40LTZjaDJ2X0YzUmFFZmF5VDRoWjc2bm1fUnNKVFIyVHNyM0Y3U0pOZFV3dVVWeENkbVFmelhyU3p1SzVDTHpQQnRKbl9VbzRfX2xrenhTWmg5alVUaDU2REl3UEpoc1lMVFNSNHBxVElTWlNlWlR6OGdHQl9vaDNuNVFucndBanM1QlhHUUpueTlyOHhSdUFrUjNUdnRkcjU3Qzk5TS1nTnptbktQN2lWOWduay1ycmJKY0thMNIB0AFBVV95cUxOZnY4cTd2ZUx2YjVxWldMVU9LZTRoYmUtWWxKWWFQU3RhcnpGb1FDTWVCRjZOWnpsRmFKeUo2YWd1aGUzeTFzcUJ0SGhrVDYyUW4zUWl5ejF4ZTg5SktBNWtGT0Y2cjBEdFNORXZEUVpDOE9HMG9UY3dKWkliN2VaazVjWTBPRmRmaGRpT2c4N1JIcWRwQ2cyZHZyZkI1VWlBdENnMjd6eElMamJoS3BOTHJ3OUFMYnZDS3BGZGllQ095T05uU0VtUTZmTTNyUlhw?oc=5",
+    "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:31.326459Z"
+  },
+  {
+    "id": "288e3ca963",
+    "headline": "San Diego City Council Approves $30 Million Settlement in Fatal Police Shooting of Konoa Wilson, 16 \u2014 Largest Ever in U.S. History - OB Rag",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa1FwWldxMUFXbnM5TlRrWjI0T3JrY3BYdHdwMXNNckJrVXFrSDBBdlpueFdiQVkwbW0tQmc1b1pMU0kzalFZQ3BWTk9MUkNFYkZzYl83QV83bHp0WmlQcEFZSHdsTU8xWjk4VVlYc2paY3I3YVNkRGM2bTdCcW51b2F4ZE45VE14MlNNNm1rWDFEc1JDb2V2amxzRWVneGdpUXIxX29EYUhDSzZXTktiSXZQTFp3aVR0cmE0VVdzQUpKMXpHMDhZMGkwQXJMSXhPem94c0lVT2JGakRFN0lZbkhjbFhNZFU?oc=5",
+    "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:32.887122Z"
+  },
+  {
+    "id": "2ef6855669",
+    "headline": "Family withdraws $1M lawsuit against Chattanooga, police officers, chief - Chattanooga Times Free Press",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGRfdmFXWFZhclFseUw5SXZnLU1zd21rdkhIM0hQM1VmMmhfRi14N0swbGZGSkxnNFJDam1rWGNnUlFpSFNVRjl6R2ZiRnNBajE4bk95STVSSE5PbjgtUUtmQTZZMWZlMjhicEdFNlJRcHZ1eDVERjRtUm40YTBHVVRFUnkzRWtXMEpOU3FvTlVjUjFEMHMtMQ?oc=5",
+    "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:35.945342Z"
+  },
+  {
+    "id": "e1af34ba04",
+    "headline": "San Bernardino pays nearly $5M settlement to family of Robert Brown, who was shot and killed by a police officer in 2023 - ABC7 Los Angeles",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2w1M3pfNUFHbWwtcjJnNWMtbW53bGhqdjB5bURlS2N4dzhOY3Z3QWwyRUtwWjd5WEY0NjA3TEJSRkFueUFGbnNlRENFOHI4czVQSUlYZWpFbWZQeEVMRUdCVkJTS2I0WVRXQzR0N1ItNTRYWXBkN3ByNFgyR3V2R0RqWnZmTlZpZk9SSDBIVHk0dWc5MEhwSHRHNHNxcEg4dmZlbkRleHNGcUN5R1BZdmkzbUN5QnZub0Fz0gHAAUFVX3lxTE0xclEzeUpRS0pKNzNjSWdhTkExY3ZROEcxOGJVNTVqaW9rUVlyVnc5ckVrRGJ2TGxBalctUm0zWG11RktoVWxEbVA2T0ltQ0laY1E4dl96OFZuVVZ6bzdFSmwxVmU3Tk5xRzNqSjNDaEhFQk1aRjZBWU5tbXhRVU5YOWg5MHF6TUNfbHJUUXNHNER4QTRZQ2ItVDZhNTU4UmRpN0l0S0dqd2tUZnZwcHNyMzlaUGlha0h3SHQzWk9nMg?oc=5",
+    "published": "Tue, 20 May 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:35.945502Z"
+  },
+  {
+    "id": "25e3f61bd7",
+    "headline": "Prince George\u2019s will pay Black and Latino officers $2.3 million to settle police discrimination lawsuit - The Washington Post",
+    "detected_amount": 2300000,
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdl8yNkpqU3c0M1h2azFob2UwMW8yb3ZMR1llTGhyeUJqZlc1MGVrdldqM05kZWJmcURpS2J4TUp5b3dNdnQwYnpYTjNiTHJqTkhIN0VBWXZ5UDJIVERsbVUtUDB0NmduVmdtMmlDZ3pEVVVEdkxGbzJrSjNEOFlEMFBQelRXN1RNaG5Oa21GdnJYcTNtRDVlV1NZejYyY3VOWVZhM0ZweXRnOGRlSnB4RmkwM3ZQYzhPTlQ2dmpVR25FdklaanhNejhUbmJRRFhxZ3NWclc5S2ZZbVFfT01DZVpHYw?oc=5",
+    "published": "Tue, 20 Jul 2021 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-06-22T04:19:37.428636Z"
   }
 ]
