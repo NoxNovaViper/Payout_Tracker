@@ -1948,5 +1948,45 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-06-22T16:59:09.638374Z"
+  },
+  {
+    "id": "885d126384",
+    "headline": "4 Months Into the Year, Chicago Has Spent at Least $175.6M to Resolve Police Misconduct Lawsuits - PBS",
+    "detected_amount": 175600000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekk1SWdGalhlZTlBbzNhVzluMzRiUXQzb2hQdlNCcHNBdFVLNlRMTkMtUFotVHhleFVvR1dFQThEaVJpY3dadm8xamlOSm5oZ2d0bGFvUDdaUnM0dk5PVU1wYUdjNjBDUnpqMEItSTlEYVYyTTNZZmYzX1NtRXhINzg1bFRNcEVQWjFTT0NMa2RtcF9fU0ZsTTFyRVhnX1VOdnVhcU41M29UN1ZzVkJKbnhPME1ZV0xvbVhndDVYNkRwVmZmWmc?oc=5",
+    "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-23T03:37:57.764577Z"
+  },
+  {
+    "id": "daca7c1cb2",
+    "headline": "Honolulu to settle lawsuit over police shooting of Micronesian teen for $1M - The Independent",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZGbnhzS2VPY2Fjak8zTFZlS2tUZVAydjlnUmc1NmY3Zk5TMFRMeDFOZjlmZXBLb3VMbkw0dlhlYlV4SFNfZ3NsR3I1UzNnTFVTUWFaZ2ltcVdzWGRieDJ6QkdwRzdrcmotWlpMVW9UeVpqZHIzbTlYcHhLeTJCX3lMclJIZlE?oc=5",
+    "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-23T03:38:02.296904Z"
+  },
+  {
+    "id": "6ba296b83a",
+    "headline": "Milwaukee moving toward $7 million settlement in police misconduct suit, city's 2nd largest ever - Milwaukee Journal Sentinel",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkhNNTFpU0tSbmxDVXNsVGdXbUdMUE9BZHlwV2NZMXpFTDNic1RPWjBMQ24wVzFxWDdWRTBNVU5iRV9nMzhPT01oSlRmQzdWQTNCUHJ2Q2dxV2RfVTJGdDJueFVNRE1tenUzTXR1eGVjdXBSdVlxQ3FFZmk3Q3VwRXN2ejZHX09EMFFrZ0pfTmY1RWpmdlF0YWdMZWFPbGRsa0lTYnB3d21iUzlrZ3NXeTZpVS1hS21mRVR5eF9zMGQ5M05zd0o1TnJuQ2RTRTVMYjVxZA?oc=5",
+    "published": "Fri, 09 May 2025 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-06-23T03:38:03.809308Z"
+  },
+  {
+    "id": "07a211b2fa",
+    "headline": "Thabo Sefolosha settles lawsuit vs. 5 NYPD officers for $4 million - ESPN",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVY4VURNT3pGTlNuc3hXeXc3bnc1THFlTFY1czZaa0VVZkJ4SlpOcFBMV0dTODY3SEZGN3hpWGpmSl9NT3JpRG5JVER6VDY1SnZqUlpMZ2ZNenRUbjk3N0ZjQVM3RTVUeGxId1BUeDZnZzJtYmRZV0Z6VzRTbWNOQmtTSXdPaDFobTRwMVljdmR1WHJFRmFjc1F2WDNlUUZVQ0VHb3JNcWtOd0lMMmxEZFZSenoyUVZvTkdUc3VwUUVlaUpEWTJnMQ?oc=5",
+    "published": "Wed, 05 Apr 2017 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-23T03:38:05.299503Z"
   }
 ]
