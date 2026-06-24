@@ -2418,5 +2418,95 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-06-23T14:50:16.623797Z"
+  },
+  {
+    "id": "177c5c1e78",
+    "headline": "Family of Jaahnavi Kandula, Pedestrian Killed by SPD Officer in 2023, Reaches $29,011,000 Settlement with City - PubliCola -",
+    "detected_amount": 29011000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX09PVlZaeVoyMjVnbFREemZXbV9aaTRQT1hwd3VjWU13akNQbEpFTGZqWFVMcWw3aldfVDZOU2pXbG9memx2aWl3dndKVjBCMTUzR3c0N25TMmRhR0tNM1ZrdUdNQ1Nxa3V6UE8tcVFMSkJsaEE5RXFwMnB1OFVkc1NRdWZITUdNX3hXWU5fSEVsRDJGV3poUFBtZmhxbUo1RUo0TFVRTkszQ3Zmd256bUZFdURselEzN3RR0gHAAUFVX3lxTE53RlFUN256QlhRODhHMml5ZVZVRjc4bTZGVmpGY0x6M1YybFFHS05FSlZXa3lJQmNFMFR4SVJZWDlTZVktRF9vT0htVWFqaGFRQmxURWo5azIzMURLSWx3LTI5VlNqc1NrMkd0RGtFS3ZoM3IzdW9HNnBJNnVFVE01WjJRVld1UlJBeFhpVlVaMnl1OVRfcnUyeTM2NDZnSVd1VlQwWUw2ODBMbkxXaGNoMmZ1TU5GNV9wcDZoc0tlSg?oc=5",
+    "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:35.365927Z"
+  },
+  {
+    "id": "786787d641",
+    "headline": "Chicago has authorized nearly $67M in police misconduct settlement payments so far in 2021, data shows - ABC7 Chicago",
+    "detected_amount": 67000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFQ1aTUtRWRteUl2Tm95VnhJZTVvekxzcF9EcFpVYzRFVXk5Y3UwekEwUVlITF81UjBRRTZTbkdUcnV2R1NpQ01FeVZ1d3ZFTmVibWRaanJaUU5RNXMwd01rS0ZVZ3VzbFdEeDZLUjJBWkE5d2FVQXNkM1hELTB5emt5Uml4a0ZJR2fSAY8BQVVfeXFMTk1UU29YN2VkWHczdFRNYUg0eXNHQUlYTEd5eGV1UHdLZDBPRU8ydUI5bVBxbUhyYzlLVHdpT0ZRZmVBNGVHRjB6MXM1M3NoRVpIQzZ6d1NDWmFYekpoMngza0UtM1lDNDBBakoxdUl6Y0Y1NXN4eHNlRVd2Rnk4em5EaWYyMzlYSGg2c0Uyb0U?oc=5",
+    "published": "Mon, 13 Dec 2021 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905195Z"
+  },
+  {
+    "id": "ffe1949636",
+    "headline": "City Council approves $3 million in police settlements, delays nomination of COPA Chief - FOX 32 Chicago",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGFIODR2d3RiNHVFek5OcEZCcmpwUjRqaTAxM01wV3k1R3o5eWtBVHhvOWpNa2UwelNEdV80T3J2Q2dRLTQ1RXU0NmVzSG1WSGcwcW5Uc1VTLUdaa1g0emg3S2kyLVVRV3ZsaVVWRS1LRDVFd3dwelViZ3FITnlVZ3p1UloyVlVnZDZJZjBSc1Y0czFaM3lsNXNoRTJOdkZMNTlPZktmMll4ZTZXb1p5eG1sWdIBuAFBVV95cUxQWnJUNDdiV2xmajFKZ3UxM2hvWU9yNUt3bWYwdkxGOXhOcUNNM2hXbFlqSVBiQmZTQk1DZHVETXllSnZWaVlncnc3ZldOY2drVVFkTVVoa2MwXzFsY1VvMEc0cVVVc3BVY1hPajVwWXdOMnpqMVBlV3Q0MGxZN1BBX0FtZWxaWlVMcXhxM3hCV2tKb3lZZW5JTXNqczBrR0lLTF9YdkVuNndpSUJoU3dwUF9fcTFCSHp5?oc=5",
+    "published": "Wed, 17 Nov 2021 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905270Z"
+  },
+  {
+    "id": "2299a73f36",
+    "headline": "$1.1M in police misconduct settlements approved in Baltimore - WBAL-TV",
+    "detected_amount": 1100000,
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmptM3dXV0l5bzZFTGpKa3dHUVBpd21GeS1QSzVrb3NrUUxTd2o0Y0I5UFZwa3dhWkxUeHJxakhMekNvNFdzcWJYNHNHNEV2Q2JUZlZFYTV6MjNVa0JIR3RDMGo5Ync4WTdEQzFEY0w3Z2RaN01IellpNjRmeEp6NXBLVlpMVzZyOGtZQXNMa1BJRXAtOGVSZXprNmxNS0pvR3Bfa09EclF1MUN4aVpNUi15T0phc1ktb05pbnkyUQ?oc=5",
+    "published": "Wed, 12 Aug 2020 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905277Z"
+  },
+  {
+    "id": "5e5bece94b",
+    "headline": "City Council Set To Approve Almost $5 Million In Police Misconduct Settlements - WBEZ Chicago",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HN3FKZms1R3l6RTdDb1h2WUlpOFJUZFlrXy10VFlib2Y3a2lkVmlwU21Xc3BTVGczRW52UHdvQnhRUnd6b09Xd1NUdzlBZFBsRW53cDdJbHN3dGZLVkNnZ01JbjhqSWlHZ2RjbjVJYWdQSURBZ0E?oc=5",
+    "published": "Tue, 19 Jul 2016 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905307Z"
+  },
+  {
+    "id": "ce73520d6b",
+    "headline": "Police Misconduct Lawsuits Cost Taxpayers $40 Million In 2020, Report Shows \u2014 And Costs Are Growing - Block Club Chicago",
+    "detected_amount": 40000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT28tdk44aEhlQVJlV05sUUN0TlpiNWVTbkpEZEVoQk9wVmNESEZ0RGpSQnk5LUF3cWU4M21yUDM0X1FuY0FnUkN5Z3gydEZrS2dtNEZZQVhXNDNody1YNHlPWGYyUkZVSnFfaWhUZWx5eWRtWWhGNTI1RTNFWkZWaDFGOW50NmZrTGVlVVFuMjh1a250ajNhV1d1NXM5cWxOTV83OEZwbkliLTdGcXZpUzZTU0J3aXF1SFJ6WDFYUmxRMm9DQmNUd2NNeldoU2FxN01Ha29LaXM2UE1SWVlVR0lIbFhoX3pz?oc=5",
+    "published": "Thu, 10 Mar 2022 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905374Z"
+  },
+  {
+    "id": "256a3537e4",
+    "headline": "KARE 11 Investigates: Minneapolis police misconduct payouts top $70 million - kare11.com",
+    "detected_amount": 70000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0MwVlp6Q25xSnNhQ2hXRS1yRkl5bW5lUGhkRUR4QlFoYlJmVHpMT0FvalRDall1bG1CRk9VSFF0NFVQMHJieTE4OU0taFEzcHR1alpVelBQVEZiTlpFY0ZkUUYteWNDcTZZOWJrX0V3TTlWQVRCZkFJUllNRC1XTTJrc2k3Q25GQVNhTWs3c3RadjRfNVZzSWh3QWdlYlNNRU10NnVsU3hSTnNJWFZQR003eGNVN0N4d1RLTllRNV9fellBSmdTVEhRMG5ieUYtOGtySmxub2ttaUE?oc=5",
+    "published": "Fri, 12 Mar 2021 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:36.905391Z"
+  },
+  {
+    "id": "0723579613",
+    "headline": "Daunte Wright\u2019s family has reached a $3.25 million settlement with Brooklyn Center, Minnesota, in his deadly police shooting - CNN",
+    "detected_amount": 3250000,
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qTE14LUFDNUJJYU9hamhjVW5COFNia1hMSThRYV9FMXJmN0RmODlEWVN4T3ZoZG1kN1QyZk9BbVNPUXE5aDNrVzRzcnVFcHBvQXJGXzVxbTNzQjMzLUFzenZtZkdFRHpiOEtUNHJ2eXBRQzRiX3NoSktIYWNpMzg?oc=5",
+    "published": "Wed, 22 Jun 2022 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:40.092470Z"
+  },
+  {
+    "id": "ea809dd5e4",
+    "headline": "City agrees $1.9m settlement with Black family held at gunpoint by police - The Guardian",
+    "detected_amount": 1900000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnRVMmpRSHRvdEMzTFlUQjctZHFnYjZsbTVpdHI4Sk1qM19ETVM4TXI3LTdOZmE3V3RNUHIyZjJrX1BmRl9nMEJSNTRMYmVSUy10R3ZVSzE0NlhFektUS3R0U1A1NEs1WW80RldRUEtrU1RpVjQ0bDNtejg1RWVYOWRHT1U3cURtQjhpV21hOGJjeVBnZkg5NENqQTdVS25T?oc=5",
+    "published": "Tue, 06 Feb 2024 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-24T03:38:43.233300Z"
   }
 ]
