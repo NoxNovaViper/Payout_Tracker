@@ -2528,5 +2528,95 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-06-25T03:37:50.617572Z"
+  },
+  {
+    "id": "119ade24d4",
+    "headline": "City of Topeka approves $1 million settlement for police sex discrimination lawsuits - KSNT 27 News",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2ZsR01mMkJOUHF4bFVMaE53M1NmSVMyTWdXZV9LQ1FEbkxMUkZrZEQ0c2ZtZUdYSTVWZHBzNUg0TXBUYUJzSW1MdEx1Nks5T3RFejZwYWt6WUxDVC04MklkUFhJdXNwZXI2TlFwbngzejl3dm1WVTlMLWE1R1RJbHRVdUdyVnZxcGZZRkJfSGs4S0h2QXZ2UXdjeDNGUUZLZU95VW1ld3hJajdsXzFweV9fLTNaNTRtX1ppWXNR0gHDAUFVX3lxTE0ya09QUkFqWXFtUWFRRUp4U1kxMTUzeGU2RVhYZFVkMXhPTERUYnZUdnBPeTBtYmVPbkJKYUc3V1NPTmdfSEw1RVVjYlFZU24wbFZoZjlMMERoQ2VMbnYzdHA4YUU5SUpVN3hrb3BoLVRBNTJCM1MxbURXeG5VendFeDFqaVJZX214NmQwdGcydmhTaXhjeVlLbFpCZ1p1Z0J0Rk1kNUw4NEU0c2d3ZTJoa1RER2szWm52VE5MMHFkdmZUbw?oc=5",
+    "published": "Fri, 01 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:42.751520Z"
+  },
+  {
+    "id": "ffddb663ff",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - WOWT",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGZlbHJYRjNVNEJDSnpVbEJ5NEdrZ09Ua1padHVILW0xa2xDb2NDTmZpYVZYVW9kTFNkUHEtaGNXVnZCYjBXcjdCMHBVYmd6dXVZaTFJWl90TXhqWVlHbWxPYVJUdGdJenJMbkFzLVllekdyNkZiY29rdVVVTzRfZ2Y0Q1VJUDg4enB0NGk5M09KbUoyeTlkRXBsVk9wb09uUEl0T3lhajdGS0M2OFV5TFBEbktPS2fSAbcBQVVfeXFMTVhmZWxyWEYzVTRCQ0p6VWxCeTRHa2dPVGtaWnR1SC1tMWtsQ29jQ05maWFWWFVvZExTZFBxLWhjV1Z2QmIwV3I3QjBwVWJnenV1WWkxSVpfdE14allZR21sT2FSVHRnSXpyTG5Bcy1ZZXpHcjZGYmNva3VVVU80X2dmNENVSVA4OHpwdDRpOTNPSm1KMnk5ZEVwbFZPcG9PblBJdE95YWo3RktDNjhVeUxQRG5LT0tn?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:42.751637Z"
+  },
+  {
+    "id": "d9e868f23d",
+    "headline": "Phoenix approves $5.2 million lawsuit settlement after toddler was struck by a police vehicle - KJZZ",
+    "detected_amount": 5200000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMTVDUU14UTVNMkRlbUZlb0RwTFpwQkc1RmYwZWpfYks5QUNaZElTaWhwWjhuRG9fSlMtcFY1b185ZzdJVkR4cHBXSzBIaGYxeUo4T21CM1Fsc3VoNzU5OTl3bmw5NkZDVU56TVdxem1uMXRPU29ReHJzTGVXeUd3WWJMUG1ZZjRaaUlUc1FCRkhYdks1aWQxYlNkUUVyckZsWVBUUEE3V09zVUg0Vkd3My1wdmJEN2FPcjRibWJ0V0lYbkdoMTdGYno5amVsQ1U?oc=5",
+    "published": "Wed, 29 Oct 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:42.751725Z"
+  },
+  {
+    "id": "589a69b611",
+    "headline": "Chicago to Pay $57.2M to Settle 3 Police Misconduct Cases, Including Pursuit That Left Teen Unable to Walk or Speak - WTTW",
+    "detected_amount": 57200000,
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGdPVHlXbG1ER05SQlduRW9sQmRGZ2t2RFlHZkU2UDQ5akE0X3loUjdDX2RzOWhhMzVybnAzRVJsQmF1Vk1yd1dnNXRld3hWWmJtcVY0RHV4blZyZFlwV19iVUNVVldHQm1seEppUjlyeFg0Wml6aTRLcklMN1hyZkVnMTVwdkl6U0l3NW5KUDl4b0FGYUQ3RjFzMjk3YUVEbjgtYWJyQjlyeE1kR1RUOWJwQ3pnSXBkTGRsZ3NJWQ?oc=5",
+    "published": "Wed, 20 Mar 2024 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:42.751737Z"
+  },
+  {
+    "id": "03895b748a",
+    "headline": "Spokane agrees to $3.7 million settlement with children of Robert Bradley, who police shot and killed in 2022 - The Spokesman-Review",
+    "detected_amount": 3700000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT05NOFlqNjBocmVSTDZIVjdmM2h2U1RxU2hjZnBSNjlNSnFTT0FPV3NHWklDaWt3TTdaUWV4VUUwRjlSS2VFV2JaenJIeTVsRUZEYjlSazZRNDRGV2luazQ2S041R3hFOUtZRllSRU8yaURvY2h4U1JoUTMzME82Ry1QdFl6ZWhHUnZjUFFVZ3VuaXlRV3YwLXFwYmF1Zw?oc=5",
+    "published": "Mon, 28 Jul 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:47.443087Z"
+  },
+  {
+    "id": "2222ee3b5b",
+    "headline": "Cincinnati police settlements: $2.5 million over 10 years. Here's what that means - Cincinnati Enquirer",
+    "detected_amount": 2500000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWxiZUJCakt0YnpXYXU2aXRoWWUtWGlWX2VCMGs1TEdkVmlSQ3pIa1BYXzRmR2J2bUF2cTdNTzFUQkFYbEItWjVwVWdPcnBUUWZJSnJ1R1I2R2llRlQ3bDlYNWxUQmZKTTFXXzJ4c3dmb1E5VDZpQm56SExMdjFBQ3N6bkhfcEpkQmJoYlA5d1BQeXhRTTNnMExTQ1c3cDY1OGpGczdQTUZfMDZxZzhTUjJFN1lFWmREbm9uRDFaaTBjWTJrbWMzVEtPaXhQYk0?oc=5",
+    "published": "Wed, 09 Jun 2021 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:50.794086Z"
+  },
+  {
+    "id": "bd4b6317bf",
+    "headline": "Springfield paid out $3.9 million over 10 years in police misconduct lawsuits - MassLive",
+    "detected_amount": 3900000,
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2RyMG51WVFUcVNZc0gtb2Fwc01BTDE0d1RKLTR6MFB3dzBCdlFEQjdZYzZXdDZPOG9OUU1ici1ZdHFfaE1mbmZMbHo2SGJOZDE3Tmw3aHlkQXc2LTJueFhVeHFkMVFCNEgxbEJlXzdOZ1dOdXJlY3JuRmZzY3VGZ2NVVE4xQ0Y2?oc=5",
+    "published": "Wed, 06 Sep 2017 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:50.794323Z"
+  },
+  {
+    "id": "068303b4c2",
+    "headline": "Bloomfield settles for $1.6 million with man beaten by officers during 2012 arrest - Bergen Record",
+    "detected_amount": 1600000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjJJZlQ4Z1RYSHdiYVNyOTdYa0dYUUQwa0w0RDY0RW1KRk5LLWRVYVc5bkZaTXRfQVNZUjJLNEg4THVyZ2JTbk1kZGNCc3EtZmpfR2xrTjBzblFZbVg3dnZVTFdIRmJsb3JlLUdNdHJVb0hXSHNVODBRLV96M0NwRkpEYVpnVi1CM0xNd01CM0pKTHJpajNuN2FGXzBic0h1YUlNWG5VOVpfUHdKcVhpMElWWU90OTJqLWJwMzllZ25IeEY0NXpNdk11REpIUm40MVBwQQ?oc=5",
+    "published": "Fri, 06 Jul 2018 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:50.794346Z"
+  },
+  {
+    "id": "0a5ab67970",
+    "headline": "Wrongful detentions: NSW Police to pay $1.85 million in compensation after settling class action - SMH.com.au",
+    "detected_amount": 1850000,
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzRYa0ZZUVBrTS1ZcTJjNlM4Ty1BYmp1S2dnX0VkczRHZ2wxV0RMamp4Q1BseFBPOVl5RXRnblZGVjBTSm5Ka1BIWWxwQnVNelUyaDdVc0t3QW4zeEY4S0Y0RGFHeHBSeU00RWVpNk5EdTNidENxcXEzWUVYVE1yX2pkYzhoSkhVUEJER09YZkdZYVIyTXlNNlBsTzRqanNhNmRQU0xGY3ZHU2xOWWdLT0RJR1MtZmtKV3g4a1VMUlVMR0cwV2Q2SS1KckMxYzhvVlMwOVJfdmFUbmZDWmNyREYwR0g?oc=5",
+    "published": "Sun, 02 Aug 2015 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T14:34:50.794361Z"
   }
 ]
