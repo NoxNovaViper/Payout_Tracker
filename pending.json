@@ -2508,5 +2508,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-06-24T03:38:43.233300Z"
+  },
+  {
+    "id": "1f7247ed7d",
+    "headline": "Suffolk lawmakers agree to pay nearly $4M to settle 2026 police misconduct lawsuits - Newsday",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlFaNG5kbGxIbmVkOHBpckxUZEpNM2lJeWIwYkQ4QWZrMnBtVkhJTzNzbHhhSFVtd0FORlo5aFZpaWVGVXVUSVZUTjd6dVFkNlRrVzN6d19lN0x0cjRtYk1YT0NhOGYwUmNGRXRzTVB0VXVYb01CS1dDa1FRSy15ekkxczYwUVBSSWtGaDZTYnBDU0VSZzhodUJjNUlTemhH?oc=5",
+    "published": "Wed, 06 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T03:37:50.617078Z"
+  },
+  {
+    "id": "4afdfe8f6e",
+    "headline": "New York City\u2019s tab for police misconduct settlements: Nearly $800 million since 2019 - Los Angeles Times",
+    "detected_amount": 800000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHZWN3JJSmlDVE1yNmNCZXVaeTFPUUJ1bGFsQk9UTDdUZncybzQ4V1ZOSU9mb2pYcEdrcVZqY3ZiS3c1aktyekFQUm5DcEJ5V0QyNkpOcnhDb1p3MEctU2FGNUNfRlR3NU9jblZhOVFsTTNvaktrUW16R09IaDZpek91aXRCcHdsdEZWTV9ycW5QR1F4eU9fVzZ2WFlweW1HR3J6YVJjajRaS0docnhFMjRXMkg3VVZSaVhlWUt0RGNGc3Mtc1Rvb2VUUkpiczBQblE?oc=5",
+    "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-25T03:37:50.617572Z"
   }
 ]
