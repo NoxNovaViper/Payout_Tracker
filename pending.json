@@ -2658,5 +2658,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-06-26T03:46:30.255691Z"
+  },
+  {
+    "id": "d13922682b",
+    "headline": "Elk Grove Village reaches $10.5M settlement with family of man shot, killed by police - ABC7 Chicago",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW9vLTRiUF9pQkdQUHQ5YXZ5QjNBTHJZMFF4OFJpaUY4WHplZUFDNTNsRW9lQXlUeWpyemtMTUhkdEJ0ZkNqbmZ5TmFVakhqTE5TYzRwZHcwcmZEdjlUZmJmZm5GZlV0OXNsYmo3eE50TTY0WWUtRGJEdGV0MzVmMG9SS3g1aWpYRERIUjlmMVpnVy1LZnJLcHVsd05nMDBHSDlfNUVEX0ZKMTlBR3hoTlRPQU5YalhtaGF4Uy1sZHdXRHF5emVDMGNPX01fZw?oc=5",
+    "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T14:26:00.304316Z"
+  },
+  {
+    "id": "9597acb117",
+    "headline": "Raleigh police settlements reach $5.4M. Here are allegations and payouts. - Raleigh News & Observer",
+    "detected_amount": 5400000,
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tbFRmdDdYU2VyVDBoS3hJdDFCQXVPUjVLVkY5YkpTUlRydTVuaFFUOWx2YnNoaFMzS2hFb2N1WjlINmZ2SzJiRkQ2ZlBKamxLbVdaSXNGSmpVajBXVVZuLVlfM0JGczZOYUtkSGZB0gFuQVVfeXFMT0dnN093WUdib2MzMGhmSld5bUpYbDljLXRPQlVPdUw5WXFKX21HaWlOaE1vWjNVX3RUQkdPb1A1YmY2Q0t1VHZBYjBXNE11N1I3UDMyZ0ladmVkUmFwU3pkWHRIYkpSV1FnUGRPbXc?oc=5",
+    "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T14:26:03.436963Z"
   }
 ]
