@@ -2618,5 +2618,45 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-06-25T14:34:50.794361Z"
+  },
+  {
+    "id": "9afe294320",
+    "headline": "The City of Bridgeport to pay $1.78 million in police misconduct lawsuits - WSHU",
+    "detected_amount": 1780000,
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhjd21VTjBwaFhVQzBGbS16LXRSM0tiZzFXQXhRNnJXNGdMLTRKNVdlZllkWnJxZHdZYU5XY0ROc1N5YzRtWDF3N2VjclY5bVEzdVY2TVZMVjVSYkpsNk5uYl81VE5nZ2ZfSDFEUFVIVTQyUmo1d2RzTW1iM05wV1JsdFpyR3VJZGFMSlR6Z1I4SWc?oc=5",
+    "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T03:46:25.630039Z"
+  },
+  {
+    "id": "53d8aad4fc",
+    "headline": "Caldwell to pay $1.5 million in harassment and retaliation lawsuit with former officer - KBOI",
+    "detected_amount": 1500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYnNidHRJaFFYSTJaUWc4MTZFVzVKbHJBWlRMX21rUmVlZTZwcVpUUkZNVXFNTmtQRXpRQU40THF0MWFGcklCVG9ycFpkTnRTYTR4aU55dllENU5PcTR4TnhVa2dfU1BFUFgwa0lOYjJ5OWxITU5QNXpSYjhySXVpSV9hb0hmWjVEZ3MwVHVhSWlJd0pvMU5CYjBFcnJrMTF2VlotbmRJNXZESXNrODZsYzJOSzhpaUs5?oc=5",
+    "published": "Thu, 21 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T03:46:25.630135Z"
+  },
+  {
+    "id": "e795be5c4d",
+    "headline": "Fort Worth City Council approves $9.6M settlement in lawsuits from former police chief, IT workers - Fort Worth Report",
+    "detected_amount": 9600000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1FlSFowTm44c1k3VXd6dHdBdVhubXRqcWFLX1dYSFY1MTJSRTB6d20wamhmWmsybXVBTVI1R0lJX3FRNV9mRFp3cXpqQjJwOE9WYkQtb1g4dkhuMHNhYjliSlpLSjBZTkc0eFZzNk5lQ2tSc3R6NXNtUmxyaGFlOHlRMFhWbnZlOFJyUlRDU3Vpelh5U1NEQjNORWpOdnoyWUxRc0I3Q09ENGZjV25YdWZDNzc4dnpONHNqLUFpQTVSTnFiMWtHNmZDYjRJUndwREE?oc=5",
+    "published": "Tue, 13 Aug 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T03:46:27.138568Z"
+  },
+  {
+    "id": "22cda0002f",
+    "headline": "Family of Teen Killed by San Diego Police Receives $30 Million Settlement - WSJ",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0Q4WVhFdWZPYi1lWHpmLU1GUkhqZUdQWEVhZnlKR2V0azhlbndpOWdBRW0xQnRXVXdaN0NfT1pkeFloaURTMW4ydmkzQnl3U2FRb0hLYTFQUFl5T2U2VGtKTHZqSUpNZ21ZVzdGQWtuUmRyMU95bUZjODJ0SzY1R1RYZG93MUNPcVh3QmthMkhpZkJtenZveDJqVl9GOFhfVndnN0pQakJRazdHREE?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-26T03:46:30.255691Z"
   }
 ]
