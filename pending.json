@@ -2678,5 +2678,35 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-06-26T14:26:03.436963Z"
+  },
+  {
+    "id": "09d3e246ee",
+    "headline": "Attorney: San Leandro to pay $3.9M to settle civil rights lawsuit from man brutally beaten by police in 2019 - CBS News",
+    "detected_amount": 3900000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkt6ckI4dG5Xa2lqSjZseUtJTDNlcXR4ekdHNFBhRFNYNXl1clR0bmRLc29xRE9hd0ZJcjI5WHJxMWFwTUhiQXV0ZkNwMHFRS1V4cDc2WE52ZVFhdlZ2WGJoZ3R4ZmFyTHdvT182SDI5dW5lMGV1eEJjSVlsMk1OMEotZDcxeGFpbngxNFVSNkZaT1lvd0R0RFFVcXBHUlREZmNPTTA5Rk5MOEUwWmN30gG0AUFVX3lxTFBGR1RRSHB3RmtHOTl5STQxWHRNbmtGUm51RXFiY1NOTkpfYVgtWU1NWGJfeFFFUkN6YlVib0JxS0JqazdpeU05WjNZbzVUekVNNlk1UzlOVnRHaVVPeUZMQXlxcHJuUUs5cU9EREl3UUdELTVKX09mQkdpa3RmVXk3al9BNDR4aDdhcy1vVXI3dlduWi1JX1E1RmxHWXhVYVhVd0ZmaUYwak9fV2w1QjNmVHVKUQ?oc=5",
+    "published": "Mon, 29 Apr 2024 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T03:31:43.275623Z"
+  },
+  {
+    "id": "d4a161eae2",
+    "headline": "Boston Pays $3.1 Million In Wrongful Conviction; Has Spent $15 Million On Police Misconduct Claims Over 10 Years - WBUR",
+    "detected_amount": 3100000,
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQllOajh6NkF5QW5YSjNBZ3dndER3VmtOcDlXX3cyaXAxR285R1EyVENOOE9xaUd3TGoyZS1OeFF6dGRHbE9KWjlZRjBuajl4Nk5IVFRYRGlzLVJfYlRTTFNmZmtiTFZITEY1aWdjd3JZOFBNRWg0cE1xUXY3aW51T0dYcw?oc=5",
+    "published": "Thu, 12 Nov 2020 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T03:31:44.766035Z"
+  },
+  {
+    "id": "ac9eed8ad1",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - KSBW",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUpOTVl2dUtra2pVU3Y2Y0ZMUUQ0ZnI3NU8tOVE2NzBtaWNxaG9Mb1ItVkxGX0tRQXAzVlkyT0txWmlBUEFvOGotZHVjU3l4X3ZQWTFmR00yU3NGTGN6aVVBN09IQ1hYejByNGdPbHBkakE1bV9LQ25la0VZTGVkbg?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T03:31:46.311440Z"
   }
 ]
