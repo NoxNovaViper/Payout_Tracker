@@ -2708,5 +2708,85 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-06-27T03:31:46.311440Z"
+  },
+  {
+    "id": "e03ac5b311",
+    "headline": "North Las Vegas to pay $1.2 million settlement over 2021 incident with its police - KOLO | 8 News Now",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblByOFk5RUtWbnVNcUQ1U1ZwSnJPcWxHeXY3MGR4anZxQ0UweGZ0OHlXSjlOUzJnUzdsOWMyV1ZSRzFmZjNFWWJZN250S1BXdkoybG5GcEt6bEg0Nlh6TnNLdENmdHU2UWg2QXo1OGJhVXlCdllIOUQxbTJyNUx3VlhjTTIyX3lqdkhLUnZtT2U1dngybWdDSFo3VUtvZkhSYTc0Vm9RM3hmd29uTWM1aQ?oc=5",
+    "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:14.688314Z"
+  },
+  {
+    "id": "1ebb17d118",
+    "headline": "California woman violently arrested by sheriff's deputies secures $17 million settlement with county - AP News",
+    "detected_amount": 17000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1pBS0FZZ1g3WE9QSmdkTkNRNlR4ckZLdUpIQlQ5d2kxU3JJNFRRVGwwVTRiS01pTTRJUzFMeTRjS3lPUmRxanhyRmttOGZZdXlNQVVwUXdueWh1U1dNRDdNX1NndUlmbExpdnBQVnh1R2RNR0p5Z1BDeHNBamdON0lQbHp3MU1GQUltWWZ3c1FTOGpsMzdhU0NfaDNhYlJuZUd1NHZqcw?oc=5",
+    "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:14.688431Z"
+  },
+  {
+    "id": "ba6e0b7c08",
+    "headline": "Fort Worth approves $9.6 million settlement with former police chief and IT workers - Fort Worth Star-Telegram",
+    "detected_amount": 9600000,
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44M2laTGZpTHZvT01IMmxkOHZpNUV4VjZaRnNNLU1Gd0FpbFg0TEhEWm5uZUhUNDFZdGtkMjNJTmZRZUZGdmFOSThRLXViNnZVajN6ak4yTGNfcHEza1FRNFdDZzJYanlibk1hbHVrTjJZOFVtMjdNRkU5MHRtQdIBfkFVX3lxTE9adzNBMExPZHRFUzVyT1dPUm9TT0J0SHNocG5vRXdRRzVaMnphZDk4R05mT1RjY3ZqY05GY05WQ0JIRUFNX0UyZjhFd0E1TDR4NkhIaU1oSGpOMUFFMDhzdmZGRVhlNUFvcjJaOGVvTEl1V0lNVmk2RTM0R3RoQQ?oc=5",
+    "published": "Wed, 14 Aug 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:16.232504Z"
+  },
+  {
+    "id": "c821928535",
+    "headline": "New York City paid out $121M in police misconduct settlements in 2022, Legal Aid Society says - ABC7 New York",
+    "detected_amount": 121000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTEyc0hmRTZ0VVRYemJqa203cWt5U0NVVWhtRTYyZVlKNllwVi1XZnVUeXlrMmR3SlJTNk41a2RaTXp1TmE2dHFrdUdtNjFINWhfRUxFY3Q0TkFhcnBLU0hCeGJwVmpabUtyNVFkdS1uYXFKZGRBUlJwYnNwYkx6MjVEcVAtb2MtZ1NWY0tHMDFfMUk3SVRXRUtzcFZxVUliSlHSAacBQVVfeXFMUGd5NzhleFROeVdrRlZUTC1xSkxyRnlMNE1Mak9ZWVZ0eUEyZ2Vzd29YREdXc21lZmY5alNKLU9SemY5Y3FNLXUtQ1dxQjJMUFl0TmRtTG9ybGtGSWlVd1V0Z0xJUFN5OW9OZG43ZGhiVElpWFdISkdSYTBWbFhvbEJwZ2VSWDlEYThGV0JPdDNhVlJhcFI3T2QyNmNIWVY5VEZJQlF3YTQ?oc=5",
+    "published": "Fri, 03 Feb 2023 08:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:17.772781Z"
+  },
+  {
+    "id": "e0759bf21d",
+    "headline": "Chicago taxpayers have paid nearly $700 million since 2000 in lawsuits by people who say police framed them - Chicago Sun-Times",
+    "detected_amount": 700000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDB5RUxTUGhFNTJLWFFpRUl3dTRnNERIUHA1UkNvSDBzcEZ3RG9QcXR6VlZqNDhJS2JyZ2lhM3NzdkQ2aWdtbXJWT0NMUVBOcXU4bkZPbmw3S0RWZ3k1S0hibTNIWVVFeEQ3V05peFBnT2FXM19TLWd3WmMwVHdsUFMtV0lDTkc2R0xsXy1hWTdneFFLd0Uzd3lKeXJDcFRIMHduTnpmcG9KeVU?oc=5",
+    "published": "Wed, 06 Dec 2023 08:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:17.772797Z"
+  },
+  {
+    "id": "18c0956573",
+    "headline": "City to pay $3.6M settlement to family of man shot and killed by Spokane police in 2022 - KREM",
+    "detected_amount": 3600000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcjd1MF9MODViNUZKNksya0hLLWhwQ2x5Qi13VjZpMkVtdW1OOGYwRmNtN2VvaDM5c0IxdkY1UGF5V19JUWxBeTJwQWV6emw4QkZyNURWY2tpN1d4RXdxX0pfVzZFTEF0aUE4XzRMaEZsQXNXeDJRcWxYWkZidHM5S1lmbjFSQU5CMm9USG5lZlVMOWY3YmNZbGY5TTJxVVBMMjRaeDlXQ18xbXBha3FsNmdBMGNGZ0NEMjVzM0NvLWxINDBkcTlHUmRUa21WYXp0dDNDRV9ScTFES1k?oc=5",
+    "published": "Mon, 21 Jul 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:19.240790Z"
+  },
+  {
+    "id": "915801bf99",
+    "headline": "City of Spokane poised to agree to $3.7 million settlement with estate of man killed by police - The Spokesman-Review",
+    "detected_amount": 3700000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGlvQzFINUI3UGdva1V2MmlLSXoyUmtQWlN6YmZjb1Q1SUlhOGg1eDV4aUxUNXRiMERIVlVsQlVHX3VXcERONjByRWkxd2cwZ1NWazJLOVg0a0x6VXRKME5MeFN6LU9tQ25BR19kdktYdk9UZ0VpRlV3cG5feXVUeENGT3FuX19VcHFxdC1ROFRiRWdXOVJHZ1pUN3VtQQ?oc=5",
+    "published": "Mon, 21 Jul 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:19.240823Z"
+  },
+  {
+    "id": "f5da92d7d4",
+    "headline": "Lawsuit seeks $30 million for fatal shooting of Redlands man by San Bernardino County sheriff\u2019s deputy - San Bernardino Sun",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVNXYTBUZVFqdS1HQ1lTMFI1VDlCUndyWHIwLXJHLThWaXM3VGxLTGt4Z2dMM04wOTlROW54YlJyM3JTMjM4Yk41MVlUZzhSaGZXWjNETHVJRG5hYW9uTVFad0NraTJubDFTcmQ5aU9udUpKU0dFMktyM285NFNaLURWQ0RFeVR3eDc3emRuNFY0b3d3Y293cTJqWTlsMEpQYzlDVFNhTGFLSklQQ2RIMXVzdkgtcmNPQU1uTWxqWE9HSGUwSmhIYllTZG01c0E?oc=5",
+    "published": "Fri, 25 Jul 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-27T13:44:19.240846Z"
   }
 ]
