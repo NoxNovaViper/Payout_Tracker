@@ -2788,5 +2788,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-06-27T13:44:19.240846Z"
+  },
+  {
+    "id": "0ebe50828c",
+    "headline": "Settlement terms released in Independence police shooting; city to pay nearly $6M - KSHB 41 Kansas City",
+    "detected_amount": 6000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEdLN3BINVZjYUo1RjV0V09wUWVpbndBTDkxY2dJV2piQkR2elBsdlljM1BMT3V6M0tBN0Q1cjI3Y0hlcDhkNWl5VTV0dTBaWFZmbXNab24zMnpFSWFXTElvakRvRFZXajRhUktMMUV2eXFZTDBVUld0ZEM1cUNMZmhuSGxIV3g2RUt5UE9LQnNwcnBTTjd1Q0tiazVxb2dla1d3S1hJV3Rjelh5QWFDU2ZWUHVjR0hwWnlGc0VwbXVUS0JxSWFFbXgzTnFqR09jb1E?oc=5",
+    "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-28T03:54:48.878403Z"
+  },
+  {
+    "id": "3084ed03eb",
+    "headline": "Redmond City Council approves $7.5M settlement to family of woman killed by police in 2020 - The Seattle Times",
+    "detected_amount": 7500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1lZbDByQzB0R1JPdFBPbTJYNkdMX2JRcnVKSlNtQkxxMXBsZWNIbEM1T096QjlnLVNlYkVXbTUzV1RkUnBCUjVlRDlNNGVRUmp5dENpRFEwVV91OFFMMC1XSURTTVdCOTBtb0V1UjFiaHZUVUJWX2VwN2NDZTRVdDhzbmR0Z0RDbjN0emwzU2YwTVZ1eHZjX0s4OVNRc2dJcW1NWjBXSTdyc2dtRkNlTnRjeUFQM3ZrRzZNX1ZrTnJmUFRxaENoTlc2TUN2Ry1oeDJHOFNnSUpJVFhm?oc=5",
+    "published": "Tue, 26 Apr 2022 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-06-28T03:54:50.391577Z"
+  },
+  {
+    "id": "68254f43db",
+    "headline": "Chicago Spent $231.2M to Resolve Police Misconduct Lawsuits in 7 Months, Nearly Triple Year\u2019s Budget: Records - WTTW",
+    "detected_amount": 231200000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWxvWHVfU3NkSDdXWWVMQkoxdnphT19LcHk0M0ZjazF3eGppNlpGYnJEWWNJd3JNY2F3RGpEQWdmRkV1MnBXUDVKZXJXYU9ISTFfYW1XMW5iQnNKTEs0RTZpOW9fS0dXa1JtQjVadFpvNFZjX2pfZkNaelBHanRxci02Umo0UUpfMG1xOUM4RU0xZVpkVGFDQmFKQWhhNVB2TzNfbzZUZXFoenRyWVAyLTFZNXJvQ3Vv?oc=5",
+    "published": "Tue, 02 Sep 2025 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-28T03:54:51.901186Z"
   }
 ]
