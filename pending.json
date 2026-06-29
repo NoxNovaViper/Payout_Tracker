@@ -2828,5 +2828,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-06-29T04:00:14.006037Z"
+  },
+  {
+    "id": "ab3f465109",
+    "headline": "Chicago Set to Borrow $283.3M to Resolve Police Misconduct Lawsuits - WTTW News",
+    "detected_amount": 283300000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTZpb0N4NUs2Q3BlSFRDZmtJZjNDcnJDUE9PdFFZcHRVdklUZUk0MVZ1NXNZYkxkOEI0UERyTDc5SUJGOXFHTGhBQzFfX3hEeWZ4R0d6M3QybWVEekc1S3NLWmZFUmc2bFE1U0gwQlpwbW9hYVZwYTR1WWV2eUJ0VkhBY1RvUWY0RHFuVkdHSGhRYmFCQ1hN?oc=5",
+    "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-29T15:48:31.726604Z"
+  },
+  {
+    "id": "0302e780fd",
+    "headline": "Prince George's County Will Pay $3.6M Settlement In College Park Police Assault Case - CBS News",
+    "detected_amount": 3600000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORURJZHpWMEctZ0RvV3lXSTVBenpTVDFSM2xsbXAwNllQTm93WGlMb2NNMU9lRWdaX0VnYllwekxEcFRsbWI5bVJ1RV9jZk0wZ1NJbDAzNVAyUS1nR254RTNVTVd6Qlp3RkJESXZxNUJzYkNlZUhOVnc4WWQ0NGdsOE0xam01cU5MY2pETEpIRkFmcWVwdmhHU2dlSHJ3V1NLazlGYXVMRkJ3UzBBR3l3?oc=5",
+    "published": "Mon, 22 Oct 2012 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-29T15:48:39.556942Z"
   }
 ]
