@@ -2818,5 +2818,15 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-06-28T03:54:51.901186Z"
+  },
+  {
+    "id": "9ff2f7b178",
+    "headline": "Aurora Agrees To Pay $15 Million In Elijah McClain Case; Largest Police Related Settlement In City, Colorado History - CBS News",
+    "detected_amount": 15000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdm1IZEEwRFZvTHlWSDVWS1BCT2Q4dmdmTDJuU2hUWXBsSlVBRGNpLURBSTQtUTlnbjVYNFZGdmpiNHUyZTBWb3Zqb0JkNDBhblJ0ZTF2Q3k0amwyMG4xWndnZXVxLXJRbnZoUHdvQ0ZaRFdVUkZDM0czbkhVQThXemduYVltM1ZIdERv0gGQAUFVX3lxTE05LVVaSURqekExRDZLZkkxV2o2OENYR0pIbGJIdmJsTXFGRWR2TW1Bbk9SaTZyT201Rm5SSFBzR280SHFuT2hHLW5aSUJ3TUhSS1otS1Q1YzZ2bVJEU21pamJGdVJpa2l3ejU4Q0JUZTBsX09Xb0ZKc084MUgxOVZtNzlNbmhYNUZUOEFSVzNQSw?oc=5",
+    "published": "Wed, 17 Nov 2021 08:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-06-29T04:00:14.006037Z"
   }
 ]
