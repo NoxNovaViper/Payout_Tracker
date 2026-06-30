@@ -3018,5 +3018,45 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-06-30T03:42:02.595707Z"
+  },
+  {
+    "id": "e1a1b96d5f",
+    "headline": "Fort Worth council approves $1.1M deal in police captain\u2019s retaliation lawsuit - Fort Worth Star-Telegram",
+    "detected_amount": 1100000,
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVXFOakRuODdXWmFUZm9zTWFsa3U2dzJTOVBYQzJ1cExEbUNJNGh4YnhvR21sUGZGWmszSGliWXpVUmR5TmlXeE55Ym1FMWZsd1NGaGt0MWRadWZPbVVtM3dRNE9XWm55d2dCM0ZoZTdIYURTWnJELWlVb2NGblhQQmlB0gGCAUFVX3lxTE1BUXdBZWd0VDJGNmNJRVRJT2VQUXVoTUh6YW5xcHFoRXk2ZnYzX2NabDRWYmFYUU9hZnI2cjVhLS1ybDRfOGNpMlB3dklrU1R3ekFRY0E3VlpYLXNJOEZlQlFXZVZtUU5QM0lOanhkY0c0c0xjcWNwNUVoX1FxTE1nT3c?oc=5",
+    "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-30T14:20:28.815968Z"
+  },
+  {
+    "id": "fc04d7374a",
+    "headline": "Chicago to Pay $35.6M to Settle 6 Police Misconduct Cases - WTTW",
+    "detected_amount": 35600000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWR1YWlyeGFnUU5xMkRUV2I1UktubE02MktGMlRCUFk4b2pzQ0duRUJEWTdJZGlmcFpERXc4bjlvdlVjMWVtOEs0TC1nV29vWFZGMFVVT1N4ZFNXZGcwSFh1azNrYlp1c3JqS2kyZ010OXNSbnlwLXcyenRrdk9Hd2xTdG10R0ktQUE?oc=5",
+    "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-06-30T14:20:28.816089Z"
+  },
+  {
+    "id": "e71fa5b952",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - CityNews Halifax",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3E1a0VHQVprTU9rVHJXVFpSTm43bmFRSlRuQ093OWZJUHU1amJfWHVHeEZYbXVDV0Z2bml1Y3hjRmRHTC1OUDVyV3ZvVnVfeFN2dnpFNHhtQjZMOUtYMWxWNGRodWY0RUQ3RlhWQ3cwdm5mWVRLSTJxNE9SdXZZbEJUX05TZExWVW5LTTU0MnlsNmpLVGh3cl9TaWRPMlc1OE5YN3NtY2NzRlROLTA2MDY5bGllUnZxZkE?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-06-30T14:20:33.678887Z"
+  },
+  {
+    "id": "d251b68ddf",
+    "headline": "Phoenix approves $5M settlement after man killed in 2017 police arrest - FOX 10 Phoenix",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ18weUVqTFktajFmNTVwRUJPX3ZYaklMTGNGWEtpVUZROEVBb0NucUp5a0wxQXE4U01LbDU1cGlPTjdpakRFZ1ljWldRYzduY29wN1VrUjZsNkU3d3Z0aDB0aDg5b216cDdIM3N5RXpHS1ZDcUtxM1Q1Ynp3SWdNVHdycUNYNXFHLVJmWnhKRzdRV1pqYnJaR0x4T283cWdjY2F3YTdYdXbSAa4BQVVfeXFMTTFCTHZ5LW9Hd1BaZUg0NDNrMUxBdWZFZ0lsMHI5TWppV3lDcFFaQkJMaV9NbTFQdVBBeW56Nm5keERmRTJ4bWRhMk5idFEyMWxQZ1lCTlpTWVJkd1drNDdjT2VIVm1qOEc1Y1ZQY0xzQnFzN2o4Y1RaUmlFLWRRR042di1lNkU2WUtfU1l6SmktVkljWjk4RUZGMzFvd3hzNjhkXzAxSTcxd205N1FR?oc=5",
+    "published": "Wed, 17 Nov 2021 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-06-30T14:20:36.757372Z"
   }
 ]
