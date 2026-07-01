@@ -3058,5 +3058,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-06-30T14:20:36.757372Z"
+  },
+  {
+    "id": "41e0659e47",
+    "headline": "Detroit Council OKs $2.75 million settlement to man injured in police crash - The Detroit News",
+    "detected_amount": 2750000,
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDgySWRGZjEtMlpMR2JfTFBWZFpWLXFZLWJkdlpuWWlUa3c3TFkwLV9OdWRVdE9sQXdqa3FwNUptSFRDZG5ZZ2l1MnBrRkxsRGpsYldBc3hIQzNicl9VTWg5bVc4cWRydjFvcFFuZ0FGSVRGZmFvanlEby1JMmVTc1FXSEJNM3NTUkdGVTRwUHI1OUo5MldvQW0teldoUWdjaTdXSXB3bk52cTV0MThlRTFBTm81cEJxWld1elBwTmNEUERwMHBtOHNTdGpTMFczZDBRbmxpMkxvbXlxd2laT1M2QjBiNm9fVW1qZg?oc=5",
+    "published": "Tue, 05 Mar 2024 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-01T03:58:29.036683Z"
   }
 ]
