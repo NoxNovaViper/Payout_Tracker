@@ -3068,5 +3068,25 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-07-01T03:58:29.036683Z"
+  },
+  {
+    "id": "e9d6ed9fa7",
+    "headline": "Lexington woman reaches lawsuit settlement with city, police for $1.2 million - Yahoo",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnpfLTdkc1BBRkdkWDZQUTZsSzNCSnBxMDNSd2ozTDV5ZTEwcjRoemVWemM2TFlWTEVWbC0xOU5iYzNwX1N3bENoNnNPX05URWZNTDVJWDlZdWhWQTIwMkZ6anZVVEJFdDQxSjZwRjEwcF9veXFpNEk4S1gxY3ROWkgyaGkybFBVWHRkN3M4MHlLSmZxcTZDNw?oc=5",
+    "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-01T14:37:11.795084Z"
+  },
+  {
+    "id": "2ffac16fbf",
+    "headline": "City of Topeka approves $1 million settlement for police sex discrimination lawsuits - KSNT 27 News",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZEtJOTNmcnhtaEFQS0JZRV9SOXdPRDNEVkVaZVJhZmMwY3Z3LTdtZVlXdW5OSDI4ZkM3UDgwUzZ4Z2NJcVUyQ2poanBqMDBNOGZHWUZyMG1EQzFSa3NDdVpHRTdrM1RfSlJBTDdoRVdvVzJhRmF2RncwYlZUVGtTQTgxUjFkRzBqNDhRNi16YnpwVUtxd3lIQ0w2VjVGeFFIRVZ1WUMwQ3kxa1ktbzMzRVhvcWstUnUwdGQ0TQ?oc=5",
+    "published": "Sat, 02 May 2026 01:20:35 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-01T14:37:11.795132Z"
   }
 ]
