@@ -3108,5 +3108,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-07-02T03:39:00.685831Z"
+  },
+  {
+    "id": "9a110e5317",
+    "headline": "Chicago to Pay $35.2M to Settle 4 Police Misconduct Cases - WTTW",
+    "detected_amount": 35200000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMm1mbXFZcEszalNYVjA3RXRNRWktbVpxUHE5bEc3Y1BEZjhpX1dOTmJlTmo1dG9RczBlOEhJWnJxcDhxLXAyWUZtekFOQ1IyQmQ5a0l3RDk1UDIzR1BjQVVnTHpta1hGQTJvWTdrN25HOVhWZ3dxbmR6cG1vZ2pfWC1PRlRCbzd1bkE?oc=5",
+    "published": "Wed, 16 Jul 2025 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-02T14:01:53.778819Z"
   }
 ]
