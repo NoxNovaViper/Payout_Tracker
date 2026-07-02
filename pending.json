@@ -3088,5 +3088,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-01T14:37:11.795132Z"
+  },
+  {
+    "id": "a89bc4bbdc",
+    "headline": "Phoenix council approves $800,000 in settlements for Police, Fire Department cases - KJZZ",
+    "detected_amount": 800000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGxFZ3lSMU9BTzJBdEt6SGRyY251ckktV0ZTZE1LcUQ0NnRBbG1fNURlSFNoRVlnU2pFMlV3dFJWVjJWRGQ4UFhDQmVXWWJURzNfcUFoS3lvVnVjc0hUWVlZLWN6dW9fN3pWVW40ck9tM3h1NlctemY5NkVHWWpERWZaZGJlNm9kMDhOZ1JzaHRpZXhnd3lQS0g0cDJnUi13Q1NESW00VHZPYmlCd05WZHVwRHhhQk1DM0JkRmZn?oc=5",
+    "published": "Wed, 01 Jul 2026 20:33:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-02T03:38:54.619988Z"
+  },
+  {
+    "id": "c05e5c9762",
+    "headline": "Family: $7M wrongful police taser settlement came after Idaho Springs man had 'best life ripped away' - CBS News",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXJQZlVHU3RhTXdPNEZ4Zm5aSHdGZWhCMDZ0bDVyc2JqdFdfWGY2TjFlSkZvclk5WncxNXdHdzBpWS1ENjVpV1pQOE41RGpMSDM0NUdzV1VmWGVXLWhqTGFkbk01a1ZmMXM5Y1JnTWdqeW9lSkxpakJoQVQ5aTM2ZDQtYzRPalNVWlk0MTBSaC14T0xURHBlNWozV1pVVEJ00gGmAUFVX3lxTE5IcG1YUkRDcmJ6VUh3eFpHTDF6RUNRYUwwZUVhdjZFT2lfaDBkNzliemwyMkhyMjRKbmwya3c4ckNSMzBwWnRYbG9UZllPY001YkpmWXp5OHRPU19EVW9Tc3F6RXRSbXBwT3pVSUhRcjZKRi1pODNpazBKQ0NaWE9Qa3V4NmNEYjlEUTJYUGQ5WWJRR0tTU1JoampvZEZpeml6em5OUVE?oc=5",
+    "published": "Wed, 02 Nov 2022 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-07-02T03:39:00.685831Z"
   }
 ]
