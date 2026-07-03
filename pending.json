@@ -3118,5 +3118,45 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-07-02T14:01:53.778819Z"
+  },
+  {
+    "id": "8562dd17e2",
+    "headline": "Mendez family in line for $2.5 million settlement after botched police raid that traumatized kids - CBS News",
+    "detected_amount": 2500000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDF4UXdiWFF2eTBGUlpvS3g1RFZkRnNpNTRQWWQtd1BoVjVpN0MybnFkeWc5THJYZEdDSW11NFBqSHVrZ0VMdUY2OUx2eDFGOE1WbkFhRGhDT1hNRUVybE9qZGV0LXgxNS1vTFpFVWkzOG9EdG0zNW1rRlVXZkpUd190MG45MDFJRk9qZ0hVVdIBlAFBVV95cUxQNVZOdnZmLVVWUnVaaGEzcVhQQWxCWkEtVy1kZDNLQVN1VklMM2ZuVGJCTFFCMGpwLTliVUtpbUI4MEs4LVRSSTFmVHBuRU5lZENkNmxla1Rsb29TTzlkOGN2bGplWmloUkpiWmlYUUY3b1lfOElwcTVjTDNyVHpDXzN0VWpBeEpJOGJlMmZpdGJmMUFI?oc=5",
+    "published": "Fri, 18 Jul 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-03T03:19:43.502629Z"
+  },
+  {
+    "id": "c630b27367",
+    "headline": "Santa Ana Police Lawsuit Settlements Cost Taxpayers At Least $24 Million Over Last Decade - Voice of OC",
+    "detected_amount": 24000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1E0S2NHNnFHVm9ZU3hVUm9SS25Fb29xMFpHYnhQRkVjTGFVT19NaGZUdHVEb0RPZGhyUzcwV292bVdsdll2VE1XdVJXcWlnWmhlZmJFU3ZOS2t1ZWZ4dGpldm5XRE94UjZJR0pKdHpvb1hfQjRmUXFfekUwTHg0blZCZ3FMZEpmcF9sUUI0eDlmY2pfSFRnTU11bXpjOTlONVpzR1NhZ25kOEthcktrZjZNN3ZiLWNEUUE?oc=5",
+    "published": "Thu, 10 Dec 2020 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-03T03:19:43.502662Z"
+  },
+  {
+    "id": "a3b99d005c",
+    "headline": "Rochester , NY reaches $12 million settlement with Daniel Prude estate over Chicago man's death in police custody - ABC7 Chicago",
+    "detected_amount": 12000000,
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkNJZWxwZkxrMTBCQnNoalJpc1AwUkY5V0Nydkw2S1Z0MzRnN2pXUHBEYjBmakJvRld2alFhMXo1OVdBQmhVSnFidXdTMVFFWkJKZ3Ziay1ycEJRRjI5X3hud2hraEpMeXZPWkhUWkNQLTVicmV5SURIckw4bXFwNHVjZDN0TUN4TFNEWEd6RzR3Tk41NFY5d2ZB0gGfAUFVX3lxTE1hMGlmS2xfLUY3NXRCdlVEYmlLYzBsalc4TS1zX1o5T0g5ajJpYThKYWdrd3pTMjRCTjVidzZkaWY1WUcxMW9NRlNzd3RfZ0piMFBHMmRkazdMSmJMVXBlUkhNcGszck1sU1VzYmExN21UOWRBbjRIZlNOaXZWZGh4TDB0cHB0enpMeUlpTnZ5LW9QcUN3cVNTVU4xZEhkcw?oc=5",
+    "published": "Thu, 06 Oct 2022 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-03T03:19:53.368412Z"
+  },
+  {
+    "id": "54d436f7b6",
+    "headline": "Trenton to pay $1.9M to settle police wrongful death lawsuit - NJ Spotlight News",
+    "detected_amount": 1900000,
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnpUcVVWT24wVVdnbTAybjhKZ3g0ajcyUlBjT1lhTmtyczZObkVQZENkX1JmdUxaLXpUUVd3YzdQaWlfRlJuZ3JxcUZTNUw2ZEVwY09zTW1TcktuRUVZRlE1Ym5XbTRRVEVTaXJaUGR6VlI1TXpaZzRiREs2dHRrNS1DMUx4bVh2ZVRMdDFkanlOUmlqUzlhZGRWMXg5WkE?oc=5",
+    "published": "Fri, 14 Apr 2023 21:19:44 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-03T03:19:53.368497Z"
   }
 ]
