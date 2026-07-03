@@ -3158,5 +3158,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-03T03:19:53.368497Z"
+  },
+  {
+    "id": "f824345f89",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - KXII",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnFTcE1uX1BUaUhjMVM3RDQxOGtpZDNjOERwdUdoYlpUbGU4RlJkNkRRVHZnSHl1eDV3RDZ5Ykk0QkZOckdQZGxabFZHNjZBOTNIQ1NpUzBZVnh0aV9oWi0xVFljNWtScFZYYTlpVnhybTlXVzl4b25FQ281OFdKb1Q5aE9feUJzcUc3dU44TXlaUGgzTnRJUGFfUWJkanh1U1Zv0gG3AUFVX3lxTFBkdE92RnIzZ20yU0tlQS1pN3FxRVp2MFd5NUFKZmpoSXdJSk8yY2VYRUJnSnRWZHloVVYtTWtON3VZZG9RNVRvUkpGM3NhTGRNTWZxU2lJZERBUV9PS2NUY2pnZWtPcW5nUHhQaTNEdk0wSVVVTGx5WjBpeDhSSkdnY3V1OEJmQ19PTkJ6cWlydFl1N21rd2hNY29ra05sVHE3VDlPVUdETTZRQVktWU1iV3hncHFLWQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-03T14:05:41.950259Z"
   }
 ]
