@@ -3168,5 +3168,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-03T14:05:41.950259Z"
+  },
+  {
+    "id": "5c563ccd8f",
+    "headline": "Loveland agrees to $675,000 settlement in shooting of dog by police - 9News",
+    "detected_amount": 675000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGR3cndpOVo2SnR4UUdUNEN1d2t3QUdSU0J3OEhZNXlLbTdzUGlfMTRRUkZ2a2tmdTBWQUFnY2ZxR0pXWG13d3FzT3lOeGJWaEFES0I0VGR5XzlhRXNpZ1Bpb0QwOFpqdFA0Y1o0NE45V1c0X1ROM0lQdFotZlgxWUlCRno0YmxTM2MyN09vZ1BLVUxhSlVSMFhSM0NfanEtUmI3M1l6dG5xelZMLUFGMEF4T2luUWZfcnBZTUg3UkJyZw?oc=5",
+    "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-07-04T13:27:15.343270Z"
+  },
+  {
+    "id": "a0b77512e9",
+    "headline": "Approved: $4.6M settlement for mom of inmate who died after officers used force at Las Vegas-area prison - KLAS 8 News Now",
+    "detected_amount": 4600000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUhsazJPMncxc0ltZWpvN3lYaTYwa3QzRXhYZ2RxbnlteHhYdW9heDJRRmVLUWRlckxQRW11VVQ5RktxbHBFcnNoMndySTlmaTlKOElLVWx2UkNleVBKUTdCREIxQ1o1dlRPeTltZTNPMi04WVNkbVhvQTh2QUtjQ2lkVjhqVUZtZEN5TE0zWlQ1Z1pzLTU1ZHg4Rnl0UDczdUZPSHJRR0xyT1hUZ2ZtZGVFdDVXblhvcjIzaWd4enBLUTItUTBhUnZGRkw0eWVObjNqbVYySGtoQQ?oc=5",
+    "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-04T13:27:18.236044Z"
   }
 ]
