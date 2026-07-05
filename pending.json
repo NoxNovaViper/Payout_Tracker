@@ -3188,5 +3188,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-04T13:27:18.236044Z"
+  },
+  {
+    "id": "3028455c50",
+    "headline": "Joliet Taxpayers Pay $87,000 Settlement To Man Improperly Arrested, Tasered By Officers Desiderio, Gruber - Patch",
+    "detected_amount": 87000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGNVYjZhV1ZUQkhTRHp2alZ3UThNdVcxSG9YMTh1NFFzSWQ4SEdVSHNYSUpiVk1PeTNNc3NyV3dPbXFKWUJ5WURmZ3ZsQXF6Y25CNXpqWHJMcVRGdWEzNnZUS2dNdFBHeTQ4TkQ0Q19fZzFnR21xOEpGZ2lZVmpxTFNZVW5sYmdSRFNfVktZWXZQdDBRdkZZX09xYVdwcUZvTWZRdEJ1X0hhV2pLWms1a0l3a0w?oc=5",
+    "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-07-05T03:28:41.085726Z"
   }
 ]
