@@ -3198,5 +3198,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-07-05T03:28:41.085726Z"
+  },
+  {
+    "id": "c741f98ad7",
+    "headline": "$3.5 million settlement recommended for family of man killed by driver being chased by Chicago police - CBS News",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3l5bGZwYnJNdGU5cmNhWTJQejFtMmNoZFVqTElLNzBmcThtTXdaLUNUYzF2VXlEWENHZHRFT2w5SE1GV1RmWm9HV2xwYU5MODBuUjdNTjZpQUlXb1ZYRWhlTkxpa2RUUVBlT09VQ3ZpRTZ2ZWxIeURJU0tTN0hHQjBYNmhEbkc4WU02amFTdFVoeWFrRXVKMkdUZVR4T1luYTVzZkF2SlFkRDdZYlRaWHdPdjJwbmVHdHfSAb8BQVVfeXFMTVBjWG1ta0pwbXpoRmZpY0Q2UjdFNnR0T3R4aXRhZ05FUUtFWGNYVFVXUVA5WURaV2E1dDY0UUJYY1VTcTZ4OWk0SEN2U2FnWl82YWVKWV80LVFTa1R3NVd6emdkcnJVeHNNNmh6SHVKMGlyNElrZENkcEdZang3VnBZRjMycjhFMEpuSXZMVHVwU0NSZ1N3Q2RSR2NXQkJYUHFmZzZPLVp0NjZYX1BzWlJwMFhPcWFja1YyVHlfODA?oc=5",
+    "published": "Thu, 14 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-05T13:40:40.757364Z"
   }
 ]
