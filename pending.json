@@ -3208,5 +3208,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-05T13:40:40.757364Z"
+  },
+  {
+    "id": "c0064e807b",
+    "headline": "Honolulu to settle lawsuit over police shooting of Micronesian teen for $1M - KTVB",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWGtGNlA0MEIwVl9lRHB1TjFMdDhlem1YYUlGZlkzZ0dYTmwtemN2VXU5T2R5VlUwZnJQcFA1Nko2aVF3ZVprYmpUZTRLTXZLdDZQalk0cWdRSUxzTFZuQVhpNktFTlRzSWpFczQ0YVhrUkJVQUlZcGk3STc1ZFFtUmU1dHA1WHJiVGU2Y3VQSi1tc2JtRE9VcE14MzFBUnNPdEVTMVFVaDVWTjhkUUlPLXJZa1E5RXNwTUFtbnc3VW5WQ1RsdVgyNFZVc05lU1NNS3A0YnUwdnNVN2xzU2xPUjBSWHpYTGpQWG1acTRWZ2ZaQm5OWVk3Zkt2U1liamZmLXc?oc=5",
+    "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-06T15:34:18.517512Z"
+  },
+  {
+    "id": "bf17c4619c",
+    "headline": "Worcester pays $272,500 to settle claims police captain lied in drug case - Worcester Telegram",
+    "detected_amount": 272500,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2cwbTBKeTRDNi02bjJkN2FhaVBKYkE1X0ZGSHJwVHZnRFdGRy10SUF2UUV2N2pkVTJnZVBvQXI3RU15R3pEME92YWpzMVd3bmY5Yy1XT2t3VUdNQkpzdVVoTkZUejRKN2hIMm9UelI4Q2RELTd2RVhCRFI4bEEwbjNBZXc0WWpQZkpZM0Vfem9RTGtSYlQ0M2lHQ2NDV0pHMmRTRW91SWZDc0FqaHZoN3o5Z0JVOG5wRFhpd2FTYnZaWnNtdkJ1eHc1U1hzdw?oc=5",
+    "published": "Fri, 27 Jan 2023 08:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-07-06T15:34:20.080077Z"
   }
 ]
