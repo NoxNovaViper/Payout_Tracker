@@ -3228,5 +3228,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-07-06T15:34:20.080077Z"
+  },
+  {
+    "id": "cd74e49272",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - WTAE",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODA3NEMwbE9XSkt0Rk5PVVpXUEg0eV9HTHU2Z0FRdlFXdnhudnJoX1VmNUs3Z1lMQlk4V3duSHBjTnNPdFZpa0FYM1lvb1ZHMXN1cXdYVUZtNHQwTmNhMkt6RXhBT1ZwUmxCWGo2UlBRTkQ5clFHaDRKUDhVWnRtZg?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-07T14:35:37.388765Z"
   }
 ]
