@@ -3238,5 +3238,25 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-07T14:35:37.388765Z"
+  },
+  {
+    "id": "225ba80fc2",
+    "headline": "Circle K faces $20 million lawsuit over off-duty officer\u2019s death - FOX 35 Orlando",
+    "detected_amount": 20000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3A3aWxVWWE5dm14S3Rjc3Qtcno2VmZ1SGs5dEFnZEdvTGRpVzlYc2p3X1NTWTNvUkxFQ0t6VXppSl9Na1ZyZjZIOVNWNzBXT2ltbFJhWnduMDJpdzFPN0lGb0dLTFU1SURESldNN0JZRDZFYjV3SGRFZ2dXOGZxZHlIWkZVbDNjOGlhams3Z2pOWVY2MkRwMGtHS3NRZXdDQ3pGOHBrOTJsV1cySHVtbjV2bVRUTDRBaVRDU3FvR2VMcTU5Znh4TUlSQUdKbGJ30gHWAUFVX3lxTFA0VER5MzZQQ3dlc2RnRU1fY25uQ3FIQWhBTDBKRXBXbjNISlVIZlptNVJmcktqRTZORENVdVZRLThkX1JBSmsxdlJWc3ZiUUFVaFQzRy1LclNfMXg5SUhJRGpiNEVrbU9KZWVBZGJMdFhXWEhOdVRjQWNrbU54UE9BaDRWSnE2RXA5SHVzZVVLckRVWjlwdDNVc1o0QmNIa1lFREUzYzdlVDZ6VzVWejA4Q0puVGQ3OWxFc1hpRFMtLXlxN0tVZjR4M2lueXdsVzREZV9fbXc?oc=5",
+    "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-08T02:44:17.555331Z"
+  },
+  {
+    "id": "9b5d698644",
+    "headline": "Attorney: Family, KCPD settle wrongful death lawsuit against officer for $3.5M - KSHB 41 Kansas City",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkFfVVc5Z3MzVkozQXBUblBNQ1RUME55dWdObkt5V3Nua3Y5bGZMOUppX1FKU1d6eDlkcHBKOTFya3BybnpOb004UkpTbkZ3aHN0Sm8xbGN1N3VIX0tTSHA0TWpvZkJsTlJwQWJOTHNWTHBYelA4TDlhQXI2RkQtZnBIeTFfaDd3Uk1aeTJ3STBPa29GQ2NZLV95dWp2ZERhYjNsbTRpaW5fU00?oc=5",
+    "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-08T02:44:17.555422Z"
   }
 ]
