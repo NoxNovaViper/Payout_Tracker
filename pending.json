@@ -3258,5 +3258,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-08T02:44:17.555422Z"
+  },
+  {
+    "id": "8b799eefef",
+    "headline": "Family of unarmed man killed by Carol Stream police to receive $9.4M settlement - ABC7 Chicago",
+    "detected_amount": 9400000,
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmtaSUVSZmpqWmdQckxNNlZGX2hkR1VDelExTUV6REQ0cXByVFdxbTVqMXpIZ3IzUjhzR2NKQnlCWVV4NE5FYWNvdjBFV195YTZza1U0N3Q1dWhlN1hFc05BN3RGZXQ1c01YbjZsM2I3VVZQNWJCX0VjZ2sxWTNzeFBxLUpxNWVSREVfaEgtUi1TMnNNR21wZzRJaHBZelpRdTJpWTNsank1UXMwRjc4RVpLSG0yQlZBZnFoS1ZqNnlPNGdwTEMzYURB?oc=5",
+    "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-09T03:20:49.365738Z"
   }
 ]
