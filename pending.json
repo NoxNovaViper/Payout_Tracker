@@ -3268,5 +3268,35 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-09T03:20:49.365738Z"
+  },
+  {
+    "id": "61e464cd2d",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - KCBD",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFA3UVBVbEo4Sm1FTGpjTlpiRTEyRl9LN2dURWNWenBrSHJoRHl6akhGRmp6OVYwbW9ZN2VUSWJRQWZTQlNQU3hsMmVCM3ZtMER3T3o2NURhQWtLc3pHSkpITWkyam9sWi1GSjZ0ZDI3bGhRcDlEeGsxQnhnckRZdmExcHpEMS13djlJWFNMY3B0WkQzM1IweVR4cXFZT1RMbE1B0gG3AUFVX3lxTE0zUzNmeXY4QmR0UXFjZkF3cmhSbzVlRzhQRTNPZWJSS3AtWUJFbTVDaHRWMEIwRzRMMjgyZ1pHUHlqb0gtQzJjTnMyMVM3SUNFRHcwYXRHR3dCSlVRamg1c1AycXdLZWs5VHVzaHBvaEFJQ1BjaGVXaEJHcWQxNGEyUnUtc3ZYLWc4eHdEU3RaOFk5SE10T29lZ1F4dnFDYi1tdmZ1bjdTX2NFd2dzd1o0VEpsSWVXUQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-10T14:27:34.994809Z"
+  },
+  {
+    "id": "341fdbf790",
+    "headline": "$10.5M settlement in Elk Grove Village police shooting - FOX 32 Chicago",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR092NHBZMjFFNTVUU2FNbGpiSGpwTWRnblN5R1dBcXMwV1NmYlZ3RE9DckpVRjU3V2NBQXFPQmhYdVZRU3RwRC01MVRFdC1ZNGdsWHVFSFhVNE94VzhyTmtuMDV5SXVyM1h1ZnBGT1ZHa0ZjNmd2bzB3WUx3OWlyMzEwVTdHSWJqR3k3cm9LTEF4U3E2U0gxeWhBWdIBoAFBVV95cUxNM0dTVkFTLVFVTUpvWWdMUV95ZUdTOTVlcExLYmlWenUwODVVRWpFNkszYmJGV2d5d2hnd0lkNjZwcEdsWjBGQjhDcC1INWl5eGpMeGVHdEdjMC1YNF9lQnNDVW5zWkswczJza3ZVOUFlUFFqc0lKRDNxR0lxRVB4anZZSE04b1FxZ0ZqVWlMdmwxMGFKcUd1dElrOVRGN0JN?oc=5",
+    "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-10T14:27:39.650005Z"
+  },
+  {
+    "id": "d3be7c28c1",
+    "headline": "Huerfano County Sheriff's Office settles lawsuit for $10 million after Colorado inmate fatally injured in custody - CBS News",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRF9FMDZnMkgyakk0ZzBCREhTcWF4U0VjWlBFcjhOd3hpV2ZMWWplaVRUOFZKYXdPQTdfdkJDaWs0dlNwZ215QkNPOTNsZ180YUxiY1lUdFdVQkpkU05PQVgxVlN3VmZ2WlZfbm8tNUkyS1FsNVZqT1RqcUk0YkJnM2JET2JDZFJzeU5LTlc5VlUzNWMycjdJd3B3UTFKZkpheTAxbnNhN1lYYVhBQTAyX3ZoSUpLUTBIRlZCcERHa1Jtc2s?oc=5",
+    "published": "Fri, 10 Jul 2026 04:56:18 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-10T14:27:44.165725Z"
   }
 ]
