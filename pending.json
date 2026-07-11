@@ -3298,5 +3298,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-10T14:27:44.165725Z"
+  },
+  {
+    "id": "d3a67a83f3",
+    "headline": "Chicago aldermen to consider $9M police lawsuit settlement - Audacy",
+    "detected_amount": 9000000,
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xbkJhRkFPSFduZ2pTMXFqRDdlcVVKWmEzWVVaNzVhdDIzbGhsMHBTN25keDhoZlNId2lCTWJ0WXp5STVCaVphZVBTRWVVRXR3b3JrOEpVQ3pkNmV6aHh0Mkh1QVNuemN3UzRXUDk1SlNwQQ?oc=5",
+    "published": "Fri, 10 Jul 2026 22:01:22 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-11T02:41:08.466103Z"
   }
 ]
