@@ -3308,5 +3308,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-11T02:41:08.466103Z"
+  },
+  {
+    "id": "39aa3c219d",
+    "headline": "After years of racial discrimination complaints, San Diego set to pay police sergeant $3.1M to settle case - Times of San Diego",
+    "detected_amount": 3100000,
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHI5UUN2Qnh4VUl2OHduUnJNSHE2RnV3dERRaWJkRmtRWEV5YWlXMjA1YUtNSUt2T1VVNHlLdmpBVkJJRG9NdUxHaEZWVTRsb3hONlcwVVN2VkNrbE94M0w5US1IVXRYTk1YUmpvRW9BdTBzMF9sTnFzQk94WUhPZmZfeHVfd21CWk11VUxiX2RuZ1E?oc=5",
+    "published": "Thu, 09 Jul 2026 19:26:39 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-12T13:20:28.887053Z"
   }
 ]
