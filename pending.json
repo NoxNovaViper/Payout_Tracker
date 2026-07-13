@@ -3338,5 +3338,25 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-07-13T02:50:27.793238Z"
+  },
+  {
+    "id": "6b1d442e7a",
+    "headline": "San Bernardino settles wrongful death police shooting lawsuit for $4 million - San Bernardino Sun",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVRBYVU0YzZCNkpkUkRQNVBVbUdzTnFyd2VEZE5aZTVNbW1YejVvMkVVS2dlZmQwUUliUG01WXZrM3NVM3hGOUlkeDhlSlJHVXh1Nkc3WVoyY3hsX09ZSUNWQnJvZGtZcTV2djk3aExIRnRNSldZVDlRMzEzcHhLWXlCWWE5REJ2c1RVQXdPc3A3djdpUTV4Mk00bVBoa05LbndqN1NVSkRZazF2dGc?oc=5",
+    "published": "Fri, 22 Mar 2024 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-13T14:34:57.364586Z"
+  },
+  {
+    "id": "a44d03994c",
+    "headline": "Family of man shot and killed by Fresno police to receive $4.4 million settlement - ABC30 Fresno",
+    "detected_amount": 4400000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXlQRm9yaTdTMVh4X3I2MTI0ckJ5SlltRVlWRDVrTHlJWmgxRVpQSVFJSzVvU0sySDlZdWIwWW5CWXdHTlpWeC1Cc0IyRksxclliMk90UjBMdElBQUxPZGVELUJnMGJjUmg3alV4Rmp0bkE3TXFuUjA0UlRxa0o4NWFHREprQ3I4QkpWX0VZdDZ5c0ZyZ2fSAZsBQVVfeXFMT3ZIY0E3aG96SnRmU2pVWE12S3p1dVFOQjk5cnhFYWxmcmx1SnFaaXJGNy02QVk3VHMtRnY5MUxIeU9vV0JXajR2YmFCejlTN2VWQmJSdTFhUTNNc2c0UXNtU0JNZHdtaHdqUGRuVE1mQTE3cVdlSXd4QmJQZ2VXU2Y3dXlpTnE5eWZ3UFpiLUQ4UHY3Q3JMNEJUTHc?oc=5",
+    "published": "Thu, 01 Apr 2021 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-13T14:34:57.364646Z"
   }
 ]
