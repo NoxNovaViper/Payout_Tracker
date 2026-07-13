@@ -3318,5 +3318,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-12T13:20:28.887053Z"
+  },
+  {
+    "id": "d4c57e3277",
+    "headline": "Central Marin police settle arrestee\u2019s lawsuit for $3.15M - Marin Independent Journal",
+    "detected_amount": 3150000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnpXT1dCcE9BaC1Ea3VNTnQ3Tk1zY1lOc2poSm1rS2Z0MnFMS1RrRXg1am1GSl9udUJtYVlFTHRva04zU0JYa2JkWW1CM3doWENnUWpiUktDQktxdHdnVGpwZ2hvUUlCSG1EY2xSS3pkdDFrMHpSSHVTaVh3RkdubTAwNS00bTE4ZjZkM1RTeHIwR2tHQVHSAZsBQVVfeXFMTTJoZjY1VF9aOWhDdVlueGhSRlgwQnZZbE5jRHRtSl9xWHZmekNXQWpxYzVUUU9hcl82dDZpSWNtcXdkalp4WFhhbExNRHpSZ1E4Q2U5SE9ERjRCdTdnUE1IRzN1RkJRSndTR0I1MDhVbmwzZFJod0lGUXBaakRZOG5JVjZzWGRublVKT3VUZjNQenFrdHRJaVFwZnc?oc=5",
+    "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-13T02:50:26.283908Z"
+  },
+  {
+    "id": "5df04d3735",
+    "headline": "Minneapolis approves nearly $1M settlement for journalists injured by police during 2020 unrest - 5 EYEWITNESS NEWS",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVdzX3puTXRaZDlkMElyQ1NuME9TUV9Dbkk2aVdjdDdJU1ZkYTBFVEREZHRsdzZpeExCTFIyOFZRMHpKLVU5eVV1ekUxZnZIWVY4SE1DZzVoaDZGQUN2ZGhYSzhVNjc4eTl5NEFXbW5JTVVQS242Qi1zTm9sYW1Ya0l3aHZqenUzdldEaklpb2pSOWdZX0tkdmVsbER5dlhJZ0k0LUF1X1lzV05DaHZhczZPYjdsWFhxeHduUENjQVkxRVByWVV5S1JsY0IzZw?oc=5",
+    "published": "Thu, 08 Feb 2024 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-13T02:50:27.793238Z"
   }
 ]
