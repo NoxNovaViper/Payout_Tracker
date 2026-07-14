@@ -3358,5 +3358,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-13T14:34:57.364646Z"
+  },
+  {
+    "id": "66aaa80e53",
+    "headline": "Chicago City Council rejects proposed fur ban, approves more than $3 million in police misconduct settlements - CBS News",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOG8tRk5ZakRHcEdzMlZZM18weVAyTE5FbmNOWW5KeE4zbDA5eW9JUW9kNmMzN09Pd05sTzgwWS1PVU9oVjlKWHI2VTlza1dyeVJHMGxGcEVXRHFUVko3T0ZwUG1OZmFYRmxYWWRQYzFkWF9PUll4Y0lYRmRvSU45UlpRQklxamt3MV8zUVRnRDdVZ3o2VngtUHRORGnSAaIBQVVfeXFMTWxqTThWNlBRVGgxdXlZMW9tcXJKWkxXR3hJYWhOdWhnVlNGNUVoUG54SWZFMHlDMFV5OFByZUwxMTEzNVhhTHo1cDhiQ09saVBHYjQ5V2dJdERiYkU3Z1RON1hyR0p3SDJrdmFyT1BEUTNJTTZycVJqb3hCVzFPYjNGTkpveTJoTFlGdGRHdXRTTUxPYmtUV25uLXA0RnZMeW9B?oc=5",
+    "published": "Wed, 12 Mar 2025 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-14T02:31:36.919042Z"
+  },
+  {
+    "id": "dd84309483",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - KVUE",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNlZxMlJfWkVkaUtHTTlMNE5lUzVjOFdzcV9Ca3VMN3RTc2VMWHlVbmFUT3V5Zk02R3ptX2tXek4wUnFGYTMydXpNTEowdjZFMDNjb2Q3Z2xEQ3UwY0YzcTlpbDd6dG1IcXhhQ2VpWEU4b0xDVFdackFXbEFLZndQOTliWHRyRVZ5ZHBYVldpM1Uyb01BV3FpMi1iRTQ5XzVWTmFSSnh0VWtzU00xYjdSNlZRNU5GRGtHbUJDZkRGRDBfS2ZFeDlqZWNYUm9xOUhsSkJHdkRJY0NXOGw2Z3AzZDVsOUFsb3JFQTFJVklPbl9wN0VCUnNLV21aVEtkMWVka0tlTG1FYw?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-14T02:31:39.891921Z"
   }
 ]
