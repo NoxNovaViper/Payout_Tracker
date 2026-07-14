@@ -3378,5 +3378,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-14T02:31:39.891921Z"
+  },
+  {
+    "id": "cbf9842c70",
+    "headline": "KC paid $24 million in police settlements over 2 years. Here are the biggest payouts - Kansas City Star",
+    "detected_amount": 24000000,
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlQUNHLTJhSmZ5T3gxNXlPUURtcEhvUVFrOTZwVUc1dTVxRlJVWlZPdWI3b0tpNXFsaVJmOVY5cVpiT2NnMVpLaXFiSmpvYkVyYVpUYWVWTzBlRnd4MjlHdzVZcm90M2tSYnln0gFrQVVfeXFMTW85NDBKY01vSzZ5TEZaRnhwVHNSNGhEN2xqYnBjTkFLZXdJWWlqcnBoMzNCWlJtbHkxZ0R1U0E1Zl85NUJIWmpjbXJJQTFDWHVjcFlRTXo5aU1ibmxuRGdTV3ZqWTR0b0ctNVU?oc=5",
+    "published": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-14T13:44:27.466815Z"
   }
 ]
