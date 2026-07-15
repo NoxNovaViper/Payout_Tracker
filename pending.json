@@ -3388,5 +3388,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-14T13:44:27.466815Z"
+  },
+  {
+    "id": "f559309c59",
+    "headline": "Former Ashland police officer settles with city for $1 million over termination dispute - Columbia Missourian",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOeUVTeDNEMDlRUnJnZFNPRU8wajlYX0Y0M3M4enREZGwtaGtzY3A3NEF6a2M5Z0w1UWlILVZBLWF2YlA1ZVdEdWVxU0hkTGNFd0J4ekppdjZ5dzRGblczT0xibnJGTUFmR1lTUXE2RTMwbWxNSV92TVMxaUlyck8yU2lCLWFRSHdxNm01VEVmLUlrM3h5Z0xHTU1kbmpCTlJETUp6ZU9yRnJvdldCOXlMTG9vOENkajZtRnphbzlwcmw0cG42TUx0OFdnQTBhV05tNkhFZFEwdDMwNGlBTHV4Sk5VWUtnam90eDRKUXZHcEllcEtjRXAzam5hVDF6SzNKckZmOW5wb0JnZTVhdFNEQ3FpQjdLdzgzX29XU05XVkc?oc=5",
+    "published": "Sat, 06 Jun 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-15T13:44:01.717194Z"
   }
 ]
