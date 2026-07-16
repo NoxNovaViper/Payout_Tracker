@@ -3408,5 +3408,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-16T02:38:07.894121Z"
+  },
+  {
+    "id": "3d04784a8a",
+    "headline": "$10.5M Settlement Reached In Fatal Elk Grove Police Shooting - Patch",
+    "detected_amount": 10500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclJLMm9BeDFncG8zNHVZQUZ4NkRzNUJyUXhoUkVpVENrb3RoTW5ISXlWbkhseG9yV0plSUVTeDRzbDlmYkt6RDNhcl9FRXB5a3FKR1FLVm9kMHZVYlVLUDlOVXFBMEJSTlpYM1d3TlI0WW5HcEVRZDNjZmVYcDRYT3Z2bFpPd1E3c3RLTjFRdklSZkd5ZEN3VlF6eUFDc0sxZ1E?oc=5",
+    "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-16T13:51:29.037462Z"
   }
 ]
