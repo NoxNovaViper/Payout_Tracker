@@ -3398,5 +3398,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-15T13:44:01.717194Z"
+  },
+  {
+    "id": "f109a88c92",
+    "headline": "$6.5 million settlement in fatal LA sheriff\u2019s deputy shooting of sword-wielding Palmdale man - Los Angeles Daily News",
+    "detected_amount": 6500000,
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGY3dm1SbndTN3FsQk9ZZ0FxM0JhQXBpT3lyRDh4Uk5nVXRPdWttWmQ2c1pZNFFfYkJQNnVFeXhmTm5yTHFfYXFHTmFGekF5eHNFbG5fZmxfamdybzBRRWlSSDVfSnkyMjRkWXFZWGpQbWVRc0swb2xrT2h6RVh2R2hCMmJvVFNNQXpEVjNUOHRWNTFTQXZUSVFuYVF4VlVoY3NaM0dhWHhGS1JYVEhsMkhXYS1CNDBsSGhEQjU1WG5iZzhTME93?oc=5",
+    "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-16T02:38:07.894121Z"
   }
 ]
