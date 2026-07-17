@@ -3418,5 +3418,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-16T13:51:29.037462Z"
+  },
+  {
+    "id": "bc264b17b9",
+    "headline": "BLM protesters reach $700,000 settlement in excessive-force complaints against Minneapolis police - October 2022 - freespeechproject.georgetown.edu",
+    "detected_amount": 700000,
+    "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0ZycUlZVDNLdWtlSmlQaXhHUktRYnVKYjRrbUFPeDZHcm1CN3RTbF9oekh0ZWR5UFF4d1ZTOTFnTzdrM1JxaDdISjNUR082b1ducGM3Um9ueGxPeHhRV2U1ZGNSVC1MXzkxcW1ZZWJ3M3htY0ZMVHVvRXo1TUtpWDYwcUo2Z1dCWjRKMWJlbVhweDF5Z1RINlFiMFd6THVSVVNVN1VjOUIyU1c5emlqYWpUOEx0MHluSklwekhMclc3V3J4TmVhRVJoUEJZano2d3lVZFAyLXBDTERQMnVFbEhfcjdlYWJIZmdUREpsNUJXUGNNUDlxSzh3?oc=5",
+    "published": "Tue, 17 Jan 2023 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-17T02:40:27.337769Z"
   }
 ]
