@@ -3428,5 +3428,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-07-17T02:40:27.337769Z"
+  },
+  {
+    "id": "58927e4aa9",
+    "headline": "A $3.15M settlement over police Tasing of man suffering seizure - KTVU",
+    "detected_amount": 3150000,
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MbkxDcVFuU3JHSDczZUVCUjE5YmRma050N3NiX3ZYNkczSjlCMVVBS0t2YnR5OXE3WTMxTDNzckFKSFdaaUYyb3hieDdLSkpSb3NtNXF2VW9xWEUtZ285WUo3Z1lNMWZOU0dvbDNGd2tvc0EwV3dibdIBfkFVX3lxTE44amhVSFBsU1Z3TWVydXRxeEV1ZXQyeThmWk5GQm4xdVlTQXoySVdHbUpkUmFYNGRBVnBfbDRoNzNaWnRXYk12djFzWkZPUzdWTGdmT051WEQ2WVMxNS1OWXFuMlpnSktNN2lvV3lKZmJFMXRIWm9UbW1wQkdVZw?oc=5",
+    "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-18T02:31:47.522298Z"
   }
 ]
