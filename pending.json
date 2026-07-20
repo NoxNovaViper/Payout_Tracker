@@ -3438,5 +3438,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-18T02:31:47.522298Z"
+  },
+  {
+    "id": "1f3e5478fb",
+    "headline": "Fall River pays $100,000 to settle another police brutality case - The Public's Radio",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHp3NlZjSzRYaDJwQjhfVUhSVGxjRFFoYWsyRTdWd2ZjTUJ0elJtdU5sLWJaaWREZVN1QkFKLUlfbU9NREZLcGlrUnhsdGhseHRWOUZDamZWaDlDNURhTHF1bUdoaWQwWmNUUHZhdDNfbnItNnlyQjBLOHZrZEZkZmVpQnBnNm1iZnlFUHduYU9RWHlOdnp1cDJkc3IzRHo1WWx1UDUyMjV0MGRK?oc=5",
+    "published": "Thu, 01 May 2025 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-07-20T03:15:05.650913Z"
   }
 ]
