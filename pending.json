@@ -3448,5 +3448,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-07-20T03:15:05.650913Z"
+  },
+  {
+    "id": "dd3e3658da",
+    "headline": "Fatal Police Shooting: Teen\u2019s Family Could Get $1 Million Settlement - News From The States",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWd0eWJpcVBWT1UzMXNXU2tyVHZObWFiUnBRNGJsM1EtLXd0dnp3RkU1QVVvamktSVpaempiTTNJSWRsYnhSNVJDYldVdmZHX1drck5BQUNFUWtQeGkzbDBlYmVYM3BVVk5yTFFXZU1ha09Oa1NuT1laV2V5TkJlRDhoZWtkcmw0Z3A2d2Jud25qc2x3Y2pzOGE5b0RWOEpUUWo3WjlVdm00RDQ?oc=5",
+    "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-20T14:06:41.259968Z"
   }
 ]
