@@ -3458,5 +3458,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-20T14:06:41.259968Z"
+  },
+  {
+    "id": "3fbb90c794",
+    "headline": "Council approves $3.1 million settlement for San Diego police sergeant in discrimination lawsuit - San Diego Union-Tribune",
+    "detected_amount": 3100000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmFfQUMxV0p3QjJkVmh6SGxNM1RPR1FmV2pVcmdzZ0FMTEJtelZJVkc0UlNMMDN2UzRUZDVBVm5Ra09wRklyVzZ6M1ptcnlwZDNsUXVsNzNuNEV1WXNZdy0td1lnRTJPU2x0Ykt4cXVTUHY5N05IVXMyeHQzRkY5ZE1JZ2hJcWtQbkVLcDVsZ3JvRWYxdFVXRzNpV1RYWUJBN1Q5X0twVXpfNjk0cktITlZNR0V4aXhNWG1Kd0FKaEp2aENTbldtOXhkdjhNSndKOG45QUhzcXJVell3?oc=5",
+    "published": "Mon, 20 Jul 2026 23:18:34 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-21T02:43:18.567743Z"
   }
 ]
