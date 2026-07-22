@@ -3478,5 +3478,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-22T02:40:52.478373Z"
+  },
+  {
+    "id": "52a43fae27",
+    "headline": "\u2018Wrongfully convicted\u2019 ex-police chief paid $3.9M after decade-long legal battle - NJ.com",
+    "detected_amount": 3900000,
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWJIdFN0c2dtTkgzV19wVWdGMHk4bGRzaS03UHdMWEhjSlE4bXNxNWJGMzdoTHgxOHhPU2x0SnFUclVneTRSN3lOOHJMRUVkazdodWRvZDA3eTdIbkFfVUNJRG40S2pSeEdTQVFaVnJ5LTVWeHZvSjNrOWpBLVV6Y0NLWE9JcndKZy1vR2ZLc3B1SXhFenlpdm9meFQ4V2Jzd2pLbTR1S1p5TXFKSkR4SmJJdmlsVlBueWhGWHpmYTJfV3Fo0gHYAUFVX3lxTE5aTXNqZURuVE5jcG1RWmk4bmR6RHRvdEVxMkZ4cVc4S0FhbDZNSFBZaTFhRVhqeU5NazhvT1IzZE96NWN5V2pza0tCdUZtbGxlLXItaktERWpxYjRmMGhCZEg2eWN1YnZJaW5YanNMNzVNUmN3OWhRb1o3eXVMVnloRGVFQ3BvOUdGcXc1NDJIMlI3akF3WHVZd1NmXzNsUllGRE1pX3puS1JrdWZBY3pTV3hlbTE2VlRsdXVJYnNoX1R0d0MxQ2kwWXhub1JaeXFzd1kyWG1OZQ?oc=5",
+    "published": "Tue, 21 Jul 2026 10:30:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-22T13:54:41.329949Z"
   }
 ]
