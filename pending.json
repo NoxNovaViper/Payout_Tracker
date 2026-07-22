@@ -3468,5 +3468,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-21T02:43:18.567743Z"
+  },
+  {
+    "id": "fb3bfeba46",
+    "headline": "Veteran Black police sergeant settles retaliation lawsuits against San Diego for $3.1 million - TheGrio",
+    "detected_amount": 3100000,
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSdnBSMVpLUGNLUTR0dHBRMzQ5RUlmR0d1NlkxdDI0ZWpEaU1fNVhaZHJiYjBDWmgteHhXVUQ1MnRJbG1hSF81YVVYa0FMbXEzOW5lZmd2eHJIbmpqSk5mYmVHLUlQNVNKQXlCODMwamZPTldFOUNjUGNTYVI?oc=5",
+    "published": "Tue, 21 Jul 2026 16:37:12 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-22T02:40:52.478373Z"
   }
 ]
