@@ -3508,5 +3508,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-23T02:46:33.931392Z"
+  },
+  {
+    "id": "b3cce3dbc5",
+    "headline": "Chicago Taxpayers Spent $259M to Resolve Police Misconduct Lawsuits in 2025: City Analysis - WTTW News",
+    "detected_amount": 259000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlU5cnN5YldhbjlsajVZMExaMnowTjFmWC11em1hUU9GMTdCSFRfZ2RsY3g2UU43NlNLYW4tTnpLcVFHYm9VTFpaY1BJaU94cm5fdHJuYXRySGJjMU0tR3dDNUhUeUp3MXE3NTJrR0t1LVA0OTFRVWZQNzUwYVBaNGlrRTBqV3NncVpDSXM2WGxJeGVLUGVNQXdRN2R5T0ZmaWZPTnplaHJKR21NQzV6djZhay1Ldw?oc=5",
+    "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-23T14:00:49.064486Z"
+  },
+  {
+    "id": "4a97a2ec09",
+    "headline": "Innisfil family files $17.5M lawsuit against police for killing son - CTV News",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclhMQ2p6R2hpUzZMQS1KbHlVSE5XYXJrbEZ1WHpuSG1YWFB3MEUyRTNwcER2SEpXSlFndFZIUzEtXzIteFJSSG14VDBrcFFERU85YU0wdXo1VF85LUpZbXJ6U0FySVJGakxydzBYcVNLT3dPampCT3J3dW9qbkJzUF80UGFvQWJuNllsUy0wenJYbHFLM2dnb21OV0xIdWRlVkhrdzUtRQ?oc=5",
+    "published": "Wed, 22 Jul 2026 22:32:33 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-23T14:00:53.984752Z"
+  },
+  {
+    "id": "0002cef4e2",
+    "headline": "Video San Diego family to receive $30 million police settlement - ABC News - Breaking News, Latest News and Videos",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GWWdtNVFRRzV5ekJQWm5RSzFPUm9aQzdaYlV0MmpOMXlxQnVKZk50emxyMl9pZUZaM3ZtN0JWZ09jY2MzM05sTFdkVFg?oc=5",
+    "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-23T14:00:53.984984Z"
   }
 ]
