@@ -3488,5 +3488,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-07-22T13:54:41.329949Z"
+  },
+  {
+    "id": "a7c98e580c",
+    "headline": "Family of Barrie-area teens shot by police launch $17.5M lawsuit - CityNews Toronto",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMV9HOTR6NTFuaUpNQ1JzVGE5Sk1Uak1uQmYxT0VsLXBBcVA4OUlULWRVWTZ5S3NZc1FEWTl5M3NwTExLLWNtQXF4ckIzNTRvS2MtUmtwMTFscExPRFNZbkFOeVB4OGwxN3hsMnlBelhZZW5XWHMwM1dOUm9lY2Z0Q2lsT21pRkhEREtoRg?oc=5",
+    "published": "Wed, 22 Jul 2026 15:02:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-23T02:46:33.931368Z"
+  },
+  {
+    "id": "431d3e5e0a",
+    "headline": "$17.5M lawsuit filed over fatal 2024 Innisfil police shooting - Barrie 360",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUdkb3pFUTJCY3ZCbkt5enVDZW1HUUtQeUJTOXhMeF9GMW5ERkxyOXA2bEI2UzJQQV93YVZkUTNiUnNGQllvbFE2Rm9WbmFqY0w2Nm81V3NTdVItSjZIT0g4enNHQTJqX0c1aGZaY0VwYXhnMkV0dHJhU0ExSXRqY0hHYUVkZWo1Ync?oc=5",
+    "published": "Wed, 22 Jul 2026 17:28:16 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-23T02:46:33.931392Z"
   }
 ]
