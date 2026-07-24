@@ -3538,5 +3538,45 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-23T14:00:53.984984Z"
+  },
+  {
+    "id": "82905ab7ea",
+    "headline": "Chicago City Council OKs nearly $25M in police misconduct settlements - FOX 32 Chicago",
+    "detected_amount": 25000000,
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14MURLY1hBWWdldjkyZXIwUXZEMFYxdHdtWTVMU1IwaUJuRVZWd0lmVnF4RXpqQnJDb3lrVkNNRVltcjVFbXlQVWNuZ2dYZ1NZaE9CSkRFelUyaEVHdEFsd3dkeFBRNEVNRS1SczA4eHJJUQ?oc=5",
+    "published": "Wed, 18 Jun 2025 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-07-24T02:42:16.866180Z"
+  },
+  {
+    "id": "780dd76fec",
+    "headline": "Ontario family files $17.5M lawsuit against South Simcoe police after son's fatal shooting in 2024 - CBC",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDRxaDQ5dkJCeTgxbHAzcVowV29Ud21TUWVVdFVlZ2pRakRQeXRxTzdDLXJkUHIyZGdOUkZPMGpuVFJ2QVhMN0FrSGxkVW5udVFjWGFtcC1fNlYxVUY1bzBtVU9NOEhwZDlRby04NGF0c3RERmZnVk9ZSXIwOVd0VVdEZW82cVJVV1BYMUI2Q0RhQjNMT09Lc1Y0ZnNZQQ?oc=5",
+    "published": "Thu, 23 Jul 2026 18:39:26 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-24T02:42:19.961480Z"
+  },
+  {
+    "id": "a309d738e6",
+    "headline": "\u2018They want answers\u2019: Family demands accountability in $17.5 million lawsuit against police in deadly \u2018mental health crisis\u2019 shooting - CP24",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVVZuRHd1cS1CWW0yMDFKUUdTRFAzTkZ4NlBBTnBkRC1ZVmdxM0szVjJIQmx1Zi1LS09ZblE2dTZKVkJ3ejNVUGQ1c090VUlYOTVnY3FRdU45M2hISjJ0OXpHNXRlZ0lWZjVMZXMwbFQwdzdESlVrOE1FaXZNTE9YUmxVMVVKRjFqR09rQ1pNYXVmQzJvMkJtcjhqTllZSmNLUE5TZU0tdGgySjhZMEZjdmhPb25JNG9XXzZMQ3lfUkdFbm92b1JTYkFDTTR2Q3FtT29IeFN4MVMxR2dQbi0xUnUxOF9nTm9wLWhYQWtQenJWY1VacDd1a2xGeXlpZ1E?oc=5",
+    "published": "Thu, 23 Jul 2026 22:27:16 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-24T02:42:19.961507Z"
+  },
+  {
+    "id": "f45dc2a398",
+    "headline": "Innisfil family files $17.5M lawsuit against South Simcoe Police for killing son - CP24",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2ZZY0Z0SjlsNnB3M2F6NGVWVGtqenJ2bkhSWnNISWpGSGdZd2kyTXRSektBNzNldU9uVmlCZV90RUQzdTNVdHNxYVZBMk5TS1lxY21lalZTbXFVd2FFX1k5cHNweTk5WXNnYzIyc256cGNhWW5XVXpGS0trWTlfSm1DVThvdThnazM2VTdqUF9RUnN6Wl9KM0hkakd1a1Njd0JKN1Q4UWE2bUVDZW0w?oc=5",
+    "published": "Wed, 22 Jul 2026 22:32:33 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-24T02:42:19.961541Z"
   }
 ]
