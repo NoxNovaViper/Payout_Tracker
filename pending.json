@@ -3578,5 +3578,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-24T02:42:19.961541Z"
+  },
+  {
+    "id": "f6cefb6c18",
+    "headline": "Boston agrees to $850,000 settlement in lawsuit over police force during 2020 George Floyd protests - The Boston Globe",
+    "detected_amount": 850000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVJXdjdKeFkwd2wyclgzTnMtLVVnTkNzblQxdG1pZEJ0Sng4WVBFZ1VTUnFFZkZxWTRuMjE1MHF2aTEtTTlWSzZWejRqaTR6eFZIamlHUDlBUWZhYTZkTmwxdkw3VkVZNEVlNGNNUUZ4NXhZX3ZjbmRXWnZZQ0VTVFl1TUVhUHh6ZHR1TmE1cw?oc=5",
+    "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-07-26T13:22:52.559782Z"
   }
 ]
