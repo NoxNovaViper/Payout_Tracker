@@ -3588,5 +3588,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-07-26T13:22:52.559782Z"
+  },
+  {
+    "id": "d73527db8c",
+    "headline": "\u2018They want answers\u2019: Family demands accountability in $17.5 million lawsuit against police in deadly \u2018mental health crisis\u2019 shooting - CTV News",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVZESGcwUERCM2FvSDNDTXZ4ZUNlTW1hZUVQYTFjMHJIRzBSVTBHM2ZsazlBOE1BWEdXUWZBUUVKSFpKa3lXVng3bm1HdC1fM0kxanBfZFlBbTBScmx0N05ONnNZT3k4WlRyZnppYlpiVE5WUy0tcGpjbzVIZFMxQktOSldxQWlxVmVfZ0x2d1Q4ZXVVaEp0cjVkckw0M3R4Z3p0MDJqcHpCY2x3N2VlYlN1emdEcjZnUV92Q01oQ3M2NUFUci1QWHlrOHl1NkpJcFpwZkZ2eU9GTkhJUnhRX3Y4MFZNcmxZYXhhSjliX2ZMdGVrZEx3?oc=5",
+    "published": "Thu, 23 Jul 2026 22:27:16 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-28T02:33:35.001739Z"
+  },
+  {
+    "id": "e3745245a6",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - KALB | News Channel 5",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSy1DQjBfUlJjb1ZjOTFjRGw1d1FsREhKdm9CQzVNTjhpWU5NX0o2Sk0weFJ1cDNJZGYxaGhjdnFPSjNoQ3J0VWhHZEdSV1QzNXlxYmdMSjFsQ0k5eHRyblh1dkN2bF9GRzFEWlZVWEZhSnp3dTliRm1VUW5fa01TZXB4QkJqQnd6al9tWENJemxRUUJnVDJILWlwT0QzVDdWRTU40gG3AUFVX3lxTE92WXB5Mkc0VzVfZEdkejNBTGhnODZDV2pMNHJUYVIxbm4zVFdpeTRYODQyWVVDRmF2S3UtRkMzcHB5OEpnVnB4cXgwSzVqLW1qMy1NMDJnUS1jaTZNTG5ESWRXQWpzVHFSc002aG5DZ0lXOUMwUjQwRFJNSjNIUHZkYlFNM1ZmdHozYXREbVZZVkQtbndLOWIzWGhKUG80cnI5Q0NmeUtfZ215VG9ZZDZERUJCbmtSWQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-28T02:33:35.001797Z"
   }
 ]
