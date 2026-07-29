@@ -3608,5 +3608,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-07-28T02:33:35.001797Z"
+  },
+  {
+    "id": "2d31dded83",
+    "headline": "Chicago Police Misconduct Lawsuits Cost Taxpayers Nearly $259 Million Last Year - Freedom For All Americans",
+    "detected_amount": 259000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MX2N5b1U2eFFobDk3dW5rWkQzRHczWmJSZEZVN0FhalZRd1B0RmFNVUpsODR3c1JmN1VBS2F4WnpabjdLcWxMQ3VpWWRCQTVkV2hBOTVkOHB0Y3RPclA0b3VNdDRWamtIQUtJYzRkbl9XOUNQNGx2R1N3?oc=5",
+    "published": "Tue, 28 Jul 2026 09:16:03 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-07-29T02:39:38.718157Z"
+  },
+  {
+    "id": "a929e1803f",
+    "headline": "Antioch settles for $7.5 million with family of Angelo Quinto, who died in police custody - NBC Bay Area",
+    "detected_amount": 7500000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVFhTmk4WFhfUnNCVkVSbzBHZnNxbUVQSVM3dzJCa2lmWjd0Q0FRUGRvVFNCZ2lZMmNxQXFfdTlJZ0FPaGFkT3d4MmI0RDZpRVNreGotWVY5OUJodGNJUWNPWXFaTk5ndjAta1FGRDY1UEF6TVFoMnE1UmdSd2ZJN0RIZ3Z0WUViRG5BcWM5b9IBlwFBVV95cUxOVFZvbG90VnBHX0lJYmpPajRERF85U3MwZE5ucFBCRjBvTHd1UGtfdUpGLUJYNWdJX2laY0x0eGdQLV80M3E2dUI2M3BVS0NPcDl0OU4zZl8wQWw0LU1tRm54VnZGNmZiTEg0bktFbzJzV3dLR2VOOGtCdTZCVW9TNHd2QlBxVlBvNEpTS1lpN0ZkYWpJNnpN?oc=5",
+    "published": "Wed, 15 May 2024 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-29T02:39:47.640711Z"
   }
 ]
