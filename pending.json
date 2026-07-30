@@ -3628,5 +3628,35 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-29T02:39:47.640711Z"
+  },
+  {
+    "id": "692d975fd7",
+    "headline": "Family of Jayden Baez reaches $1 million settlement in 2022 deputy-involved shooting lawsuit - WKMG",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanBUZVJIcjhHdjRnOEhjOWdaeE5fV2VpYzRsaFkyLW1VbzhqQVBKbkFwaS1zdExDVWE0b1o3bWVvZ0VuNFJNMldXeHVsUEV1b0plTjhJUTRiYlBXRjA0QkFlLUE3aU1kOHo4STA4N2ViRFhEaWZVakFkZXFHTmdEZVQ0SVVzTk9fZkN4dTNGYmZjMnJ4d3BfQ0g4NUpNVnJ4dFRXR25KWWZnWHdDS3dJX3ROa0t0dk5zcE9vZzhlaXJUWTlKU3VqZXJDeUVXUmxvX1A4UnhubWxiVGlDSk9VbWd5cw?oc=5",
+    "published": "Sat, 25 Jul 2026 02:29:39 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-30T14:02:31.517840Z"
+  },
+  {
+    "id": "ce464de9e3",
+    "headline": "Vallejo reaches $8.5 million settlement in Sean Monterrosa police shooting - KRON4",
+    "detected_amount": 8500000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnpsR01xN2N2NUR1aFJWcnhoM3pFcjNIRXU1WUx0S052eExhTXlWcHA4dmFmamx0TjR1T1dMQ21vV2JObGZ4TFBUWkdtdFBzQXhDaFdLemhIQkh6SnB6RGE2dTVJOEdiNW8yY0N0Yk5NakhlSzZmVndzdURlSDBrNjRaeE93aV94MXZOU3AzT1BWVWwzX0hzeVFfbGstczVLRnFHb1pFX3M4dE9EMDdJ?oc=5",
+    "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-07-30T14:02:31.517969Z"
+  },
+  {
+    "id": "34cde7d81c",
+    "headline": "$3.7M wrongful death lawsuit filed against police in Nathan Schofield case - Village Report",
+    "detected_amount": 3700000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzhlWnptR0tnMGQ1anBYWHpSaS1TRUU4eEpMek1WOVg4WWJQdEJ3YnFZeTV5T3ExZ2dvelNaZkZIUEdNVVhNMnFUQVRJak1IYTlwbS02dXNFTTU2akRteXZNSENmdV9aRUQxdEdpQ2RLaGt3bWlQVWtYWmVJSnFjU29qTkVPbVpwZ2NsQ2V5dUI4WEJySkFPdmtHNEhSZUl0QktGNHlwdlBXaTdHX1E1VnFYNUV1VFp2MVgwVktacGZyQQ?oc=5",
+    "published": "Thu, 30 Jul 2026 00:37:43 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-07-30T14:02:36.086386Z"
   }
 ]
