@@ -3668,5 +3668,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-08-01T02:49:38.900427Z"
+  },
+  {
+    "id": "357db7273b",
+    "headline": "City of Caldwell to pay ex-police officer $1.5 million in lawsuit settlement - Idaho Press",
+    "detected_amount": 1500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOEFIVkZiaVdNd2lJNjNrQ0ZpQkFHYV9Rbi1WRGttXzgwZU1BLU1pdDYxdk9vUUFMV1Y2QU9uS2JGLVQ5VVpsRGdERlpjd19EanJzSFF6QjRBSlBCUEpxMFBVZ2ZXcDUyLXFINGF5TlZGbDNsUFBuMVFpcHpFOUJmZGZLY1JrdnJKWnBSNHhLU1lyR1hRQ1pnVGUzRjNZc0FHQk5RVXp3ODdLWUlLRHBqUTFCU3VVeURXeS0xbVpreFlVamNlc1c4SDA2amVYZ1NaeVIybmw2UjZoc1AxTDZRWk93eG1FZHlSVnJJblpR?oc=5",
+    "published": "Thu, 21 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-01T13:21:18.859604Z"
   }
 ]
