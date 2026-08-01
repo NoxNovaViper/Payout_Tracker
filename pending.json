@@ -3658,5 +3658,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-07-30T14:02:36.086386Z"
+  },
+  {
+    "id": "9f366d2b9f",
+    "headline": "Former Rutgers Police Sergeant Settles Whistleblower-Retaliation Lawsuit for $1.2 Million - transparencynj.com",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVItUGI4eEFZR0JoUS12WlBhWFJEdmpFdTlhS1pVSVZFM0lyOTRWNzlIUGhHY1pXMTc4R0EwbXdSSmVvY0p1aWQxdlRTUDdRVFFGY1lQbEhRa1pXYmJXZmZWRmt5VXU5dGtVSkgzVWNwYl9fUm9YMWQyLXg0UWRJMGs5RldBSGxDRHVCZlpIcS1Wb29UZWlKQ2NYaDBzNzhwdWVhSmM5TzZhdEhLSXE4cDl4UEtGb3Y3RDRIeHp4NXZPTnUzWkE?oc=5",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-08-01T02:49:38.900427Z"
   }
 ]
