@@ -3678,5 +3678,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-08-01T13:21:18.859604Z"
+  },
+  {
+    "id": "b6c826c34b",
+    "headline": "City of Antioch Agrees to Pay $4.6M Settlement to Resolve a Bounty of Police Misconduct Cases - SFist",
+    "detected_amount": 4600000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGttZTFlbXpVTTNFMEhPUTEwMW1LM2U0c0pvQm9tZ3d2MkJFYWhYTXRKRGdlcnRBRm95RTR0ajdxd3VVQmM0eWsxMkV0ZmgwaTlvSjlJaDNlRlBVQmpVekFtRnpmZ0VZb0tvdmlwbmx1dE9qTUFaTmhESi02Q3JKaFpYVzVIcXJvU1B0NXlEeGVmb1NOdDRYZGNhZlQySUZfRWx6WTR5VGU3Z25ZMW1mN1Jrb25Qa2Z4bGFJQVB3UU41Zm92Nnc?oc=5",
+    "published": "Fri, 19 Dec 2025 08:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-08-03T02:49:53.351452Z"
   }
 ]
