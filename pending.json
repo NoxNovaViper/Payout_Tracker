@@ -3688,5 +3688,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-08-03T02:49:53.351452Z"
+  },
+  {
+    "id": "81bac212f2",
+    "headline": "Suit Against Officer Who Took Nude Images From Women\u2019s Phones Settled for $4 Million - The New York Times",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnVxalBmTXNTbGNxQ29FUlFIUHZRMWl5dmllZF9kUkpackV3d0E0Vl9XU0hYTGFoTWZSYUNVQ25UMW9jRkNtcWZpaWVuSjNsamJBY1pqRDVab2lYdGQwM19YSVkzVWx1X01xNkxXbTJ6SU5oMnhfNmpJMFNuOVc1RnA2M2dBbEtr?oc=5",
+    "published": "Sat, 01 Aug 2026 17:39:42 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-04T02:33:10.085870Z"
   }
 ]
