@@ -3698,5 +3698,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-08-04T02:33:10.085870Z"
+  },
+  {
+    "id": "c1d9cea01d",
+    "headline": "Denver to pay out additional $3 million in police settlements related to George Floyd protests - The Denver Post",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3BCWl9lTnVNM2Yzc09BdktNZ2VyZlQ4YUwzNkJMQWtXZGs3OXNHNWR4X2hmTjZpYUlCSTNLMVNqU3UyM0NBTFNBS3BxZmpSM3VEOEUyTVAzbHd1Q0ZLR1lhWkRlaXc0VmdCY25pUU81RmNvaUJpX2ZrMWEzc0V0N3ZvRElxZzdGMGQtLTlKOA?oc=5",
+    "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-06T14:09:49.693747Z"
   }
 ]
