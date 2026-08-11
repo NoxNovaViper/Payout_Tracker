@@ -3718,5 +3718,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-08-11T01:45:41.540798Z"
+  },
+  {
+    "id": "09e7a0ca67",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - WAVE News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklaaTliOXZ1QjJHWEpGWjNWUTFoRHpKN0YxLWllNzYzSEdSSlFaY3F4cEtoX1ZmRGZwSGFKM2szU25KQjBaaGcyTnM5SXlCdERqVUNhTE90Snk4UE1HWTIydEdXRG44VWhuaFN6dlRYQ0VJeW5jS0NHZ0lqeVdnWllBd0U3QnVpbWVQaUlYb2ZTN3h4MTZXUUZ1R2tYLUFpdDVTMtIBuAFBVV95cUxQSzFRSFRnWE5BdThQMmJEX0w0NXJnS0hHZ2JNbjhVWmU3c3NUemp0OUkzN2lHWk9iNUpOaEF2NnU2am1OdkNVRmQ2TEwtUzlmTTZ2NlJOQjBlRFl4UDNVTk1xeHk4bXlNaHZOOHlzSzlOMUpNZ05YaEY4TGVyWUZ5WUJPdXRqWFhmZjJrOXZ6R0tweGI2aG14WlU0Y1pxVTU3NkNPeDRObkVqWVVvOFBBZEUzbjRKOG1s?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-11T13:04:50.412117Z"
   }
 ]
