@@ -3738,5 +3738,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-12T01:57:38.636922Z"
+  },
+  {
+    "id": "ae8a751543",
+    "headline": "Fort Worth Proposes $11.25 Million Settlement In Atatiana Jefferson Police Shooting Case - Dallas Express",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS21vSzNjb2pYb2dHV2FvTkE5N1A1OXB4bFA0Nll0NTA2Uk0xdG44NERnZUFBZVFhcDFsbnNpVDdyLWxxWTRXMDZhUzBJTTljZUZ3Z0RXdlZFSnpXLVBPMXVvbkpMWURxeFJaWVJlY1BPSFFQeWJEMHNpYmZhdEVrd29LcDZrWTRXMkV3c1UyUThKeHVlX2Flbno1TmZjRlNmSUQtV0M1dVlnUHBJNEdmeWpKS2pXQ0RURV9xU2hPNA?oc=5",
+    "published": "Wed, 12 Aug 2026 16:37:14 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-13T02:00:04.497252Z"
   }
 ]
