@@ -3748,5 +3748,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-13T02:00:04.497252Z"
+  },
+  {
+    "id": "b681b8e365",
+    "headline": "$90M settlement tied to former Chicago police Sgt. Ronald Watts approved by finance committee - ABC7 Chicago",
+    "detected_amount": 90000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSFlVb2VqUGFGdTJTZHgxZVViWFRxLXVoVEt4eGtGUFlYY3VXVE43bDZ6VXJYNEwyMElMSWU5bUw4QnRLLWFOdktkM0pGaHBmRmRINXptd3FFSjlVdThXSnNZSzNJdC1UV2RUeml4ZC1DVGt6R2xWY3BMVTFXdHV4eXg0S2VDS01JTktKZzVBU01VSUVIdFFMckl0dTlKbmpQY2Q5NE5TMWc3OUtQcFBDc0NmVGtTakcxYTNQaXBnM0J5dEMyS1RyNTlGb2NFRjZyNTF6cW0yeTlVamg4QU9xb25CWS12UDdRZmc?oc=5",
+    "published": "Mon, 15 Sep 2025 20:08:46 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-08-14T01:57:14.792074Z"
   }
 ]
