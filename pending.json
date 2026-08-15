@@ -3768,5 +3768,25 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-08-14T13:06:05.121138Z"
+  },
+  {
+    "id": "67c164db56",
+    "headline": "Family of man killed in Oakland police \u2018ghost chase\u2019 will get $17M settlement - The Oaklandside",
+    "detected_amount": 17000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzFyaC1scUVmOUg1eW9YQlpIVlFtSDV4dE51QnR2VFNETGJDbUIxYjVlT2pvY1Z3LWU5LWk0SjJUUEZUN2J3Q0NQdjdFdVdpeDEwMkMzLV9pTnJaY01zaUF0RlhNWU53Uk40cEc0Q0NKUEdEaTRTLUI2ZWJ3Y2NHMDRuRkhVYkRJYTJDVFpSejdSWGhPTmpJNjI3dk1BeW85R1pSUnlFNDFoRVU?oc=5",
+    "published": "Thu, 13 Aug 2026 23:09:18 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-15T01:14:17.903638Z"
+  },
+  {
+    "id": "fbae26e486",
+    "headline": "Akron announces tentative $4.75 million settlement in connection with 2024 police shooting that killed 15-year-old Jazmir Tucker - WKYC",
+    "detected_amount": 4750000,
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTFhcU90S3VVc1BGcmowNEZzMlhzclFmNFFwZTdxZVBNNWo1aDgtNXczUEZaU0tCNV9lcHVYT2VmUnNhZGw4blpKWjQ0NXQ3RnplVkhNNWxDU2g2MUpIaE42T3BsMUUtdlo1OFNOa3VVdFRiMzA5MGVkdkRhaFlkZDMwX3U0T2gxcVlCdXRvbHI5aEEtWWE4QnV5LXYzS3Q4QWZENzM2TWpNSG96RW1zSVNjanpVRUQ3VFJ6VGNGcHVVUDNWNkhsbWFsTFYycTVxRkFSUWNLT1l0RHNoUk13cU8tNW4ybjFkaWdPZHpncm1EY1puS0E?oc=5",
+    "published": "Fri, 14 Aug 2026 15:10:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-15T01:14:22.523350Z"
   }
 ]
