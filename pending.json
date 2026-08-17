@@ -3788,5 +3788,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-15T01:14:22.523350Z"
+  },
+  {
+    "id": "9ae407204a",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - WBAL-TV",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnZrT0VZMmdpZzl0am9YVGxmeVFFb3hWeWQyOEZPdV9uRGF6NEtyNkZPNE9wdkZqNUwwalBFV0h3cGI4SlVwNV9zQ09Vc2N1cm1CWC1HUjZBZGlwRUFuM1RVUXg5YmZpR04zbFJ0RTZ0ejN4cG01YjRHTk9xYnRkYzVBOA?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-17T01:16:02.289588Z"
   }
 ]
