@@ -3798,5 +3798,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-17T01:16:02.289588Z"
+  },
+  {
+    "id": "e3612fd9f7",
+    "headline": "Phoenix approves $5M settlement after man killed in 2017 police arrest - FOX 10 Phoenix",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ18weUVqTFktajFmNTVwRUJPX3ZYaklMTGNGWEtpVUZROEVBb0NucUp5a0wxQXE4U01LbDU1cGlPTjdpakRFZ1ljWldRYzduY29wN1VrUjZsNkU3d3Z0aDB0aDg5b216cDdIM3N5RXpHS1ZDcUtxM1Q1Ynp3SWdNVHdycUNYNXFHLVJmWnhKRzdRV1pqYnJaR0x4T283cWdjY2F3YTdYdXY?oc=5",
+    "published": "Wed, 17 Nov 2021 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-08-17T12:43:12.523594Z"
   }
 ]
