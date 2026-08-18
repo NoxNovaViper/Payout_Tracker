@@ -3808,5 +3808,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-08-17T12:43:12.523594Z"
+  },
+  {
+    "id": "1e7ca1a7cd",
+    "headline": "Taxpayers paid $80M+ to resolve Chicago Police Department misconduct lawsuits in 2023, records show - ABC7 Chicago",
+    "detected_amount": 80000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUFCeGJaTFBwemd0clM4T0RSa3VxZ25jMzlORmloNU14cmNjUFZPX1gtZUdaSU4wdVgxeDB0TXhzYkZheWZfUlk0aDlwS0JFT3lRM2ZLemU1WGEweGRPcjljNkhhTHpLT1I1VzVHUi1IMWM5cHFra3JjeXBka0NVTDV1U2wydUJoZjdRWm43MkhXS1FESjRhMERnMlZ4U1pGYWs2StIBqgFBVV95cUxPeG85cTUtTjUxWG1NWHB6b0RsSXp5SVdWeWdTT24zTXE4d3pSYWdsVGlEZWhub3U3a1pEX09QS1BiY3hpcTFGMUdZOUVtMFVLU0dPSFA5TDdiOUZLMEl6TEtXWTgzZU9SY211VUltOG1ST3RxXzZQYTRoTVZ6U2NqOTc4WnpLZVIzaHlkMzNGd1oxbjVPc0oyRzdoRkl3VGNMUHBMaUZHeVViZw?oc=5",
+    "published": "Tue, 02 Jul 2024 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-08-18T01:13:29.042319Z"
+  },
+  {
+    "id": "7fb2ffc30e",
+    "headline": "Family of man fatally shot by Akron police officer files $10 million lawsuit - Cleveland.com",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazBUYUNGLXZsc2F1dmZWTmE4V1UyTVkyQmlFSV8ybFNta3FmNEtnVkZITjBqM0k0dFByTWxLd3EyeWtCbjEwbEp6d1BrZmZ4RUR6dFJBNlBLUjZJeGpwbFR2MjZiMjA2M3Z4V2pMaU5VSkF1RWdyVnJFUjB3NVBuaDRTeUg2MVZIWWRKbDMweVdVOVJKeGVsZXRWV1NZdFZUWWs5N1Y4bnBFaTRuLVBtWnpxOThaZV9sMGpEOA?oc=5",
+    "published": "Mon, 17 Aug 2026 21:15:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-18T01:13:30.543860Z"
   }
 ]
