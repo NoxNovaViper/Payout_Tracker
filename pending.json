@@ -3838,5 +3838,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-18T12:45:15.255268Z"
+  },
+  {
+    "id": "2e1d38e6f5",
+    "headline": "Black grad student brutally arrested by police for 'stealing' his own car settles case for $1.25 million - TheGrio",
+    "detected_amount": 1250000,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0Z3bEZQX1JVWTRhcnB0TmxwZjlnX0ZZeVgwUFpzQ1V0WDVWd18xOC1wSkplX0tDRUdTa19fc3JHT2ZDUkhCcU9MRU1OelVSS0pEV3BEdzFMa3YzVDctTzFuU0VMdlBNdjdXWEhQOEJPM3c4UThGc3pwS1ItRXZ0NURPOVR4QW5pS0gzcWIzcVFHMnZBUVN1VW1yRFdjQzltb0VQd0psZXFVbWxybl9QYnFFVXNaY2FsSzE3MXFYeUtNeks2dGFXYU8ydU1PQQ?oc=5",
+    "published": "Wed, 23 Jan 2019 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-08-20T01:14:23.448320Z"
   }
 ]
