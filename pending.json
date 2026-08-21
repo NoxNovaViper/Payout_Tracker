@@ -3858,5 +3858,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-08-21T01:17:36.296130Z"
+  },
+  {
+    "id": "65677186cb",
+    "headline": "DiCello Levitt Files $10 Million Federal Civil Rights Lawsuit Over Fatal Akron Police Shooting of Michael Jones - DiCello Levitt",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzY0SXFRNGN5NllneU1LeUhoTE95c0lXdllaX1pCc2NXNzhJSFV2bm9EMXdFQVFqc2ZmMUhxWE9Ed1pqT3VBTkRqMjJ4eEZmT0ZFbkpVbFlubEIwMGJUcWdPcW1UZlF3Q09FMXU2emlkMlNEQlpSZlRGMFdtdnczSHhSRk96TFRWSlZOOXF1blUwRVZiQzMyZTdvbkFwY3plYWNOaUVzZllMcFEyZTNyTHl5WVVrM0d1djNRaVVNS0phUHNheWVXbk41U1Bmblg2ZlBR?oc=5",
+    "published": "Thu, 20 Aug 2026 21:06:40 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-21T12:47:24.340709Z"
   }
 ]
