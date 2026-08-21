@@ -3848,5 +3848,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-08-20T01:14:23.448320Z"
+  },
+  {
+    "id": "9af08ba515",
+    "headline": "San Diego approves historic $30M settlement to family of teen killed by police - FOX40",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcng1bnhjcEhhQW9faUNDa21nZElpR05TbnM0VU9ISGsxd2RtN0xWeE85enliR3FZZGNsNTdsc0N0Y1lVMGs0REZ3NjVJeDBXM3BPa1VZVXhpUVhKRDNLbnd5RUVNT3hldExzSUZtc2hOejFYaGpidm5xcUdNNlVpaWI3YzBHTmdMRWxMV1JDbWFXV3JwZWZVaE1rcXJOUEI4U1lIWlRFT0NrZWZVZG8xWVFDeHQ0TWZTczFPMTVuR3jSAcYBQVVfeXFMTjlHRnJ5dF8xcGcxZVB6UkZlS2R4NVEzSGRzUVpva1VNREdhQTMyZE1EZUVTNDR1eDUzOVdnY1luTWJ2OW0zYkxjQkhSNVBxX2otVDVWM291NDJTX3huY1pfRGJ3NGxsdEZLd0ZydGxWbmZUYkFTSEJrcFlGeXcySnpndmhvenFLNUh1YWNOUEhURTlvdHZsQW9ySDJkSzVqcEJzUkY2eXBwb3VLQjU3UDQ0RnhRcWptMXVTclZGVGF3eDBqZWJn?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-08-21T01:17:36.296130Z"
   }
 ]
