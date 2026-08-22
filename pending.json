@@ -3868,5 +3868,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-21T12:47:24.340709Z"
+  },
+  {
+    "id": "5341ebfbf9",
+    "headline": "Family of man fatally shot by Akron police officer files $10 million lawsuit - Cleveland.com",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWZBd3l1dmxJYnNYQ21NdkVlN1M4em5JdWpMcnQ2d1ZSNHhYS2h0cUZRX0JBRl9HNWlPdG96NGpyZzdSdVNtZGQ5QzRYOGZWRFhaTnk0YjJxRDNpRnVSVU1OY3AzVHdEaThGTGJsWVFyVldPY0U2N1c3bXdJMWpoVFJOMUFIT2VmcDNoWEd2elo1a3JRcEhqT2hDb09xVUNWeDdQbmNsX3FTMjl5Mk16S05OY0FlMEZRaC13NFFrWXctQXRUR3I5bjk1QV83QzVU0gHQAUFVX3lxTE4xZkF3eXV2bElic1hDbU12RWU3Uzh6bkl1akxydDZ3VlI0eFhLaHRxRlFfQkFGX0c1aU90b3o0anJnN1J1U21kZDlDNFg4ZlZEWFpOeTRiMnFEM2lGdVJVTU5jcDNUd0RpOEZMYmxZUXJWV09jRTY3Vzdtd0kxamhUUk4xQUhPZWZwM2hYR3Z6WjVrclFwSGpPaENvT3FVQ1Z4N1BuY2xfcVMyOXkyTXpLTk5jQWUwRlFoLXc0UWtZdy1BdFRHcjluOTVBXzdDNVQ?oc=5",
+    "published": "Mon, 17 Aug 2026 21:15:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-22T01:13:25.420060Z"
   }
 ]
