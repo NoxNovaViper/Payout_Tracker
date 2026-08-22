@@ -3878,5 +3878,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-22T01:13:25.420060Z"
+  },
+  {
+    "id": "f55e966fc9",
+    "headline": "Black family who was removed from car at gunpoint and handcuffed by police receives $1.9M settlement - NBC News",
+    "detected_amount": 1900000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjF3V0YxMlRaN2haQmhwMGdiNEw4cDhQUjdaNDZVdG9kejg0LVR1Q1ZWdk5BWlVwcW5FazRSVVlJcDE1eU8zeU9aeTJ0QVd1eVFsVGNvYmNiSkx2NmRZSGZWbTQ1SHh5azI4SEV0NnFRN2VIM0dlQkRZb3pLZEwxanlWSVBXLTFRR1RLLVJPc1pjOWJPamtLNTB1ZXpzZkdiRFhsTzk3X3NEc3hiUERGajVDUUpMaldxTkE?oc=5",
+    "published": "Tue, 06 Feb 2024 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-08-22T12:38:34.347659Z"
   }
 ]
