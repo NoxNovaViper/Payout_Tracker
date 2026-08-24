@@ -3898,5 +3898,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-23T01:19:50.087493Z"
+  },
+  {
+    "id": "37dc85b1e8",
+    "headline": "Caspian pays $28 million settlement for Winnipeg police headquarters lawsuit - CTV News",
+    "detected_amount": 28000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZG5VSUhIYVd4VmludXJleTgxdDVBUGxfemVOVmI0WlhzTzI4TGJuRmdFaHFLekVLYWNiUDFhU05ReVRmSjkzZ3hMZFVoT3htdGswWHlYeFh5QkJYSV9QNVdqWm5zVk92Z3FkVFBIR0VRRjBpaUtSSlJXcXlFZFE4VXl1N3dfRDVtWlppZ045a3AxRXpYVGZCeDB3WVFsYkZVc1JVM3doY0pMeTRCc3hPMGozbW5wc0k?oc=5",
+    "published": "Sat, 23 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-24T12:50:22.306824Z"
+  },
+  {
+    "id": "6850a63690",
+    "headline": "Cincinnati settles decade-long lawsuit over 2015 police shooting for $1.45M - WKRC",
+    "detected_amount": 1450000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUDhfaTVielN6eW9hazZnUlpsSzc1NTBJZlRCSGZmb2wya0pJNUZoQjA3eExNZWxOaDNzWUlKYXZncDRSckh3bmhhWXA4enowc09KODFfNnZvT0UwMU9WanAzbTI3WmowUHNoODVEd3p5ZUpXekZSenJjTjFsX1RBM2NRaXlTSlFTSnYtVmdtZlp2Z2VrV1BSMkp0N2l5eHJHakMyQXNXOWFQRGVTU2h1YWFqRUd1RFFzOGFOTkotalI2OUJYNnVZeWlEd0RoQ0hDM0FCYXN0aTNiWHdnNXlUeWpncWx5RHh5YmNCMndzUzYwNm90WGFDbEUwcW16VlJOR1NBZ1Btc3lFWUpfVjY0d3VB?oc=5",
+    "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-24T12:50:26.961601Z"
+  },
+  {
+    "id": "2649751a83",
+    "headline": "East Windsor Quietly Paid $50,000 to Settle Police Applicant's Disability Discrimination Lawsuit - transparencynj.com",
+    "detected_amount": 50000,
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2w0aGU4ZlJ6ZlBWbzF6dlY0N1RfLTZ2M3hhVU1wdWNJMWZZYzVNeFo5ZTVWdGp5YUFKTDJJblgzNG5PVFZIcTRkRzR0c3BTQmJfUmZIVkJCbnExRXdDSURSYWtQVWIxdDNhb25vaUpXbGh6UldSazFxWnBQMHV3NFRXR045eWM2Mkx3QW9CT3VzeUNyNERrYVk0YkdrNTFaYU85OTJRVVRObWlGckRRSzVrN2haWU5MZU1lQ2J0amVlREZCcFZRdThUcmE?oc=5",
+    "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-08-24T12:50:28.507041Z"
   }
 ]
