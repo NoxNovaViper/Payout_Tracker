@@ -3928,5 +3928,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-08-24T12:50:28.507041Z"
+  },
+  {
+    "id": "ec9a97657d",
+    "headline": "Fort Worth city council authorizes $11.25 million settlement in police fatal shooting of Atatiana Jefferson - ABC News - Breaking News, Latest News and Videos",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRW9FdDdhcDF1Vm8yczgzMXpjQkVqOXJQMGxwYU9vVGNMR0txME1MdTl0UGwtdnlSMGVvTE1weWVBak4zOFZYUHF5SWN3VXhCalZ2MEJmQVFQNjBJWFUtQmp1dzB2dkRnUWtvTXg5eDFRUm1zWnlRbWZucE1KUW84b2QtNUo3YTNfNTJGRlhkWmg5TXRaQ2w4azNTdzFGQjg3TGfSAacBQVVfeXFMT0JFdkM0NEkxYlpMd3NuS1dMVzFHUmxrb21RbHNiWm1xTzhLMU54Rkh1aUo0UWJJeHlHY1YzWjBWRXZXd0NyOEUwQ05RUHRTQnhnaE9xbzlrZ1RHMjdoRGN3NWVqUVdpWUhweWlld2NMT21BVnpwTTg3Y3BHa0g5OERkakFtSzFqM0dfWGo3bW9JSkhXQUZzV19KWk9TMEhuZHVkSEdyQlU?oc=5",
+    "published": "Tue, 25 Aug 2026 20:11:09 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-26T01:18:05.580555Z"
+  },
+  {
+    "id": "e60fb80a6d",
+    "headline": "Fort Worth City Council approves $11.25 million settlement in Atatiana Jefferson police shooting case, officials say - CBS News",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHF0YjZYTWhpN2FEb2xwYjhWTGhfTlBDS0FueVgxaGNSanFqQW9ybEl4cXFHdEVZYkxwd0xoZkF6VnRyNThBd0JGRHE3QjlPaU55bXJJQVlMdHotWnhKQVVPbFBRVHdHejhMLTh4Zno1dmU1U013c1Z0N1RrUnNSUTZpeDA3dDQ1b204X2dlb1ZRdkIyRG10N1VIWEF0MHA0US1hVkxGQlN5amJ2WUFzcGVLcVV3ZU0?oc=5",
+    "published": "Tue, 25 Aug 2026 22:01:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-26T01:18:10.143268Z"
   }
 ]
