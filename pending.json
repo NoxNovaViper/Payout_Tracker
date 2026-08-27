@@ -3948,5 +3948,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-08-26T01:18:10.143268Z"
+  },
+  {
+    "id": "5f05f1e5e8",
+    "headline": "Texas city reaches $11.25M settlement with family of woman killed in 2019 OIS - Police1",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnIxQmpUUWZYM1hZczJlcG94ZWRLS2k1b1JlSTB5eFJfaWhNemt4aUYwU2hXbDUwRzRiY1VfNmRjYS13Z0ZQcW1WQjAwVkhKaGtMOExGWWhjQ3kwdklITTk5MTN6Z2FVRVFMTEFNc1RZNFktSDNZbE9SWUdkOFlSTDBuQVVuNy1pamFHcGhfRFhySXhUM1A1c1pIVXlQVi1ycTdKWWh0WFlSN0ppM2dfVW9NakpCQU1pZWc?oc=5",
+    "published": "Wed, 26 Aug 2026 14:34:50 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-27T21:52:24.138845Z"
   }
 ]
