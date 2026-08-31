@@ -3978,5 +3978,35 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-08-29T16:18:11.902448Z"
+  },
+  {
+    "id": "b606eb1e74",
+    "headline": "Fort Worth city council authorizes $11.25 million settlement in police fatal shooting of Atatiana Jefferson - ABC13 Houston",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX01hSHRjNTN0Nlo5U1N3aVRUT0VCelBLbTNNZC1FUzBySVRVWmR4SmRxZ3p1cVR5ekpPZF9sRDk1ZGJpc2JHZXBzWDc3SDRueW44amduN3EzM3lENnUyTU5QQkhjdVkyYS16Nm9YMU5KQWpocTZOUjF2bVEwQ1VIdXdrdnhLWDFBbEY1SWlUT1RScDVWUGxodHRLc2t0WXMwbU9xVk1qemdzcjNOWTlGTTVhOC1oNXU1cXNCeWZYR29ia1JPQ2hMM3VDTjNRUQ?oc=5",
+    "published": "Wed, 26 Aug 2026 13:56:05 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-08-31T18:51:52.413773Z"
+  },
+  {
+    "id": "1a9a987ec6",
+    "headline": "'Forever shattered': Family of teen twins shot by officers launches $17.5M lawsuit - OrilliaMatters.com",
+    "detected_amount": 17500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDUwb3ZKQmNCdi01MzZJTVdZVTh6aXF2a2k1dzJGY1d4QUVXUmRiTVV5MWtVUmZNZWtlaF81MGlUVzd6cW9WRVZCR0tjWUFIU2RKOGg3M0JuaUxveHdyVW5fN29ZMEQ4N3pJY0NRMG5PRThtOFkxbS1yODU3RDdhYUZUdnhQRDN6VUxjbzQyWWdXYUxJTDVRM2hoNDNVazBFT3JfVkkzNDhVV1VOZDhDa2ZkN3o2MGhRYTZvTzBRVm4?oc=5",
+    "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-08-31T18:51:57.322774Z"
+  },
+  {
+    "id": "f91263238e",
+    "headline": "San Diego considers $30 million settlement in police-involved shooting death of teen - ABC7 Los Angeles",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3NYUEZ4QmRidWh2VVgzdHdKNjJuU0puY2pMYnJNVU5OSFRsRnpsVVBiTWtpWkVGMmJwajZMVFM4S0Z3dHhtV0dKYWhUOE5jZm1vRjltYi1qeVR4NTF6Zzd6aWhLWUxZYm1JejQyZ3F2TVVqMzJMX21wM3djLUxrR0FPVXBTQXVkRkdUM0o5Tndyek5CdWQtTTJUNXg3TG9DY2t4ZVdRYXdoNURHVzBhMjRWcHVkZ9IBuwFBVV95cUxOS2g5aWQyLUZtWFBJTmdWZmdBRTdqR3JnUFl2Q2pad0c4R3I2ekNid3hCd2lEZXdEVXh0RXg4MWdiWWRfTEhsZDNyV1J4SHhueUpUTXBLWlJtZjR5aTM1V3U2OWZJVGV4TGtxVjRSbmktRURwdHl0UkpNMEt1VFdfWExUX1RjeVMtNkp3ck1KOEZrVkRaaVlGWERvTUVDNzZHNllBUTZtXy04R0FDcE1BeGNvWkt2Mno3Zkk0?oc=5",
+    "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-08-31T18:52:02.325367Z"
   }
 ]
