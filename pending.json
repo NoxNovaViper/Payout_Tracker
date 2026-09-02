@@ -4018,5 +4018,145 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-09-02T03:14:44.322149Z"
+  },
+  {
+    "id": "e80d698f22",
+    "headline": "Lawyers for family of woman killed in police chase urge City Council to OK $27 million settlement - Chicago Sun-Times",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWFaWDB3QmN5TEVCR3BqS3R1d1ZNdG9mS0dmTWkwQ19EOFEzbjZZM2thY3dTV2VpbTlQYi1YQ3ZFOUs0SGhESU8zcEk2bm84Nkw4cVg4ckVOQ0xoZXNxXzFGbTQ2eDh4eHZCMUUxc3lBZXZHNmNQVjJPc3hia1dBVS1Bb1VuUzZPRDJaWHRtdklxZzRFV3hrOHJQTnVEUVZfN0N6U0xEaHAxTlRCZkJz?oc=5",
+    "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:42.907554Z"
+  },
+  {
+    "id": "c77fe99af5",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - WWNY",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUV3OHBCcGcwS1poaHFJSTVkNVBXRUQwYWxxQllZa0w4Snp3WVVhQTBKMmx5NWQzamlVSUltNUlVOWVLS3ZQbkY0Z3B6RTZjUll3S0FCa0VyZlBkaHRJSllrSXg5V0ZtOENHU2dvX2poU19qWTYtY3ZfV1BuX2FyUXpxV25RRjRkNkltNG1hVnNLNGtiOEdndVBpQ1FjcnZlRnVRbUdB0gG6AUFVX3lxTE94QV9LckJnVURXSmNwejg4c19WdEV3a3RXQkM2SmFTSFB3MndacVU3QjFjWGVJdWF6SkVtRW1EZTZraXVTOWlUT05FNG40d1NzdHg3YmNWMU50MU1hQVEteFMxazhQR190WUR0NWxCdlNNOE40Mk5OY3IzdzI3ZDNZRG4tRWhoMjRNdEhQM1UtVHdyT09xellHSE9IT2I2aUw3Q1NWa052Qm1QZHBGeGV5eGNGX3NiZ0dwQQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:42.907615Z"
+  },
+  {
+    "id": "84b8f2ae4e",
+    "headline": "Family of Bennie Edwards, killed in OKC police shooting, to receive $1.05M in settlement - The Oklahoman",
+    "detected_amount": 1050000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1dmMWs4dFM2NG41dXZOSXlPQm54dzdTVFVvMXNiX2dwUmZWM2FRSW5udmt2cXBURzFkVThlMlpxU1JtQ19NTS11QnY3azlaTjhjbno2RkQwOVMyTHFXS3pUNFZRZWQ2QnlfV3dTeTZVYTN6TmphSkc3eE9Nay1WeFlvVXJFV1FzbktIS3B6akFPaFlvUGxQc2NERENTM3oxTjRLZC1SZ0p6Ukc0eWpNM0NDWjN3UlhkS0ZrNnNKQTIwSlVjTGtQRDgxTURuUm0zWVpBdQ?oc=5",
+    "published": "Fri, 22 Nov 2024 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:44.518867Z"
+  },
+  {
+    "id": "2612b7dde8",
+    "headline": "Fort Worth approves $150,000 settlement with man knocked unconscious by police officer - Fort Worth Star-Telegram",
+    "detected_amount": 150000,
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDdMSjBvQkRGSzloU0NicnQ1Q2R2REM4TDFGQU8wYndqd012OWxMRE9zWF8xSVFIQWlTUVc2azdSOHdqTUZwQWNEZWhGU21FUlkzNnBsWUgxMUNWanNWQzR0cHBDQzFkWnNObUp2aXV6cllmSTc5c0RJRXVsZVZpQUdn0gGCAUFVX3lxTE84bDhRMGI2bVFHdk1wLURNTnlXZ0NCZFZuN2NWSkNFVFJMUHU0Q2l5ZURYNWhUTC1TWFR6X09fMFNSTHVYY3I2enE3eUFzZExrRmNrdE5seVZUNlJ5Wlc1dkFmWHNoMDJtbnZJbUZqbHNBb1hlSU5TTHZxSl9sQm15UFE?oc=5",
+    "published": "Tue, 26 Mar 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:44.518884Z"
+  },
+  {
+    "id": "15c08a62a1",
+    "headline": "City of Phoenix Pays $800,000 to Settle Two More Police Misconduct Cases - Phoenix New Times",
+    "detected_amount": 800000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2ZEUUJUY251WU5udWN1NEdrZVIxZWZwSHkzcUhrcXNxb2F5bzNfTlBYVE9QQU5DMFZGWFFTSXcycHlwalJLQko5Tm5DMl9PNTMwMFltUlBhSTlwR1o5V1Y2dGsyZkc1aExqa1hBdzQ3NkdUVXJDM0Y4aFlLd0JBWmt5QlBDYnVIVkFDeWJPVUE3Ml96emN0VkI3UXEyeERpZ082MkR4VXhvcUFycFY4Qm1UZVZLeTFYbjFFT19IaWJmZw?oc=5",
+    "published": "Wed, 25 May 2022 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:44.518910Z"
+  },
+  {
+    "id": "99736abf84",
+    "headline": "Milwaukee Common Council approves $900,000 settlement with fired Police Department workers - Milwaukee Journal Sentinel",
+    "detected_amount": 900000,
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObEN6dEpyVHBwNktUTWdQdUMyaC1OLW9GLUQxbGFtclR5d3Y2OHNMUTd2OTBsdDZacEEyejZ3Qm10NV9aV1RqbWY2T3VoZlc5aHJlTC1nSUExeERER3FMYWVpUFhwc1c0T0M4ejlOZWt1ZjNGQ01VQmFEVUZPTjN3YXQ0V1laNzZXbmhMZTZoVUstbEk3Sm5jcmNJUGxXb2toRndjRHJxejNEV0RnWXZvWlB0eHl6SHJ2RHVORlNDQnY5RVFkX1hNNmY1RHQ0cHhiUFQ3X2RzZ0JSZTVRY0ljMmpXYVdqTmM?oc=5",
+    "published": "Tue, 21 Jun 2022 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:44.518918Z"
+  },
+  {
+    "id": "01afa48f20",
+    "headline": "Oregon police, forensics lab actions result in $14 million payout for Coos County man - Jefferson Public Radio",
+    "detected_amount": 14000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1oyeUZBVTdzTXBUN3RwNVZLS2lfTFk2cFdmaU8wbXhUcUFHUTNNc2FDMV9LaU4zNmJycU1UQnBtN1F4bUpvSHFCRGJZa2ZJWHR2R2lmTzJMazB6Ullsdzl5aXhJRTAxNlpVa1lQWG9aX1BMOFgyc1MtSC13MkNTMWF1YVVONUJueUV3NnRyU1hneS1WTG0tVkFCVHhIb0NvMnJuREpFZlR6a3RHZUhOTUpkVWNOcjVkbWphSEZ3OHJQRzdaYzhMNXpVaw?oc=5",
+    "published": "Mon, 22 Sep 2025 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:46.112638Z"
+  },
+  {
+    "id": "39385e1099",
+    "headline": "Police misconduct lawsuits have cost Philly taxpayers $60 million over the past 18 months - Inquirer.com",
+    "detected_amount": 60000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlJuWVRxZnlfS2NGS1NYclA2RWY3NjRGclFqd1lZMEpqT2dyU1pOd0NaSzQzNWF0NVhuNERPd2VPLXZQdzRIV2luemNkRzJtbEg1YUpHUWRrNWI5bVBEbVNydHR6R3V5ZjNWeUtzUmNsTThTWWkyV0NyMlo2aGU3ZWlBQ0FyUFNXTlEyelRuX0l6QQ?oc=5",
+    "published": "Tue, 03 Sep 2024 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:46.112766Z"
+  },
+  {
+    "id": "b6c29c5486",
+    "headline": "Mothers of minors at scene of Longueuil teen's shooting file $1.9M lawsuit against city, police - CBC",
+    "detected_amount": 1900000,
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjRlOTRwZXdsRG9qYmtEOVVlbGtKeVhmc3F4RlN0cVhRRmU5dzVBLUlwYVVvVEJoMU1tSUpVcy0zYjV2RVJjNkE2RnhKNlZmYzNsWXkzaFBpeGVYdWZuWS1lUlk5VmgzMl91Z250eTNMdUxFWVhJRDFfSk13b2VDTkMwWGJhN3phS1FGRVBB?oc=5",
+    "published": "Thu, 19 Mar 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:47.667491Z"
+  },
+  {
+    "id": "93cc2ca840",
+    "headline": "Casey Goodson\u2019s Family Settles Civil Claim for $7M Over Fatal Police Shooting - Capital B News",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rSkpjUm1hTDFNQU9VbzZqSnNOT290czlnSEtoYUdoN1F3MnIxQ2J4LXJvTE9xUDRzMlJweUZ0dE10aG90NmhxY2dKb3RheVlUbzVkODh3alZtS2hhM1E?oc=5",
+    "published": "Wed, 31 Jul 2024 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:47.667563Z"
+  },
+  {
+    "id": "e752384623",
+    "headline": "City of Euclid to pay $450,000 settlement in lawsuit from 2017 violent traffic stop with police - WKYC",
+    "detected_amount": 450000,
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdGtjd3VlRkU0U2xCaDcwZFhBeVdLcUE3VkNnWXNyb3g1ckFHWlp0S2p0NTViclgwVUxyaG5RSWtNd055ekxCaHFVenM5SUd4Y0kyRzZETHhWM3RTTmNzTVJBdjFBcEhBQnBmQWdpeUluaGFhOHdWdmpzX0I4aEJLdGNIeWwzeGhvR2czNnNOZHBLM0VkeE9fQlg0dmdLbU9jdURJeUlZRW16akRlSzVjNFhsQ3JYWkRDYUw1VjJ3Zl9OaWxXLTZhVWRmWXdfRWdrdy1FTHM2aVVRdUg4Ti11X0tGLXBUdVBfZFEtSEt1SGJNN0VpZ0JsTjdGaTA5YWs?oc=5",
+    "published": "Thu, 08 Apr 2021 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:49.238313Z"
+  },
+  {
+    "id": "b34a159604",
+    "headline": "District reaches $3.5 million settlement with family of unarmed motorcyclist shot dead by police officer - The Washington Post",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcml3NFBKRWlQTGNhLTZZbjUwQ1VpNmpISXRiU3RIQ3FYMHVWSkctQW8ySEJ6dWc3MHR5aXRYLW1yV2k5NjU5T25xOFFRUnFiZkp3NzVSZEJENkxDYy1oVmZGemxEenFoSXZ0c2ZzQkI5QVpfWl9iV1cyblk4VmFHSFJMdWpBdHVVZW9qU3B2Z1FUV244WTF6S1RrN1N6VGUtWFYzcUtSSzRIQURicTFtLUxkZkZhX1NEbk9EWFJQajVUNk9rSklNRTlIVEhRT1lENFh4ZUtFd2lRUzZCV2ViSTVIWHhyLWtxQ210RWZFLWUzQUFvdFIzSjdBSWRzN0xmUGJ0LTNXOGFfNUpCak0xTWdjMG8zQVJJT1hUdkkwT2MtVTFyRDRvcldn?oc=5",
+    "published": "Wed, 21 Feb 2018 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:50.769832Z"
+  },
+  {
+    "id": "4204b05363",
+    "headline": "$1 Million Settlement Reached in West Virginia State Police Custody Death Case - WV News",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmpvcy1LRzFDMUQyZzJRNkRMSHdNUV9ndE91czZKcm5pSVZZdktuTGtiX1NRUktjVGp4cW85VmJwZ0JmVUNJRXRlNGpkcVh4WGpCeTlkU29BR3JVRjFmUTJYbHV3UE92VEVoQUxjcm41bmZrSElZcjFtRDhXblZZWVFCa19FYWdYTS1jeERaQmxuQ1U4R1ZjS2JuN0gtSnN0UnZkZFQzMjV6V0Y0WTEycXFnajFEUjgyRE1kN2RnN3ZaNlJ6UmtUN0VsYnNVWlBaMTNQRGNnRHg2YXVuLVB1NmZrWG13X0p2VGkzdHpzSmFxbjJh?oc=5",
+    "published": "Tue, 09 Jul 2024 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:52.272322Z"
+  },
+  {
+    "id": "03f668ac72",
+    "headline": "Family of Shayne Sutherland, who died in Stockton police custody, reaches $6 million settlement city - CBS News",
+    "detected_amount": 6000000,
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVTFpajlWRVdxa0xtR0lwb1NQcmtWbVJ0YUxGNHFoVG9BRDhjaUlkVzhKVUVPa1BoUE5DbEZ3SmxzYmZoT1pnZ2JXdGNTbWVGdTNoRTFFZ3FyU0pyUVpxZS0wcF9jWnMtbVlMTTVSejdIY0YyWjY1VlBrMTNhZXFmVEh1Y3ctWUtlbTBENHlNWmdlTEZTRXdTZllFdHNTUUnSAaQBQVVfeXFMTzVwVXlKTFUxZG0wLUdZVWlieG8xTHdicVdncUdyMFY3M1ZLQkVfSFhoeW9jRXQtNFlUMGctNkdtOUVyeWY5NFBjNE1pQzEtUE1VUnNrRWt1T0ZBV3JpMTIzSzJQdDExc1BzUm80OFlkd3h0ODRsd0NYOEZfcUxMWDJaY29YSXhlWjhQRTdIREhacy1GU29pYUNYSjE5S1V2S1g0QTY?oc=5",
+    "published": "Thu, 11 Apr 2024 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T16:04:52.272356Z"
   }
 ]
