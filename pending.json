@@ -4008,5 +4008,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-08-31T18:52:02.325367Z"
+  },
+  {
+    "id": "d1d1f5cd58",
+    "headline": "Ohio county agrees to $7M settlement over man's death after corrections officers restrained him - Corrections1",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRW5IZzhVc19RQkxYQTN4amZTSFMwQUN3UDY0X1BkbnB1em04SERCV3JtOGNZMnhYTFhyV0RDeHVWcnJUdW1uSTJyNkJLSmZZS01EZ3RGYktRSEtmbEE4TDVCanl3TWZvUVBTRHJka1g2Y0ZQOWJoTWJtVlJRUTlmekgzc21jWkNQclctbFg2dVQ1WnBXXzRiNU0xU1Vrd29JNnd6N1NYc0xTclQxUjd2X1BYbnZKMVppMVNqZDZXc2RvTVlTQkl3?oc=5",
+    "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-02T03:14:44.322149Z"
   }
 ]
