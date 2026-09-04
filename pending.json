@@ -4588,5 +4588,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-09-04T03:14:51.865604Z"
+  },
+  {
+    "id": "7c8c2b1915",
+    "headline": "San Diego agrees to $30M settlement for family of black teen shot dead by police - New York Post",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWlhiRHJhUmNUTVJtLS14MVVQMG1sa19FUExsMGZGZUl4dy1iSnROaXRhZ21rWU8xbTcxWFc1QThfdWZOMGl2bktMRHAxT0VBckh5czFVdWZ0NE9IN1lJaDJ6UU8yWTEtaDZSTUUySF9lQ1lFUmhWcUQ4MnpVR0NwNTg1LTVNQVdqQjYwR3pqRnUtSXp2MTNINnhVS3ZoRkJORk85Z2NpRHVOTGFjUmJkYUtfSXNpRGxxM0MzajNmWkV2bzVMSGNB?oc=5",
+    "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T15:52:49.526609Z"
   }
 ]
