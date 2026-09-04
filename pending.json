@@ -4498,5 +4498,95 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-09-03T15:54:38.476163Z"
+  },
+  {
+    "id": "3af7a5440b",
+    "headline": "Portland City Council approves record $2.3 million settlement stemming from police shooting - OregonLive.com",
+    "detected_amount": 2300000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmpOdkZDYlFYcVNVWnR0V1h1czZuZExic1Y2dU5yTHlvZTRocVhjN0pzMk4yRXYzMFhhMEZwR2ZWQVVPU0ZaM1p0cWI0S2M3MVJ1cGVxbkh0Vmx6bDZwbmxXUFgxWkdqdDNwdWVBWEdwVFR2cDNVbEtOMk5jUWpxZGprQUJveFM5ekE?oc=5",
+    "published": "Wed, 05 Jun 2013 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:44.166746Z"
+  },
+  {
+    "id": "bcb9fcfdb9",
+    "headline": "Family of Jayland Walker, man shot dead by police, reaches $4.8 million settlement with Akron - KSBW",
+    "detected_amount": 4800000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFBLOVNUelFwUlViOVUzN3R1dG84YVhnOXo1bHFxNVBJSV92UWo4di1tMlhXU2dpeFVuM0ZmeXBqZTJoc080N0ZwVGN1SEtsckY1Ul95NVpLVjRzTzZtcmg1czQ2d2JtTDRuU3BZUWwybnNqV3hYbHBfa3dWM0pScTM3Y21fS1oxWW1pb1hwOHU2aGhwX1cw?oc=5",
+    "published": "Tue, 22 Oct 2024 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:47.266843Z"
+  },
+  {
+    "id": "646fbc18cf",
+    "headline": "Family of a pregnant woman fatally shot by Colorado police reaches $2 million settlement - NBC News",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFFPYVZyanVHanlWbmswT2pJVlhzb0lSTkE0c2t5bzVDOWxHMTU0SWhyWnltMXJLX3V5TmlUNTZUcUhiTXJsYVBGZjhhaUM0dHBwRjE0azdFaF9tN2FROG5WYnRhcGk5bWRUX1k4UlpOQzNwb0I4c1FNd25OLXRMTzQta1NXb0xrM1BNdkRNUUkzZmJGOFhCWHRHeHBSa3EycE9aREpCV1BjTjduWnVLZTFUYUR4RmFiZ2c?oc=5",
+    "published": "Tue, 14 Jan 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:47.266874Z"
+  },
+  {
+    "id": "5c214ab3fd",
+    "headline": "ATF agent wins $1.6 million in lawsuit against Columbus police over 2020 arrest - NBC4 WCMH-TV",
+    "detected_amount": 1600000,
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHQtdlR1LWV2TnAwRm9MblVSZjFObVZqNEVwZHRRRHlvdUtHZnNRaGRMRmtWdlIybkN6ZG5YdlRCMWQ3YUZFdElHV05CdXp6eUpNa3NGNDlDTDVyc0RsMXBVS1UzQVE2V2lLUU5pZVdXTzFubWwwaFhlalhOdy1DLVota1g2LU5Vd2l2VUdNZFVUcnlvTWpIQmpienRlZXYtUWxPbVFscUFLZHJHYUY4VFdRVENWU0QxZlRxX0hQeHBwX2N00gHKAUFVX3lxTFByWFhZQjU4NVhUTno2dFpqM2hkMmRoY3ZySEkyTnJCdWQybWMtX3RJOWl0dHdFY09pVXRNal93SVlqUUF4bFoySnRENUtZdXprTU9JWjkwTlVTOVM3cmxtOW1EWkZZWXpfei0wbE1heU9kNjNJMUJBelh6TFpmTGRxb0hCM0t2b1RpWlg0UXNkZENWcndrd3JybXA1N2tWUDFFNUx1RW1wS1lheGJzT1Ric0V0RzVkN2lQdGU3RjNaUzM4bkpvc2pMRkE?oc=5",
+    "published": "Mon, 18 Nov 2024 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:50.356132Z"
+  },
+  {
+    "id": "dd7261e464",
+    "headline": "Louisville agrees to pay Breonna Taylor\u2019s family $12 million and enact police reforms in historic settlement - CNN",
+    "detected_amount": 12000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16dkpMUkVxODZMNkh4TUxtVDZFNWVNWnhrNjZSbHJMSjNYX1F4Um5KbnZVSUUxbC1rS24wd1Z0eWRsSmNMSFgzZjRja2VSRkE1UmMzRzhuZU5ueVpTTU1DM1I4a1V3Ti1JVTU1QjZ6VEZQWDRKRWtXdlpR?oc=5",
+    "published": "Tue, 15 Sep 2020 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:50.356204Z"
+  },
+  {
+    "id": "477010c030",
+    "headline": "Columbus Has Paid $5.4 Million To Settle Police-Related Lawsuits In Last Decade - wosu.org",
+    "detected_amount": 5400000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnFtaXJSMlM1WHZ3QTdqSGVkVWlIUnJoLWw5NUszdGhOeVQtZzRtS1ZrMmd5ajZpTkVrX056WUNFS3hKQmE2X1h5TmxFcDg5MGRyZW9rSWFlbzAxVjU5VjNlVkkyQ0JjTXJia3ExX2M2SHVyc3RJaEJMMEFRa3hZSnNDSG85OUpPY1lqd2I4TVc0WmFsUWdkLW82bnNkZ1B2NUIySGdpd3ZiZTNhNzhwdDdvWllzQQ?oc=5",
+    "published": "Wed, 26 Feb 2020 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:50.356262Z"
+  },
+  {
+    "id": "36077a62e3",
+    "headline": "California to pay $24 million settlement to the family of a man who died in police custody - NBC News",
+    "detected_amount": 24000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnZySjdiNjZFTjl4N1M5R1dLWGNHOUYzbjhUNWZVS3oweklxcC1QVzNqNlFCalZGM2xETUdKMlNoZmNfcDlndlNPeWhSbTFzN3Y5RnFUQUIwVWptUFlhUVpYT0t4ZzRpeXNOaXVZSFZ2eFQyVVhhRWZhSHV3UFNkZEdidDF2UDRBMjFFUzJLZFJUN1NxZ0VhNVllY3FNdTlSNzBMYVlUT3hrVDBnYnh3dEpLYjQ?oc=5",
+    "published": "Tue, 09 May 2023 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:51.865500Z"
+  },
+  {
+    "id": "b4b4c951df",
+    "headline": "City of Rochester reaches $12 million settlement with Daniel Prude estate over his death in police custody - CNN",
+    "detected_amount": 12000000,
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uREloNUpKRUFtOW1nX0J0R3VqODVlejhjdHFfQVRHbFVtMkFCUGQ5SHZGNWk3cVluNmxjUzloQTMxODZ0aXFmcEVfa1ZEWGFzYXZsLUdVTk5mUGxsOG9fdDk1bEFVNVVTQTlyRGltSzdxNkE3V3c?oc=5",
+    "published": "Thu, 06 Oct 2022 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:51.865573Z"
+  },
+  {
+    "id": "250e773c43",
+    "headline": "Tacoma agrees to $6M settlement in Manuel Ellis\u2019 police custody death - Yakima Herald-Republic",
+    "detected_amount": 6000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSWozeU1SMTJ4NmJUZkRxdzB6ZGI5LTI4REVqSEE2WWdxN1lQZl9haVV3MG1taGJUa1UwMDRuOUlBcU9Uakk4MXlMLUN2b042aHlvOXFTd0FmbU95ckN5eXc5VmxMR2t6a1c3bUk4X3VLd3pkOFZYN2JTSDMtRk1xZ3MxcnlhdjJ0WkwwbkNUdW50aW5ZSGE5Q091VjBYOXZJTzVhN0NONjY1TF8tdGg3Q0F6VGdHN0Zxa3lhaDdPbmttdnlLYmZQZk84VzJtaGFUOWdrNFJrOFQwVDB5VEFXS2RRTmQ4c3FuTmpralN2VWdNN2VFR3RWQtIB-AFBVV95cUxOSWozeU1SMTJ4NmJUZkRxdzB6ZGI5LTI4REVqSEE2WWdxN1lQZl9haVV3MG1taGJUa1UwMDRuOUlBcU9Uakk4MXlMLUN2b042aHlvOXFTd0FmbU95ckN5eXc5VmxMR2t6a1c3bUk4X3VLd3pkOFZYN2JTSDMtRk1xZ3MxcnlhdjJ0WkwwbkNUdW50aW5ZSGE5Q091VjBYOXZJTzVhN0NONjY1TF8tdGg3Q0F6VGdHN0Zxa3lhaDdPbmttdnlLYmZQZk84VzJtaGFUOWdrNFJrOFQwVDB5VEFXS2RRTmQ4c3FuTmpralN2VWdNN2VFR3RWQg?oc=5",
+    "published": "Wed, 02 Jul 2025 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-09-04T03:14:51.865604Z"
   }
 ]
