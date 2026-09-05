@@ -4598,5 +4598,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-04T15:52:49.526609Z"
+  },
+  {
+    "id": "fe9f16fcac",
+    "headline": "Suffolk OKs $2 million settlement for family of man killed by police while wielding swords inside East Northport home - Newsday",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcU9QeGkydUU1TnZzdkY5N1V1RGdhSHFJdy02aXB2VzBldGxucm9hdGp2eGNEdUlEUEdNelhnLXNHdEdMZHB6ZkVleWY5cU9uSVlvRkgyTExTeW1jbEk0ajN2NnhHSlB4UFVJWXpTT1NTZndxcmRXcHhKU1lFbUU4dUY5QVN1SXEtcEFRcmRfYnF1QQ?oc=5",
+    "published": "Fri, 04 Sep 2026 23:48:34 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-05T03:17:51.177733Z"
+  },
+  {
+    "id": "71aceb0792",
+    "headline": "Duluth City Council approves $50,000 settlement for police dog bite - Duluth News Tribune",
+    "detected_amount": 50000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2J4UzFwYVMycnh5XzZkRW12M0gxOEJubkVEWU9oeTVVdWtmRFB1ajdzN3NpSG96ZC1uMVF6MUpSZFg1YVZzTnE2VmRfakdlVmRSUVF3OGVIcjRBVHRzV3pJcHV6d0xRWHNsTVVnTGpsem5QdGgtUUJKVW82a2FXVzRJWTFuSE4wMnpZREl6Z1dFREIwdmdJVWI3V0NKRC1SeWlnTS1CUk8?oc=5",
+    "published": "Wed, 13 Jan 2021 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-05T03:17:52.640143Z"
   }
 ]
