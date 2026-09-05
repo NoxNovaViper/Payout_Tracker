@@ -4618,5 +4618,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-09-05T03:17:52.640143Z"
+  },
+  {
+    "id": "7d498526f6",
+    "headline": "Louisiana State Police reach $4.8 million settlement in Ronald Greene lawsuit, AG confirms - fox8live.com",
+    "detected_amount": 4800000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmpqZ1dEZ1dWLXhzeFI0am82d0pmZG5Rd09LYnQ1NmRUNG1iTWtybzRRcVpobzZ3cW85aVoyM2lwQnhYRmgzeWdZOFp4cHlNLW54aHN3SDVNcVkwR0JmdEdwUWlteklGaEpiaXJuUERUUThjOGZ2Z18tM1EyN3NIejViU05sZXdkNS1IdjVDeE1QR2J3cU9mRnJ2Uy05MVVXQVZ6VXRoeVpINHZ2S01ybURqelR6bWhkMG4ydUhB?oc=5",
+    "published": "Tue, 12 May 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-05T14:42:54.152803Z"
   }
 ]
