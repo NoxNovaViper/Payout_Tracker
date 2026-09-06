@@ -4628,5 +4628,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-09-05T14:42:54.152803Z"
+  },
+  {
+    "id": "ad6c596376",
+    "headline": "Family of Jayden Baez reaches $1 million settlement in 2022 Florida deputy-involved shooting lawsuit - WKMG",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbWVQdWw5bi1KclVpeUZ3UWNoRXJyeFU4NUN0U0xRcUl4eG5QcTBvU3duVlBVbjNoMm9zTTlrZEhUZmtaQ29rVnRHNjd2OXFreG4zNDcwWTl0LVF0R2ZVOXNndXFFRFlObUo1TlNERmR1ZFp3OGJmbjZhXzZvdzNnN1dQVmZGV214TDhEQmY1SGxZYTR5TjRuOE9ZTFl3cTRISWRWWTNTTUwwNk5sNnQzMDZ6NE1obHNwZGQ5TS16cm4yNUR3SDdnYXowR3I2MzlXM3F5RjA2Vkx0V09DcDAwZFIzV2R5QQ?oc=5",
+    "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-06T15:01:54.498814Z"
+  },
+  {
+    "id": "286579076a",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - 12onyourside.com",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUlhWUx2ekIteUVYWTZabWR6UjFtQWQ4NllhS0NQUUNHSGc0OUdtWk1FbUFhSnVUQ0NORlFJNDVzWGI4ZVZIbnR5OERaZlRocmUxSlFtT0F0bEZiVHZMYWNhNlZUQ1pLN1VDam5kMXBjNGZ5ZDlKRVZZOHV5NnQ3QVdCc2luRERhV1lhYUpRY1hSV3NmSWFlc1JEdERkSkhIYlBhbzM0VXNiWDA5VnfSAcIBQVVfeXFMT29RekVBV1FfYWpUYW40VW5KaXNjQkN2MVdsNlR2Sy1rTVhWdmp1SmhYQXdtck5MMkxZc1hnbmxIMUtpdnMxS201bEZZNGcxUWZJckdJanYxUHpSUnV2WHU1WTc0X3N4ZjBIMjAtTzdIUmZVQ09TeUUyeUpxV1pvWHhPQUFxVmxlSWVZeG9KNEF6enQ5N0wyY0NETXl6SjEzcFpXNVVxNW9jYTJLQmVuOW9oRVNTY2x1LUJIejZnbUxyNmc?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-06T15:01:54.498988Z"
   }
 ]
