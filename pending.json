@@ -4648,5 +4648,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-06T15:01:54.498988Z"
+  },
+  {
+    "id": "ca271b215d",
+    "headline": "Akron fires officer who killed Jazmir Tucker, reaches tentative $4.75M settlement - Cleveland.com",
+    "detected_amount": 4750000,
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaU9abXM3QnZFU0k1TEgxMWRNeS13aXZKTmtmN2tBVVZVcE5PMHB2R3RhY2lnLUJGNThBLVE4ekQtVGY1Umx3QlI1V214dDdteGs5LTRMSGJtS1o4NVZVc0FLOW9DbGZoYU9PX2Zxa0g5TzFkcmkzaGVhTUV1cElwVHc4LWcyVjlqZDZTR091b05hclhVT2FYUlZiZndxRjBFQi1sY3pEZElUamttX3UyUmlqc2hpbXV0NzdzQl81UE9JNVR1NU9TamQ0Zw?oc=5",
+    "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-07T03:15:57.494776Z"
   }
 ]
