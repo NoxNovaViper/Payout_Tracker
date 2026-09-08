@@ -4658,5 +4658,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-07T03:15:57.494776Z"
+  },
+  {
+    "id": "b20d1a2f74",
+    "headline": "Fall River may escape $10 million lawsuit over 2017 police shooting death - Fall River Reporter",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEhtQzgzUTdtNmdDMDVDTm1aUHBCOXIzWXBzdHAtdndRRXJJS2szMDBTVlJ4cWxkOXkzNGlFVl9SNUFmU3ZNRC1DemhYZ3l2ZVA1TkVzZ1BhdGtFOW5YV3dndEVRYk5rXzBIaG9UN0tYeGJYSDJjT1Rqc0wxX2w4c1d6SFpDdVBzOUJYZV9aOTlGakh2Z2ZzVGo2bGh0SDhCb3JCTU93?oc=5",
+    "published": "Tue, 08 Sep 2026 13:15:10 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-08T16:07:27.206779Z"
+  },
+  {
+    "id": "8af8925433",
+    "headline": "San Diego police officer cleared of criminal charges in teen's death after $30M settlement - cbs8.com",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1pRMk44WVJkdmpTZjZRajMtaGg3aUlkREVaM3ZHdjVCZVlaMDdpWU51NkNaQ0g3TW01UUdsN25MUHlLbHJFRzRMRWNEWVpQRDhXQ2NjR09VTmV3anhVaUNWdlkwTGNZZmVrTVo2UEp0V295YzhXR0JCTWVOY0c2QVFZQzF5OHI0bFZGYjJWakRqZjctME9ENjNqd2RYTGt4WXAxNVN6MDNZazFlX04zTkpqSGNUU3ZQZG43SERfNmx4b2tUWUZwR0NXY3QyVWU3cWRiaXBBUU8tTHdzM3dnTlF0WkxYQUVpS2wwQTN3?oc=5",
+    "published": "Fri, 04 Sep 2026 22:32:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-08T16:07:27.206799Z"
   }
 ]
