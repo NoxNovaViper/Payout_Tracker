@@ -5088,5 +5088,65 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-09-12T15:07:38.130745Z"
+  },
+  {
+    "id": "178129fb09",
+    "headline": "\u2018Wrongfully convicted\u2019 ex-police chief paid $3.9M after decade-long legal battle - NJ.com",
+    "detected_amount": 3900000,
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWJIdFN0c2dtTkgzV19wVWdGMHk4bGRzaS03UHdMWEhjSlE4bXNxNWJGMzdoTHgxOHhPU2x0SnFUclVneTRSN3lOOHJMRUVkazdodWRvZDA3eTdIbkFfVUNJRG40S2pSeEdTQVFaVnJ5LTVWeHZvSjNrOWpBLVV6Y0NLWE9JcndKZy1vR2ZLc3B1SXhFenlpdm9meFQ4V2Jzd2pLbTR1S1p5TXFKSkR4SmJJdmlsVlBueWhGWHpmYTJfV3Fo?oc=5",
+    "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:24.042704Z"
+  },
+  {
+    "id": "ce374f66e5",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WVLT",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUd5Y1JaaVhab21va2VzaW8zSHNwMnFVZC1nZGl6MlBpaUNmUTVmMlh4UjJ2NGhXalVhbkZCaWxVajJySzRUdlJSWFRXZm1XeWxMMzBQSzNMOHE2YVB1WXhkc1kyTlZSLTZhbWlXT0s1a0JaYVpqZG05Y2tDM2dwWkJxY2RvV2hSd0JVVi1yczF1RjVjelpoVjQ2OHFKeUNrRWUxM3V3?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:28.847236Z"
+  },
+  {
+    "id": "a592e4fb54",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - FOX19 | Cincinnati",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVAyUEkwUzM2XzdNMmoxcEpYd3ZtRmJVVU9JNTR6YmRHQTF2TU9WekdJWVBUSVJuakJOclNGaUlOVlFVWWsyQzJnb3l2XzJVOUV0eF9OdmNpQncwTnhlZE1FU1VOWjUtQ1pEcTNqclVUUmdrU2l3ZTVCMmpsZFJBdk5sVGtVWkVhTUVWQUNrckxoOHZmY0dieWhPdExJbXVoLXVNYXRNVUs?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:28.847256Z"
+  },
+  {
+    "id": "92cc6e2775",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - cleveland19.com",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm9IUXJIeGd4U0YySi1pdjluR0JScF93QUZDbWhlU0tBUjEzVVZmU0xYOXpPcGppNnRmaV9sbVctNE1IRXdLa2xZaXpKb3d5aFpBVU1aZnh3RHdoclIzSlNrRGxZcW0yUWZJS0FJLV9NaEcwckV3Rmh2VG92QjJqMTZydl90WnlVam1HNno4aGszZ2p6YTFRUzNJWkRFYWJ5ZVlZNVYtNXdwLTY0RFpBbQ?oc=5",
+    "published": "Wed, 09 Sep 2026 00:08:34 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:28.847263Z"
+  },
+  {
+    "id": "d9f740eed3",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - KY3",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2FsWWR5QWpPSjlXQVF2Tm9ybWRIV3BrNm5ZUUU5UnBaTERnSGxRdXhMUlNMVVo1THU1Z3NheHNqYTNoZHZqZHdSTG92M0RDYmpaVXZvckJKaTJpRlFNTGFMdWtmMFZDRjJqc3lBbHRKcDRyYWdCQ3FYelhnUXZreUNJR090THBDUE5rNUJUUzZBVUV6eVU1ZFF3TmhLYlVTV3M1TFp3?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:28.847272Z"
+  },
+  {
+    "id": "e7fe4581d7",
+    "headline": "$1 million settlement approved in wrongful death lawsuit filed against W.Va. State Police - WCHS",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMy1ET25yMzBTdUM4cU9pTTl5U2ZxMVpSVGQzdzJHbWxOYmRJSU1lRGprUXl2ZTZrY1NNYk90bVVNaU5uVWI2dUZwVFR4UWJkX29JVmZvNEJQOXhxU0RzREVseVlqV2FJSzRGVjFITzFjLTBlRXc4WXpaNE9vc0FuRzZ0ZjNMWGFHSnhmZUhxd0VOLUQtNFlzeWRjVWMyYWZ6YWVWZzVNSFpyZ2dtRGlkTkwtU0ZWQjA?oc=5",
+    "published": "Tue, 09 Jul 2024 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T03:33:31.941319Z"
   }
 ]
