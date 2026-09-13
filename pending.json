@@ -5148,5 +5148,35 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-09-13T03:33:31.941319Z"
+  },
+  {
+    "id": "e5bc7ab6ba",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WTVY",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlhEbEZXbE1zUGNpbzRLVDEzS2lhWGNSVUcxenk5MUFpVFpKaU9BdG1GdHA5bXp1azFyZmhiXy1XRXo4ekpaeVBGdDVEckVJSnpfV1N2Uzc1RHdmRjNRcTRlMVRnV2dWbjZKXzRHRzJwNzk3SUt5WkZOR1BuRFVSb053QVZGYWtxekptaU5GazdjZ19uN2FBUGFvaDVBb1lfN3djY3hmRQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T15:43:24.861882Z"
+  },
+  {
+    "id": "03f185df6e",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WALB",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHFjWVI0UnFJaGVHaG1hMkJnSlR2Q1lTRXp4NGZMYTlZYUNQV1JZMS12N0pGWmVJd1dlXzBzamtqTnlXSng0VmxkMXpGWFc3ZHFvUTR0ZGVPTWJpcUxJTVdBWVYtMmtaaTlDLV9fWS1TZUI5S3ZqZS16ZU9PVFVtbmJOYUo5OE02cGl6ZEd5RXZ6MkJCaWZZUVZMOGt4cUlIa3B1LVhuVQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T15:43:24.861910Z"
+  },
+  {
+    "id": "78bbf4fec8",
+    "headline": "City Lawyers Fought \u2014 And Won \u2014 Lawsuit Filed by Man Shot Twice by Police. Taxpayers Still Paid $1.37M - WTTW News",
+    "detected_amount": 1370000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFBUc2xMdDJZQU80bG5TZHpjbEVobTRSTTNveGU3MEpQaklhejg2Tm9IOGtSSi1uanV1SG1rc19JMk5yMzU2TU9hb2M4QWoxZ1JJdV9BSGdETHJyTE40UjlyM25JSXpRQkdmcjJhZXJsTm90V3lwcVBLU0taQ2xxWFBYbGlSaTI3VHM2bjJwZExPa2lvSDVyV2h3T0tXTTNyYUc3QWdGOGxNVGNuUnhGVFotOUM3amtW?oc=5",
+    "published": "Mon, 11 May 2026 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-09-13T15:43:26.621092Z"
   }
 ]
