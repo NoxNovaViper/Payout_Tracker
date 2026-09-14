@@ -5198,5 +5198,45 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-14T03:43:37.198681Z"
+  },
+  {
+    "id": "71233e53de",
+    "headline": "Upstate NY city to pay $700,000 to settle police misconduct lawsuit - syracuse.com",
+    "detected_amount": 700000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTk3TUY2ZXJIQkpHUDlYbEZ1d3FCNlhhSWtpOWdRNkNZYmQ0bjk4clZKWVo3Q2YxZW1DVktueV90MFFaeE5UM0FLeDdUM3FGTUJXOERqb0hUOTNlVEljdVltbE1rSlBqU211QUVMZVJiaVRFNldGcmpudHQ5S1gxU2VTaFE2NEphVlNKb1k3M284aDhDU0hZbTRzUjJ3VnFjSjVmZDFaSEJxdElncEE?oc=5",
+    "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-14T17:49:36.317706Z"
+  },
+  {
+    "id": "1c285cf98d",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WWNY",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXEzT1VlcFRGNFZ3aEZwSm5xaGliWmFtSC1WUF9GUW1TTzZ3T0ZXN1lGWndrWG9hZDV5Wjl1dDZhZzBLaUU0VWlta2wwYWtfWXd4QTBDNXBraE03Vm1EQnZnNWE1SzBCSUF1UkozbHB5Q2tNZEZJNGhPTGI4N0FINXNVYVFtd2EwTzNESkxGamFaZkNKSlVFUDZQOS10SlFpZVphTFBLN19KUQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-14T17:49:41.021857Z"
+  },
+  {
+    "id": "6a861a6ea3",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WIBW",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXFieHc1QUlKTmVkeU9tdFF4WU1PUFpDckZGSGhBVXJralBtSGpSdzRSQVF0YjdGSUl6R3llRExzcW5fMmxkTWNWX2FoVmU3SDdTLTNXUEZFVERuOF9EVnhtVlp0aFFnSTZqbER3dExwdldHWV8xbXlFejY2eS1mRExFSlBPdnVkZnZsMGRXUm01QTBJV3p4b1pEOTktaW4xZDZST2kyYw?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-14T17:49:41.021877Z"
+  },
+  {
+    "id": "ec3a0a4e82",
+    "headline": "Jazmir Tucker: Akron fires police officer, reaches $4.8M settlement with teen\u2019s family - FOX 8 News",
+    "detected_amount": 4800000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUtCSnNlb1FObVZUbUdDN1FIOHZuWGNOVmR5aHNITEQzc3R5WUhTWGU2a0g4RE9nUF9GNFlrUDBsNHZnWU9WNE0yMzBDU3J2bDBMOG9teWM0N0xfTGFPN2JxNjFNR0lVV3Nwb1B3dFlZcFA3WDRMelpGRmNzaGEzNWhqbFQtd3FmMTJhQlpReEk1Qnkzcy1RdlJWSFBBa0luNG8yQWk0VlfSAa4BQVVfeXFMTmRJNXltQnZVVVYwNURpREVtSGg0cVFnTm9xVXkyX0JOZ2lzMi1FN1RLZDViZm9wc2xmWkJKdWRUVUllU21pNS0weGtBckVSc0lmVUhHREh2Q05YaDctai0tWXpMSDRJdWZtd0lxTHFmSmNiOHhPbEV4Q29BbWpyTGpWUlFuTnJIX1J1emwydU1JSF9nYVdpN3JQTjJRakYxM0FJNDR0ckhWUlZqUUNB?oc=5",
+    "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-14T17:49:41.021967Z"
   }
 ]
