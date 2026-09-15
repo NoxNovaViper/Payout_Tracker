@@ -5258,5 +5258,65 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-15T03:44:02.767100Z"
+  },
+  {
+    "id": "575c78fbf2",
+    "headline": "New York City Paid $117 Million Last Year for Police Misconduct Settlements - Insurance Journal",
+    "detected_amount": 117000000,
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BdkxEWlJJNlV6YjB2VmJmeFZfUk5sQ3NOS2dfRF9LWFpQRVpaZHE5THltR2pSd0ZZYnB5djNCNV9IMGg2RFU5V3UxWXF5b0FpYmY1NUhUMF9oYlJUVmhGdXdGQ0I0Ym9fSUNacWtJQU1jdw?oc=5",
+    "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:22.230701Z"
+  },
+  {
+    "id": "401ab9230d",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - FOX Carolina News",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1lvUVVYalhLZ0V6R3FKLW1ZbHk1R0pHUFFSYTJSRXk2M1NkTnRscURVbWVULU53Xzd6YThMSkhxcUhOT3VSUkhZRDdhYzVkRnRUZVM1eThYUlNkczhIOE5iLWg1RUtUMkhycUZILVN3OVA0amNYNlItWlJRdVVjaTlNejZOdFcxNkhxWGpJWGRROWI1RmE3RWZvUWloSzFUUnRTcUZqazQ0MWhCanpSQQ?oc=5",
+    "published": "Wed, 09 Sep 2026 12:04:25 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:23.978619Z"
+  },
+  {
+    "id": "8e277d45a1",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - KOLD",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3pHdHBOQTdTQnRmMnlFNC1rY29hSE1lVFFOTDQwSkRjaExIYXBEcEhOMTB0M1JoTlhfY2dnLVZvdGZ4dWJEeGVOS1JtclcySzh4ekR6MFZqVG8tckFRNHdXZjR3aUtKXzByMERuQ0pGRl9HSjhEc0JYVk50NGwxWFJtQVlOVVk5bDdtVGZWQTJJLWRKbHNLeW04TERHREpPekpIdmxqRQ?oc=5",
+    "published": "Wed, 09 Sep 2026 13:06:50 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:23.978628Z"
+  },
+  {
+    "id": "aa12a1fcf0",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - wsaz.com",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVU0aXRTNDY1d3JtWG5ITk80VmR5LUswczV3UGtwTmprVld2LW1sRXZqOXZKZXA0ckd6VnRnYmw5R0dOdVl1SHByeHVadGFKdVM1NDZSTjl2YS01ZHpKdUowS1kxNjBRckI2QUp1Q2VTMWJ4SHRZUUZiVVF0RGJkQVdTMGJYQzVueDdsTVhycXZNdXJxdGJSdVVQRXFDX0c0U1oyZ1NhSQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:23.978633Z"
+  },
+  {
+    "id": "e5ad101474",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - Dakota News Now",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHJ4aTFVTVhFS1o3ckJaekVaRXEzLXNmcHQ2dzd5alF4STRod21UbGNmS2pEdTV4YS1KMF9oOXVaVWNiTWkzbUhZdURzV3h1Mkw3SmFkYXNQclZfUUJPamJjRmktTkdOdnB0bXF5bWtENHQ4eUFuem15WTdDMy0xc29WVWFtSWlEZC0tZ3pqYThERi1lMXpMMDRoUjhUN2tkdkZ4VEFHeVVHU2pRbi05OWFobw?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:23.978642Z"
+  },
+  {
+    "id": "4fc8b8bfcf",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - hometownstations.com",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVNIT0VBWUQtby1xZEp5cVlESFVSVlFUMUlKV0VaLVJ2cVM4TVJyWldBV2hkbkFDWHhiWkY4cHN3dDNVdU9WX2dyRXlJTEVMYURCbEw2UXpWTkw5RWpSMHplY1drRWdXVGFUT09wY2VsVHkzNXpmWWgyMGlrLWVIaThNU1NLa3dWXzI2UzFTV3FrVl8zbUpQVmVyb3VReXEwRVJMV0F0enJZNV9URklTV2ZHWHk1UGM?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T16:25:23.978645Z"
   }
 ]
