@@ -5238,5 +5238,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-14T17:49:41.021967Z"
+  },
+  {
+    "id": "f3e8ae3f7e",
+    "headline": "City Council Finance Committee approves $13.75M in settlements tied to disgraced former Chicago Police Detective Reynaldo Guevara - ABC7 Chicago",
+    "detected_amount": 13750000,
+    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV2VmTXN4b24yazZnMVBGVFFJalhjS2F5cHlfT2kzbWhMZERtcC1TME9lU2p3d2EtSVFPcThlVE5MeWFHMVktcVZTSlJYRnR2T2xKS254UGtSR0s2MG1mcXhOQ2JDWXpzV19SR2s0S3dEeld5bS1CMEpScUNPd2wxcVFCbnZ6LWViaUd1YjYwbi1BSFIxdE9qdHJJUlN3SDhCZjVZTUcxcXhyazZOR3ZhSFFRZXUyR1lqRHd5Uks0cWpCUDBfbGZRV2hnOVIzSDE5T3JoZjVNNGdtQ3BSYVlidkR1VGtwbVFnSXV6QTd2M1JGZ9IB9wFBVV95cUxPbElkczFadE1GSjJPLVA3STNHV2pTSmJQeTlodm5mVUptNl9RQXJraTA5TUVXS1U4eWR4cUR5NXRoTko4b1E1Yk5XZDNReDdZNjNMOWVJcjVMX1pSSExIUl80Ym16UnRYQzYyZ00xa1dibWtLU3hhY2oyNFpEbmxaaFl6REdwZngxZFhGNWVvTmhvd08xQ3FZYVRvYktEZkh1Vm5YZmhiZjFfaUlBV2F1MHh4ejVCZExDb0tSWVJfNkRZX2U5U2tLUnhmcDJRbm0wMEV6eWE5VDRNcnl6NTl0QjhjSXpSM2Z0XzFEN2c0OGREMnk1R0NV?oc=5",
+    "published": "Mon, 14 Sep 2026 22:33:12 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T03:43:59.395852Z"
+  },
+  {
+    "id": "c9f64a9a4a",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WYMT",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHpfUzNGbWh3X1pYYVZ3OGlNVVBweTlpRy1wYWdGUkttZzRDLXlVaEFIb2dSaUg0ZFVQOTMtbUs3MUVFYXNFQ3RGRkEweEtqTmtpUkt6RkhOdHJucXEyNER0YnNVR2lJcXhfcHdUbnBNSkNSbERPQ05XZHJoVkxvT25NcXVNMUFPU04tN01tUU5UWUdLa3Z6THpSczBkelYtWnozWXdkRQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-15T03:44:02.767100Z"
   }
 ]
