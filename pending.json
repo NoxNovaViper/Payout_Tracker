@@ -5338,5 +5338,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-16T03:40:49.147589Z"
+  },
+  {
+    "id": "902d839b13",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WEEK | 25 News Now",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGRMUWUyOXpYdXFGTFNFdmhXQ0RrX1VDRXByUHlnaUtKN1hjWVJTajdMVjdqWUVCWDNKQnAzZ1d3YjhqbFZ1STNVa1BpSGpCNEpHaEIwSGNCYzJZcEFXUUYzZUhkQTBRVUoxNElFVV9iUFVwbnp4d29XM3JWN3JCOW5ic2g4cDRzSW13ZUJyY0EyZFRtd2c3enRYdmdZek8wa1ktYUdWeHJHeWY1Tmc?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-16T16:16:38.491016Z"
   }
 ]
