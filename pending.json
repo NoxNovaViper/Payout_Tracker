@@ -5348,5 +5348,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-16T16:16:38.491016Z"
+  },
+  {
+    "id": "580810e008",
+    "headline": "Asbury Park Settles Police Officer's Lawsuit For $1.185 Million - Patch",
+    "detected_amount": 1185000,
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2gzVTNrSEFvV0txVUdjbENOQUtkWEZNbEh5bWI3T0NPY0dMeE9LZWoyczF3Ym1QclV5SEVCM1ZaSmd5NmpEMkxaRWVtMlIwU2ZFSGJ0ZVdVbUZyVmdteTlOM1VMVWRRWUpkU0pEQ3hFQXZQbzB5RFItWFU3MGFlS0FOQ2VHTWVXVFRJSVVYTkNod3J5aklGU1N1amNGbVnSAbYBQVVfeXFMT0JMQVVHNUE2TVhRdmVFM1RtNVBpTWhuYzBKVTVxOURJVXU4Y2dRZGV3bHctRXp0V2hhOWU5M3l6TmR1MENLdVFrYnlVZ0JNcUY5OGJoSkRMQmJxLTZfSWFTSGxiYzExbUE2VWhHcy1CbVA1RmJEakg4eE5uUENYOVRCOXVBRkZ3QVhpeTVCeE50d0haQzdxYTdqUFNCSGl3bGtQbDdKVlR5ZE4yc25NZVJYdnVVbEE?oc=5",
+    "published": "Wed, 16 Sep 2026 18:10:08 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-17T03:45:36.337653Z"
+  },
+  {
+    "id": "aab178c4a6",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WTOK",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmQ5VVU3MVJiUjEyUzV2UmhnV19aVnZvSEpKTExCX1A0anRVRUcyNmhFMVVoN1ZHdHViWEFPd0Y4Y05rdGFWMzJ2c3F5WFdLaW5HMnNyYjgydVBQQ0RJa1ZrSDRnQ1lmYjVhVGFUS3dyU1pTc2Foc2gxdWRzSXJEbU55UEpJbndvNjRrc052cjFfdnhxckNUZVBqWEt6TUlNM2MxOVh2VQ?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-17T03:45:41.164976Z"
+  },
+  {
+    "id": "d640811725",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WLFI",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVNOUENuWWxyeWN6T1V5TmF2eUt5TDR3U1I1SHYxNVhkdlFmSXpOcC1XZmJCME03THlBMDg3Mm0wZGtnbW90V2FhcnJuM0NheEVOY2Q4NHE5dzk1TXJvaHRNOGVwenRSVVRTLWFrQm1SLThUUENoYU1UeXc4ZUxHZjlXS0NlUDZzalVGUU5EbndVb3NINlp2QjMyc2FMOG1CcEZFbTRRVQ?oc=5",
+    "published": "Wed, 09 Sep 2026 13:00:58 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-17T03:45:41.164995Z"
   }
 ]
