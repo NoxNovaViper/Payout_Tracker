@@ -5388,5 +5388,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-17T16:23:28.038842Z"
+  },
+  {
+    "id": "163ce764c6",
+    "headline": "Fort Worth approves $150,000 police misconduct settlement - KERA News",
+    "detected_amount": 150000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUFNVUZ5ZWgya1VOSHB2TlZXSFYtbnRSWUkzU3FTbHBpLVQxUjRUd015MU1lb0hKemJVZGRoVWo2YWpodXYtX1ZHckw2WTZ1alZBREg2MHRxWUxpaFhlMS1KVU5OMnlHUS1XdXpZT3VEMGVlSTh0VDFDU1ozeV9Ec0hyc1lSZ2JLM01rSHNtRVdLRDVtbXJ2R0ZKUVRWZw?oc=5",
+    "published": "Wed, 27 Mar 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-09-18T03:32:13.413202Z"
+  },
+  {
+    "id": "08717cdb33",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - KWCH",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1NaZHNSQmo5V2hkeUpydUh4VWNXTnR1ZGQ2LUhRYjAtNmV4NUdWOUcxSkViaDJ2OUpKUlRrZlc0bDF2eHdSbURpRzBnWkZ6ZGpUNFpyTjU2RHFFeFZVX0hlUDBTOHA5VUYtalQzMXMyME9zbm9hSzduUFRfSkdWYVk2SFVpenl0MjYwUlZkRWZhdF94VjF2bXNUUTBLV0RfSmQxbHJJMA?oc=5",
+    "published": "Wed, 09 Sep 2026 11:58:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-18T03:32:16.772202Z"
   }
 ]
