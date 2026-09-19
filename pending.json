@@ -5428,5 +5428,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-19T03:29:10.995192Z"
+  },
+  {
+    "id": "57b02f3ea5",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WKYT",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzh0ZEdhZXlRLXZxVXROQndiZ21jNXZmcUpvbUJobXpNZ2VSRlVQMWdjVnBmd3BNY0NBdFpsV2ZQYUdoUW04WW5IT2hPdk9fNXBSNFd4RnRMUjhwb21GRkJvV2dCSExFZERjc09VRUQxZXo5Q0t4VmZraHpYTDZwZ3VSUi05dDFuTmZOa0pSS25weXRBMWsyMWhXWnIzMThfNDd4UjFzYw?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-19T15:29:05.719804Z"
+  },
+  {
+    "id": "99e74b0084",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - firstalert4.com",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFp2X0I0Rng0RUtxWHk2ODlEWWk0Zm83bTh6V3NSN1FGcDNsU3hQUTB2UHZSUlRXMzJoZXc1Rk1iOHJqU3ZLZWxlQk4tZ2RnXzhzVThnNjRJTTA0cEpNd1hITGlGTEpkNkcxTEZwTy1vV3hJdlotaU81WjNGbHlEZVlLdHA4UHliLTRoUzNDV19vZi1MamhHbzNvU1pwSlc3ZTV0aS00ckRERm1QZzVBSA?oc=5",
+    "published": "Wed, 09 Sep 2026 12:43:37 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-19T15:29:05.719828Z"
   }
 ]
