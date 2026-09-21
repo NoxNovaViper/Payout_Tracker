@@ -5468,5 +5468,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-20T15:34:09.838563Z"
+  },
+  {
+    "id": "694c9e65f7",
+    "headline": "San Diego approves historic $30M settlement to family of teen killed by police - fox5sandiego.com",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON3hUcVotUTNHMUxBa2l5RVpiOEY1SVYzTHNtQThVVmpBSml2NEswTFYybll0TkNySThXVTVUZS1mODdOSzN1MnJhc2xycVZRM3RkQnpVTTgyOW9FR1FGUmZlSWdOa09BSlVsdmJ1OF9oRDBHaXU4MkhGNGxxMklDeHhZcEQyZ0hNeTlPRUhoMzVSUnhiNnVkdEJzTk5NY2RRbkh3eGdPOA?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-21T03:41:09.473249Z"
+  },
+  {
+    "id": "8ff1f21831",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WRDW",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG9wU0gzSFhENGZyVDlxbkxhS3Y0TmhxUGlSS0x1OERNbFhyYU1MLUpBY01kRXNfOFB3VWprSnBGRU13ZmQzMG55OVN3eHJRM1k0VlpRcnliendlWFkxOFdTeGdJelNZdFNHaWZFQTJ6WUxkbFNENDNKV3B5SHkxUVJCZ0VXd0xmZDlDdzJQdUwtTkc0ZzYwdDVKNVpUbmlQaE41Yk9STQ?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-21T03:41:14.113235Z"
+  },
+  {
+    "id": "1a14eedbd7",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WFLX",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFxenBoaGJjN3liSWtEbkEtZ0h4RWtTak8zRWFFMWlYVUR1THAwSzNMcFNrZWFxd0JHOFlRZE8zQzFoMmpGQTJrX1dGMGprY0F2bzJHZWE2cHZXaGxmbHB2Tjg0N3phTElVOVR6Rm44Z2xFb1c3OGM1akJoai1pc2MwZ0ExbFNaX2FRUVR2b093UFVWYmE4QkJtZnVJODdRWjRLRE5iVQ?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-21T03:41:14.113252Z"
   }
 ]
