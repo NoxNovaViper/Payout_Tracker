@@ -5508,5 +5508,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-22T03:39:24.056078Z"
+  },
+  {
+    "id": "56942b6c07",
+    "headline": "City of Santa Fe agrees to $2.5 million settlement in fatal police shooting - Santa Fe New Mexican",
+    "detected_amount": 2500000,
+    "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNc0JrckZLTnRkMTlqOGFMcmIwNm84VTc0UWlWMEN6R3YwbHhOZEVoZzMyWnFSOEYzQW1JRUlDcGI2akRuVnBxbjdXekJjdHRLRjgxcTRDQUlSTmx5Z0V4YlJSRW9aUHVKR0RPeWtxdjhCSlJ1M2I2dmZSbEtyc2duVS1SZFFSNUpNMkgzc21BZXFTUVRJZTlib0pRQ1FITTNGZnlkSXdxQ0lqZ1ZVR0dmV0VRUXFxVUFxVWRYRUFXYlFVOVVHX2VPV01EUm1DTmtUTFBmSGpQaTMtUG5LdTE5S2llWUZnakl3TzQyT3Z1dmJrRUc5LUFJWTRQOENHbkdycHBsUg?oc=5",
+    "published": "Tue, 22 Sep 2026 05:15:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-23T03:38:50.919807Z"
+  },
+  {
+    "id": "92f5ce2558",
+    "headline": "City of Farmington pays family $6 million to settle police shooting claim - Durango Herald",
+    "detected_amount": 6000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU9ZSlJNMEFxN0ROYkJ3OEdQMHVnRTI4em9ObWhkV25pb0paMzlPY2p3eDNEOHFVYnRfcUdNWEUwRnZiVFdPVVBZOW5KXzZNbTlvdDVGUkQ4WGpRQjFfZkpieG84VDAweW92Mi15TUtXY2RDRExsN1VWNEMxNGVla0FZN1cyU3RfNjlabHBBZEkxMnhjTDhoa29pQnFjMDZrcDRiQk1kZ3E0Y0pxYkVyRVQ5elUzcm00?oc=5",
+    "published": "Fri, 18 Sep 2026 22:12:33 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-23T03:38:55.457584Z"
   }
 ]
