@@ -5528,5 +5528,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-23T03:38:55.457584Z"
+  },
+  {
+    "id": "6e2eac7acc",
+    "headline": "City of Farmington pays family $6 million to settle police shooting claim - the-journal.com",
+    "detected_amount": 6000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzdEdjI2X05sc0VPcmFyZ0ViMVFGVVJsLWtEd1otRjRvX2xHeDI1TVRIN1pha0dCeld4SHYtOW9saENldUxkQzhwN0x4RUZSeWx3X19hSUZzTXJ3eGp4VjM4bWpYZVlwTkxmQWFtVG5od2I5UlJJOFFQYjY2ZW1KUnp1dkhLWFVTWTVtem4xNHpIWjlnSFdXLWc2c1lVVmtRUVEtc3drNmlGMFNNRnBVY1hLVzhBdw?oc=5",
+    "published": "Fri, 18 Sep 2026 22:12:33 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-23T16:15:03.332633Z"
   }
 ]
