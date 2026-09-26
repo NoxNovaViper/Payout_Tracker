@@ -5598,5 +5598,45 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-25T16:42:49.624718Z"
+  },
+  {
+    "id": "e37f99c897",
+    "headline": "Mother of man killed in McDonough County police chase settles lawsuit for $1.5 million - WQAD",
+    "detected_amount": 1500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkdLMmdDX1Q3T0xHblIxNFEyQWpVUElCYTBYdnJ6dy1Rek1ZU2tEUF8wUEdEQXZLNnZpVlVLTXFSYjhTSkVlekNrT1NNSVYwQTNtemhEU3hnM1NsMi1TRDVnQ215elBlOWFCTVQtYW4tZ2E2VFdrSl9NTTVfa3BMSTcwV3JZNmxNM2ZYS0phSVZHa2lpSC1VN3djamRiMkVUQkRDU2duaHBBZG5OOWFkUXI0Nm9NanFpbzRqWExxd0ZGN0R2czVjMVBDOTJVM051ZWl3MzFJZHFHYUc3UERTbDM1eHRLbDRxWmwtdmRBT0stYjNWOERPRw?oc=5",
+    "published": "Fri, 25 Sep 2026 21:23:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-26T03:52:49.928516Z"
+  },
+  {
+    "id": "791cf3bef8",
+    "headline": "City Council Finance Committee backs $27 million settlement in fatal police chase crash - CBS News",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWk3NU1kTklEZjhmMGE0d2ZSTzNPZEJqY1JfTVEwT1lzTW0xUzd6dWFjUF96MlJYTGxDOXpocEExY2MzazBNcG1vZ0h5MFAwNndyV0JlTGRza2RERzBhUDlIbDNzZnhQRlB4NGZwamNzWGsyZXU3akdkME1fbHhmMXotZ3d4c0xxckJyNXM4YnFWQjFzQkFaWjlDRERld2dhNWVkcVZlb2JoMDMwa2RWMGRrNzdPY1FoZGxoQmtn?oc=5",
+    "published": "Sat, 14 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-26T03:52:49.934097Z"
+  },
+  {
+    "id": "b79b528d20",
+    "headline": "Family attorneys say coverup of fatal Chicago police chase led to proposed $27 million settlement - CBS News",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2poeFZxOHpkNUhRSzd3ME4yZHlydUsxaExvS29NblpWSVlMVGFVangtVVR5RkxkV0Rya2lkNjhYbkhiZ1hSc2NQVU54UFlkUHpzSjV1aGhRNlhOYlc5TG5NMW1lMDA5MkloMnJ6QVVXa3VJSDlkRGphLW1md21TYkxGcFhyc1doZnllRG4td29ZM0J0MUlHVS10bXBkcGlyNE4xdGFwNGRiN3hnM08yb2J0TzlfTENNblNadw?oc=5",
+    "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-26T03:52:49.934163Z"
+  },
+  {
+    "id": "94c1b6cfd8",
+    "headline": "Fort Worth Approves $11.25 Million Settlement for Family of Atatiana Jefferson, Killed by Police in 2019 - Know Your Rights Camp",
+    "detected_amount": 11250000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjZEQ3F1cDhyMndwNk5ZSFVCNWxMc21GekdUZkwzMTNJTS0wTDFQLXAzSW5ZT3RyTFpKRHFHTGVQc1I1VGF2dEE0ck9OMUY0MF9IRWxOYzJwLVpKZ1Zxd3RleEJDZWhGSWRIenktdEpwdVZrTGhlZVpWMkdyZVJ1eV9NMFFJRXhsSTZINXhHMW5Zd0prTG5NV2hCUjM2TmtWeXNjU3FvdGIwbFp1STlnd2pBQjlBclEwaUZRTG1CenZKbkQySEZxUTNreTc4WlY3MGJF?oc=5",
+    "published": "Fri, 25 Sep 2026 22:52:19 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-26T03:52:54.594133Z"
   }
 ]
