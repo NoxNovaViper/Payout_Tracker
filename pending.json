@@ -5648,5 +5648,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-26T15:55:29.841114Z"
+  },
+  {
+    "id": "472281dd9a",
+    "headline": "Cincinnati agrees to $1.45M settlement with estate of man killed by police in 2015 - WLWT",
+    "detected_amount": 1450000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEJvOU9lcEZPQmU0RFdIa2dOdWNORllqTlQxM1lQVWNpWHEyZ0VlS2EtMWdaOTBPcFgzYVd4b0psRDR0aGdmTHVEREJUdF9pOGJlTG1mZDExdF9iN2k0WlpTRThKWmdPRnNNRG4xOF9RQm1STWVxSU5wOWNCRlV3RFV4RjBWbnFGeU0tNjNvVF9UeTFyd0tDdWFiZ1pLUQ?oc=5",
+    "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-27T16:31:45.962076Z"
   }
 ]
