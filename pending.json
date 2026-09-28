@@ -5658,5 +5658,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-27T16:31:45.962076Z"
+  },
+  {
+    "id": "bdf5dd3981",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - wthitv.com",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDdMOTlEOW5BNWVPTlotSTY5T09VYWtLZWJfMFpialV4MkNDYXlGMmVmUnA3dUpGbFE1SEhzdHVIX1l0dVRXd0d1LUtLd0w1NmxqV0ZCX3NvTjRlUHRSTUNJajRmaVUyTVdraDlkZkhMRzMwTU1VQlpmV0lCNWRfbFhleWc0bXB4UUxWSTVvSW1PQUlJd1preU10aW9PQUU1V1o1SVBKcDVoZw?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-09-28T04:03:30.159775Z"
+  },
+  {
+    "id": "3f7feb6372",
+    "headline": "Chicago City Council approves $2.9 million settlement with innocent woman handcuffed naked during wrongful police raid - CBS News",
+    "detected_amount": 2900000,
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUhTMjBBSUItUHBGNWNFcEg1S3h6dS1ueHdldmFLYmNEd29KOXA1MVQtLW0yTnUtZTlXZHRoMjJCVjJSU0Y0VzZhcGZmdHFIS3VWNk1iVDR2Ry10SXBhcWRuRnk1b3MzV3BVb256ejQ3NEhzVHFZUGVRUFV0UlRZQ1pqYw?oc=5",
+    "published": "Wed, 15 Dec 2021 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-09-28T04:03:33.439762Z"
   }
 ]
