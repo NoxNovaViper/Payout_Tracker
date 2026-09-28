@@ -5678,5 +5678,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-09-28T04:03:33.439762Z"
+  },
+  {
+    "id": "1ce92d7662",
+    "headline": "Buffalo to pay $4.5 million in police shooting lawsuit - Investigative Post",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUNBWVBLelpfeWlPYUVVWWVTMElWbENNY3NDRG56N3M4Q2VpVmFrUjBQZzJ0TFBsTFNPLTFhYXR3aHF5MmNBUFRLYy04TS1TNEdTWXdoZjEzWTFYa2c3dXN6NmVsUGpRLUZibXpwTnFaUkt1NkVJQ1NmUzF5aXFzWmpoSnFSOFlIaDhZaUtaTFV1bGtfN2x3?oc=5",
+    "published": "Mon, 28 Sep 2026 18:33:20 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-28T19:19:57.969210Z"
+  },
+  {
+    "id": "8beb98aae4",
+    "headline": "Chicago City Council approves $27 million settlement in innocent woman's death in police chase crash - CBS News",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVW9YU05Hc3A5NXFPWWo3ejVMS0NLUzQ2dFg4R0VjQ2dVUHBhNlROM09lamFsVW9FWGE3ak5HeG8zNU5CN29JNVBOWGFYWGpOU3VkdHh5Z0hPZENNZWRsMk50OU9NTnhlSDg3U3ZkcDRtQXlmX2dsV3JVdjA2dVJIZHd1QmJVc0tuZ180NE5HT2Q0ZmJxUlE1elk3ak9KWUE4OWRr?oc=5",
+    "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-09-28T19:19:57.969775Z"
   }
 ]
