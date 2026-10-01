@@ -5778,5 +5778,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-01T04:32:14.352322Z"
+  },
+  {
+    "id": "638c9d0ab6",
+    "headline": "$4 million settlement reached over former Florissant officer\u2019s illegal cell phone searches - FOX 2",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjBCSzlCd2Nid2l1RmxGWlpPdXZCVTFYd2Z4SmM3TFBPaFF2RmUzM2FQWTVFZ3lhLWlXVGUybDFwMmRQSnZhX1BGNDJ3UlZ3UzE0bm5rS2g0SEM5ckViS09Id2ZrNXFMNkxiUEJVNVg3NTNGNVBDUTQtQmw0ZDNLSG1Qb2traUlIV3JPak0zYi1RT1BlVVlDUW5vM0x5M19LUEdVM0paaWItWGtodWxScUVwck5yUWFHQXZuYy1ER1HSAcYBQVVfeXFMTndscHBTODJ2SEwxVTQ4eHZQQkFZck1MYmxuRnR3UV9YblcySlcwZk54UEtBbzM5NjBNeEI4UHo4SnB1SzFyeTlkallOVktXTEFhTHZOZFA2TV8zMzBiSWJmZG9nQlBPYnlBT3NYZ2k1YlNlQmM0cXVtUHI0UE9fbDZBVXl0QWxKQ2dOcENyV1NkZ244WVBYQm1mektuOWRGQ2pMckdQdzhqMW1vR080RmdtY1M3RUxJaUpwaUVuY2Vnd3I1ZS13?oc=5",
+    "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-01T18:07:20.745319Z"
   }
 ]
