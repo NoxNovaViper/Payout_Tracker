@@ -5758,5 +5758,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-09-30T04:20:33.445140Z"
+  },
+  {
+    "id": "01e842e840",
+    "headline": "Asbury Park Settles Police Officer's Lawsuit For $1.185 Million - Patch",
+    "detected_amount": 1185000,
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2gzVTNrSEFvV0txVUdjbENOQUtkWEZNbEh5bWI3T0NPY0dMeE9LZWoyczF3Ym1QclV5SEVCM1ZaSmd5NmpEMkxaRWVtMlIwU2ZFSGJ0ZVdVbUZyVmdteTlOM1VMVWRRWUpkU0pEQ3hFQXZQbzB5RFItWFU3MGFlS0FOQ2VHTWVXVFRJSVVYTkNod3J5aklGU1N1amNGbVk?oc=5",
+    "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-01T04:32:09.632648Z"
+  },
+  {
+    "id": "25e4921bf0",
+    "headline": "Buffalo Common Council approves $4.5M settlement with family of man killed in 2017 police shooting - WGRZ",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWkJBRWZGVHpIZzg3aFBWSUU1dk0ydjRlUkpmYVVNakpOTnRQMVNYZTg4RmhCa0ZUQ21zRENIYjdrY1Etb0JRTWF1a00zTmNKdHcyTXNCc1hrcUZwTEFobjN0UFVndGZXYlNCWW1RdVZrTUkwdUZSUDI1T0Y1V21QNl9oMU52ZlZQcDBzWUxONDhTLVQ3Z2s4VVQxSFRMRUpwRVlveGRDLWlTUHloaFU1dGRNX1BpaVVJc19WaTkzQ1B5LWkxZVYyWWNGeW4zc245MDJQekRNZVluT0NCb0k2RHkxazlGYXEyNlNidDhBLWR0NkpPRFFvTG5KaDFsOGtLYmdrS0xn?oc=5",
+    "published": "Wed, 30 Sep 2026 23:50:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-01T04:32:14.352322Z"
   }
 ]
