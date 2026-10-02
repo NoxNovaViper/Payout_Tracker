@@ -5788,5 +5788,55 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-10-01T18:07:20.745319Z"
+  },
+  {
+    "id": "2ba0daf4ee",
+    "headline": "Family gets $10M in largest pre-trial settlement in Fresno County police misconduct case - ABC30 Fresno",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZ2bkVITFl1VXkycFBOdWtCWl9KenRXaTFiOTRlWWxabUJJdmFrcGFydGpYeUpfeExhdjZqUTFlTlA5MGlXc1c3T1VaU3Z0TTNRRHpJdzg2b3c3QTZCbGJ2UVh1WVc2bU9OV3pSVGFxRVdHRThpUF9hd1dhYjVjLTdqclNzeGc3VDlyUmpYTkFFWnAxRVdSdlZ1T2gzT0NrVWZlTUFDTGN0Nl9tRUQ2ZUVYb1jSAboBQVVfeXFMUEdLRHpzaXFyNWYweU1qbjB3emYyd1RoWXRpQ0pWeVZkY002WTZUVEFnRGVXOVJ3Qk9tQXBySUNTNWJPUDFhM29nTHFIRHVMZFV5OHBLLUZQRFZXd0UwT3pwbkh6OXJyNTdNdWpIY2RNaVJoSDJia2wtcWw3LUNCdEpwanB4Tjdzd0VEZlg0a3NfeVdQbFhJeEhVdHA5bXRzdFNHaVBueENJZnRHOXgyT1JOTVdNU293VUZn?oc=5",
+    "published": "Fri, 02 Oct 2026 02:27:24 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T04:24:39.702373Z"
+  },
+  {
+    "id": "d358d77ddf",
+    "headline": "$261 million mass settlement for Guevara police misconduct, Mayor Brandon Johnson proposes - Chicago Tribune",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXJ0eEM3MUNaVnE3LWhKU3VkOV9NLVMxOVBzNFd4NXFybTg1eVhSN2hMMHBMcWZEMzZuSnpjWVN2ZEpMdTJNR0VSc0JRODRGRWV6WmFXamo0VTlfd0loUFg3bkhacHJpeHNRZktsNFE4SzFockM3TmhLVDlRRjR6ejM4Y1NWSVMyWVlOOUpXaTJCM2Q4M2pBZW1hTnNMdkVwX0Y1UnRzY0dDZ2hoWm1HSE1zdEQtb1RnZ2c?oc=5",
+    "published": "Thu, 01 Oct 2026 20:45:55 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T04:24:39.702390Z"
+  },
+  {
+    "id": "b59fbb8746",
+    "headline": "City of Chicago proposes settlement over $260M for 16 cases tied to disgraced former Chicago Police Detective Reynaldo Guevara - ABC7 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjRzUmNfNFdBdHNYcS01SU95Zmx1Qk5MMWVfeVNGVHQ0SzdsdXpWVm5BeUM5VzJtU3FTZFJzSjhuMDh4R3Fudy01c1FvZEZieV96X2R1RU43eUl6R2VrVEwwSFpoN3BIU0NNQUxkZzE0WUpLWFZZUzZrYnhxSXRIaUxWVi1FNjlRalBjak14dlRVOGh3Y2M1NFNEeG5WZkVRVzFMclJqeWx2ak5CUkp2TGRnYzl4aU80TmVIaThSTjl4aDdEYTl6Q2d5RzBmYkNtcGxOaF80YUXSAd4BQVVfeXFMUDZ2R2E5bzNkMlk3WEhvc3hNSGE2WjVaVWlIWVlQcm96YTAtcUd0RGhGRDVRb0YxYi1MYTgxWTJwMUVPa2t5VUNTYl9tbS1EVWRHWGViVWFRMk9ibHRyY1g0VlFvYk1KazdrWklqRzd6YktaVW9uMVdxVWRTX0x6bE5lWmJwWGNQdFFqUW1TM1U5aXpvZ0xkZXFUSnZMNWdpOUhSdFdMVmdwLXVhWWltSUE2T3JpaVdlbDduQ3NTeXVhMFhyc1dTREktd010dE15Rm9MYkx5TGhybDdubzRB?oc=5",
+    "published": "Fri, 02 Oct 2026 00:55:04 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T04:24:42.741057Z"
+  },
+  {
+    "id": "bccf257fa7",
+    "headline": "Family of man killed by Memphis Police officers files $35 million wrongful death lawsuit against City, MPD - localmemphis.com",
+    "detected_amount": 35000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHQ4ODJRNUhiT2hsUFhVU09OSTd2UkZ4WUpYR2F4Y3RaWTc2OTJORXpSVEdyY1dUOGJ4ZjllRWplblpiY0tVVGlVZG1JTHU4QXhtNUNhS3JJSlhuSlQ4ZzdLUmNVYm9NN3Y4c01sVUtmWEVfMFlrUk5UZkVoaHN2dE0xV3Q3TktycnNNU3o4RmR0R25qRjhCWG5BaFYxVXZIYVVROXFROGd4eTIyQmRkVmNxczl4Tm0zSFRmVE9DWm13TmpLRW9fX0F5czN1ekFWNG9CSlVwSWpqQS1C?oc=5",
+    "published": "Thu, 01 Oct 2026 20:34:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T04:24:44.389138Z"
+  },
+  {
+    "id": "6ba71e0dbe",
+    "headline": "Family agrees to $1.7M settlement after 2019 St. Louis police shooting - AOL.com",
+    "detected_amount": 1700000,
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQVB0Q1cxMWxTanRpc1BpLXRiWkRmOVkyeEpsVWZZU2dJdnBlTm91TnVLTTdqUTA0bXctOEZVQXJIOXotbEQxZzYtbFc0WU80eHpYZV9rQktGLUhhNjF4Q0o5STFhSXVIb3Y1cjh0X0xJTjRfTmFvOTBzbWFBdw?oc=5",
+    "published": "Thu, 24 Sep 2026 17:28:18 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T04:24:44.389206Z"
   }
 ]
