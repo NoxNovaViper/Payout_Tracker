@@ -5838,5 +5838,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-02T04:24:44.389206Z"
+  },
+  {
+    "id": "36f1ff3581",
+    "headline": "Oak Lawn to pay $825,000 settlement to man punched by police officer while pinned down in 2022 - cbsnews.com",
+    "detected_amount": 825000,
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnA1X1BCWTBCbEkwdklVR1JuMlJZaU5Ud0FvWTZSdGR5ZDdXQ2pBQ016NFRkcDJSak5WTFR1bWRoLVVjbC1GdE03SHd0UU9HdnBWRm95eHk2TFdfX180N21DNWxlcC14a0hsdTlaLV9faGtxS2hRbHh2U1JuaTFQNGRSUUxCQzZYMF9aTHVvejBmckJ3Q3RLV0tOcw?oc=5",
+    "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-02T17:33:32.624254Z"
   }
 ]
