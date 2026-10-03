@@ -5848,5 +5848,35 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-10-02T17:33:32.624254Z"
+  },
+  {
+    "id": "b2f433fe2f",
+    "headline": "Chicago proposed $260.8M settlement for CPD Det. Reynaldo Guevara victims could be largest police misconduct payout in US history - ABC7 Chicago",
+    "detected_amount": 260800000,
+    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSU9ZWi1IZzEyYUdyY0ptaXRNcVdyY25HWEFCUk4yMzJvblFIVjduSXhKN0FVZlJzN2FXV0NmSWRBUmxnYWMtVkc4NHhrSElZN2JXY3piYno2WGFmbk9pV2JLNHpDcmVwazlsYy1BWERmNDk0ZTFLRm45SWtHRDBucFZKaVRhTXA2b0o4RGgtWFp4eHdUc0tfMjNfNElYMVdBQUhkMlNrSXQxWDlOMG1tMkh3U0VfSmdzcC1DMFMtMGJlNkREUmpKMW1NdmI4SzhfUFZxbThNdEhnYVlxYS11cUZPOExSRVEyeWdz0gHwAUFVX3lxTE1tVkgzRXZGZ2llV2pzeThHMzVydG9OYm9kei00cWJXU2pQenRzSl81NWotcWVTRFZKTmNPT0oyVGJaU053eFlNbnRmX0tDNUhOdXBZazJ0SV95NWlWdnQ4djNuMGFkZ3oyYVhSc1psMnQ1V2FWVk5teFRUTWNpU3o5eFNtbEJMQzhKbUVXZlZ6X0FZUVRCSTNVakNMVGNnTU52dnpfQ0pvMm5TNHVZT0xkM21yTXR4M0lJVEc0X2FDemQ0MFlLZXNNQ05FNFVrWlByVWM5MVpVYXhnLWhic0RvV0d0RVAwWW9PRGpScjZ1bg?oc=5",
+    "published": "Fri, 02 Oct 2026 21:59:41 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-03T04:07:08.991277Z"
+  },
+  {
+    "id": "58d3cb4d13",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - KOTA Territory News",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0k5dFpQRUVxalVmd2puYkFCTThTS1cxeVFPMEVlTVhMX1oxOUREZ3lULVVRakxGY3p6cm5iREFPWE9ZZG5fOE8zUmR2YjVMSnJYa25uN3Y0NEk0YWxGQzBDS3d2WWhLWmpweGN5dmZkZldNeGliVVNfckQwS1FkMjdlQVhzYmx2ZmJwX0kyQ2hDSVp0a25ib2IxMG9pdktIZmUwdUtHSmNBdw?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-03T04:07:12.083471Z"
+  },
+  {
+    "id": "a19f869338",
+    "headline": "Man wins $10 million lawsuit verdict after assault by Dearborn police officer - FOX 2 Detroit",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjdaZ29SRVlUbHJEajdPTEpyRlZnTElHQnBMbFowSTZNN3EyN2dOUTVJSklwVGhsRDFEVElDdTIzUERFQzY4LS0wQi0xY0xLWFVQSGx1TExlNTFlZE1ObGswY3BWX1lMdFZqUlNpSGFjalgyWXRQX1FNRy0xQXhtLW5KV1BtSndGN0xSMzRqRE1oRmVTTUxQODZFOG9IMUpQdGNXWWZ5Zzh0Qk1IMHc?oc=5",
+    "published": "Wed, 14 Jun 2023 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-03T04:07:15.038706Z"
   }
 ]
