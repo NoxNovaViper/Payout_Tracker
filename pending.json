@@ -5898,5 +5898,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-04T04:39:33.414284Z"
+  },
+  {
+    "id": "5ad3ef433f",
+    "headline": "City set to pay nearly $5 million to settle 2015 class-action lawsuit over police \"stop-and-frisk\" tactics - CBS News",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHN6b0JiYldqZTRiYjhkMl9RRTZKNXowTlBuUzRMRXVJWjNKOEs2cThfSXFRdkNhenRMVmZxVWJxMDFvVjhSbkE2eWgwWEppbXkyaW9EbTJBWnBxeEg2dEFIbzQtOWE2M2RzZHBRem5WWU56dllxbjBjVExTWWNPbGdKSkdEOVdycWktTTVZQQ?oc=5",
+    "published": "Mon, 17 Jul 2023 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-04T16:32:12.329100Z"
   }
 ]
