@@ -5878,5 +5878,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-03T04:07:15.038706Z"
+  },
+  {
+    "id": "0a18d90bde",
+    "headline": "Family gets $10M in largest pre-trial settlement in Fresno County police misconduct case - ABC30 Fresno",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTZ2bkVITFl1VXkycFBOdWtCWl9KenRXaTFiOTRlWWxabUJJdmFrcGFydGpYeUpfeExhdjZqUTFlTlA5MGlXc1c3T1VaU3Z0TTNRRHpJdzg2b3c3QTZCbGJ2UVh1WVc2bU9OV3pSVGFxRVdHRThpUF9hd1dhYjVjLTdqclNzeGc3VDlyUmpYTkFFWnAxRVdSdlZ1T2gzT0NrVWZlTUFDTGN0Nl9tRUQ2ZUVYb1g?oc=5",
+    "published": "Fri, 02 Oct 2026 02:27:24 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-04T04:39:25.357547Z"
+  },
+  {
+    "id": "724140c536",
+    "headline": "Mamadi Camara sues Montreal police for $1.2 million for wrongful arrest - CTV News",
+    "detected_amount": 1200000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNay05OFdmR0pmZWxwUWhpUmpWSVpvNU9BZjFFZ2IxRHp5dUhPNV9rYWEweFhJSElxZy1BSjNKQmVqa0lUZ0Z1UXZnRy1pNFNTM2JFVnZnMkRvZEJ1X3hZVzBoQWpPbWg4a0FmU2N0dF90UkJqaFZNdnZpb2dqNFRsRjhXNS11YlBHbS14WXM3aERkeHZObmpNYmI1Q2ZDQk5DMFdUeUpwSUswYkdEWGdJ?oc=5",
+    "published": "Wed, 14 Jul 2021 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-04T04:39:33.414284Z"
   }
 ]
