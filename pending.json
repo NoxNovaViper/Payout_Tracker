@@ -5918,5 +5918,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-05T04:26:35.056170Z"
+  },
+  {
+    "id": "08cadee0d3",
+    "headline": "Aldermen give $261 million settlement for police abuse lawsuits initial approval - Chicago Tribune",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KNUZCZksyUnhpSlBabGF0UmY2aE1YRmlYc01WQ3NaNUgxSlJfTEhsNVFoU2xGMU4zWTIxR1VDVFZETGQyNG9vNHd6R2N0bnQ2dHJzdDNwWkRzMUE1czUwSFZUdFZvay12YURXVXM5cGQ5alRZc3pz?oc=5",
+    "published": "Mon, 05 Oct 2026 19:41:58 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-05T20:17:25.892347Z"
+  },
+  {
+    "id": "2f2c02a99d",
+    "headline": "Chicago City Council committee to consider $260M police misconduct settlement for CPD Det. Reynaldo Guevara victims - ABC7 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWl9xV09lYWhmTGlZZ0RaVHg3TGdYcWVqaC1GR1dGSWJSQ2h3UTdtSGRjclg5LTlQY0lxZkRkRUt2cmkya0pqeHJSZzRpRkxoV0JVN3RKY0JQdGJtZDhDaFg2Q0oxOXVwUVN6VG5QVGlqUWFRNE5Zb2lNRzZWeTFrbTQwN1ZQYjk2dVBUTnZvbVBVb1RpSXhLYlZ0ZFVkam9HZXR5MEJrTjF3RXhEb05TS0g2WWdCbEZzVUhJemktVlBOUjcwMUdtczBaM1NyaGkxYVBWNEM3QkJpUUJJelHSAeMBQVVfeXFMT2RXN3lGRDhPY3NDUlN4SDdPa0EtSVVHNF9OS3lvM1FLWUU5YUFTU3BHY3doV1lLRDRBOTZnNzZOd1hQMUR1dmhpM0NwYWpSZUR2QURVMVZiLTVVYjIyeV9fdld6TXQ5cnZZek04SURLelAwNVlmcFQxZF9QLUFOV0VkTlhjdzVHRmhuOVpBYXlweFJPaVk1NUkxT3k2emRsbmhsLTlhNDd3UEsyM3c4ZExRQWNMYUxvTndzMEVLa2phSUVCVUlXTlZyOXJqcTNQNEFBVURzNDVBdmFpQktDYWkwZUE?oc=5",
+    "published": "Mon, 05 Oct 2026 14:27:06 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-05T20:17:27.485616Z"
   }
 ]
