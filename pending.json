@@ -5908,5 +5908,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-10-04T16:32:12.329100Z"
+  },
+  {
+    "id": "b1454233c4",
+    "headline": "San Diego agrees to pay $30M to settle suit of teen's shooting death by police - nbcsandiego.com",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVdJTkw5TS1UT1BieFFwR01POWlpM29lOHlKSXRYbk9lQTVCQlEtX3JtRmFQWnhGX0w2bXF1RzI1aklZckZBNnE1TlUxVzRoWmpGX0hwMk5ZNlFGZl90bXZiaDlNZXdqUlZZSUlMS0RrekdFcTdaTjc3ZlV3eEZQeWNaMFQyalcxMkg0QW9CclNtZDQ?oc=5",
+    "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-05T04:26:35.056170Z"
   }
 ]
