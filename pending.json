@@ -5938,5 +5938,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-05T20:17:27.485616Z"
+  },
+  {
+    "id": "6a050d479a",
+    "headline": "Chicago City Council committee to consider $260M police misconduct settlement for CPD Det. Reynaldo Guevara victims - ABC7 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZFc3eUZEOE9jc0NSU3hIN09rQS1JVUc0X05LeW8zUUtZRTlhQVNTcEdjd2hXWUtENEE5Nmc3Nk53WFAxRHV2aGkzQ3BhalJlRHZBRFUxVmItNVViMjJ5X192V3pNdDlydll6TThJREt6UDA1WWZwVDFkX1AtQU5XRWROWGN3NUdGaG45WkFheXB4Uk9pWTU1STFPeTZ6ZGxuaGwtOWE0N3dQSzIzdzhkTFFBY0xhTG9Od3MwRUtramFJRUJVSVdOVnI5cmpxM1A0QUFVRHM0NUF2YWlCS0NhaTBlQdIB4wFBVV95cUxPZFc3eUZEOE9jc0NSU3hIN09rQS1JVUc0X05LeW8zUUtZRTlhQVNTcEdjd2hXWUtENEE5Nmc3Nk53WFAxRHV2aGkzQ3BhalJlRHZBRFUxVmItNVViMjJ5X192V3pNdDlydll6TThJREt6UDA1WWZwVDFkX1AtQU5XRWROWGN3NUdGaG45WkFheXB4Uk9pWTU1STFPeTZ6ZGxuaGwtOWE0N3dQSzIzdzhkTFFBY0xhTG9Od3MwRUtramFJRUJVSVdOVnI5cmpxM1A0QUFVRHM0NUF2YWlCS0NhaTBlQQ?oc=5",
+    "published": "Mon, 05 Oct 2026 10:47:53 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-06T18:00:29.973562Z"
   }
 ]
