@@ -5958,5 +5958,15 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-07T04:41:03.037037Z"
+  },
+  {
+    "id": "8d1de72e61",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - FOX5 Vegas",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTkxa2lpeEp2T2J1eEltT2RaOTdpNkpkbFNxYktOTWxFOWt3SWt5NDA0eFJYOW5hVTlZMnZzMFBQUjl4X2Q2UzdvY0k3a21XNFJjVjU4c1UzWGRzM1ZuZXluR3Y4RFk0WWg2cVFnNUZ3c3hpTC0teVdleVM5ZDd2SEpnT3lNZ1ZFSlFoYjFPQWpzQnp5QjBuZS05clpWNG9aaDJFSmJ3Ni1VSkh6bGZFa3QxTS1hN2RIQ1Nv?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-07T18:31:52.988182Z"
   }
 ]
