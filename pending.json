@@ -5948,5 +5948,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-06T18:00:29.973562Z"
+  },
+  {
+    "id": "b4d6ca684b",
+    "headline": "Las Vegas police approve $29.5M settlement with wrongfully convicted Nevada woman - KTNV Las Vegas",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWhsR1ZQcVhMOTJEamhnYm9vdG9fZ0lWYU1YQ3FORUpZQ0psQk1FV2RCbGMtZmxNSWt0REFSWTlCeWptaDNLWE9HV3QwTnBQUVhLMmphcVBkRnRIRFZyQUpmUFlIQllUd2wtY3poSHgtSllQR181bXdfX3ItMi1uRGFIRVE3YlpnMGJ1SEUyb0RFR050RUlWMkxIeVhSSTdLX3Yxd3JvSFM3dw?oc=5",
+    "published": "Tue, 06 Oct 2026 23:54:40 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-07T04:41:03.037037Z"
   }
 ]
