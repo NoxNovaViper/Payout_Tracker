@@ -5998,5 +5998,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-08T04:51:35.171459Z"
+  },
+  {
+    "id": "06a8e9ef35",
+    "headline": "$30 million settlement approved for family of 16-year-old boy killed by San Diego police - CBS News",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQclZJM3F3dEVHSzFVRXNkRkhBekdqOXNxdUNjU0I1Rm9hWHNSMHNUdHZqYkNmZlJxeTd6aC0xMnJqTHZLZklveWNvYUNsZGtEQmVYR1JoS24xbk5wcHBjWGRybGRBLUJOMGNnRUE3SUlBTVlka2J0N3JoNnFnT2dJOFVjNFF2U3VnX0F3MC0yN2hCUQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-08T18:30:51.997808Z"
+  },
+  {
+    "id": "d1eb6668a0",
+    "headline": "Chicago Council committee approves $260M police misconduct settlement - Yahoo",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmVHajU5VWFramw1RnByOWdtOUVDaWJsOVRmMVcwTTFSd1lZZ2RuOWFTOXJVLXJ2M0gwZWJ2UDdZZ3F3bGhSaVZfUEFfa3VpbUJ1SjA3RjNoT25KSkRkLVkzMVRpODFxVjN4ZV9yRmJkeFREY3dCbU1VT1NsQlR1VDBTcmZSbXFYSHJPYTNaNllYdw?oc=5",
+    "published": "Mon, 05 Oct 2026 21:40:10 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-08T18:30:53.616671Z"
   }
 ]
