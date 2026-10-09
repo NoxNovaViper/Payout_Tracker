@@ -6038,5 +6038,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-09T04:54:46.898608Z"
+  },
+  {
+    "id": "f354eda39c",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - KSNB",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVrdmFZWlkxQW83ZU1JUG9rYmtxMEowTHRMdUEtYjU3bUNYZW5Uc2VvYlp1NzVrZE44UFkwT3BPVDZndUtlX2xTWUVEaVJiYUNJXzg4Zmg4WE9XZ1Rhc1pxRS1KY2dMbVhWM3J0cUJ6YVdKTGI5MldJZmJQa0JJSk1aWjdtOXdLS2Q2S192dmlwMGQ4RFpKa09rbXBnSnJQTno1a1RVczJ3aF8zMHNBdGJyOUlpY19ESEhrWA?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-09T18:02:16.530641Z"
   }
 ]
