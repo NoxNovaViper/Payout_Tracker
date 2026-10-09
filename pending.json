@@ -6018,5 +6018,25 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-08T18:30:53.616671Z"
+  },
+  {
+    "id": "3001bce61c",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - Alaska's News Source",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnFaeGN3SnN2OEZUOXNvVnZTMnk4ZlAwQzZpRDhVbEo4b0MtRXd2cDU1a1IwU3pvNEJmS3JJbWNlTTQzdjJVWmlHLXNfLUcwcG5PdFYwZmxpT0pjMkZTTWtmVHF5TjdPT1hsLVRfeFRRN2lBaXJ0Vk1ZQnZuQm8zeFk3eVB5SDBTeG9UZUVPR2cxekJkYUo2MWppTEM3WENfUVR5ODRfUXR4ZVVkeVlYRnZXTHV3TkR2OVhQclhnTTFsdVVvWHc?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-09T04:54:45.300153Z"
+  },
+  {
+    "id": "12ebbe95c7",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - KFYR-TV",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3ZFU1hydWNYaVE4U1ptQzdjN3lGNU5IVmFqNUdMTjB4cm5PLVFTa3R0eHVFSUU0MkRlWjUyNmtEWUFwbFplbXJNRFQzM2RRV0dsWXJJLWJldWQ4UWNsVmE4YlMtbVNjREIwZE1yRnEzVTRQUV9aQnY5Z0drdHNJUXFVbUxCQlloaDNaUnpBRThERFFNUXRWSUEwdkM5RUhwOVBZWXhQQVN0dw?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-09T04:54:46.898608Z"
   }
 ]
