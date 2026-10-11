@@ -6068,5 +6068,15 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-11T04:25:07.739350Z"
+  },
+  {
+    "id": "cd4c693bf3",
+    "headline": "New Jersey man who sought $27 million settles police brutality lawsuit for $350,000 with town of Lloyd - Times Union",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEg0QmVqRVR4UE0ycjhDOUJ3ZnpRX3JzZVJUQlBzZUwtOWRzVWRmbGlOcHNvTkRXWk1HRVZ1TEwtS1VjRHpud2Q5OU9idEZCaU9wNU90eXVxak9YU0t5ZTdqUjBVc0Y2UUNqUV81dFJGemo4djhxUWdpWFQtaEFkSDdZRkJId2JLa0ZXV0F5Z1hRVE91Wkt4b0d1NjJrLWlUZTVnRXFiR292Zw?oc=5",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-11T17:25:32.635840Z"
   }
 ]
