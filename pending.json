@@ -6058,5 +6058,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-10T17:02:16.653818Z"
+  },
+  {
+    "id": "9b7337775e",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - WABI",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVko3V2N2RE9QZGQtYk5XS0tsa250N29NUUJ5YmVOVTFNLTJaNHViNjBVeWMxOHVId0hIaXFFQURyZ1FoYVpzMTVfRU41OHlVMS1oa2xwUmZFdkVlaG1EUEJ3eXdFcGRTOFN4VVpJcTVpamhTTThoSEdiaUszdHF1WkZrRE83Q3ZzTmhGMlI1RFlqY2tzRlF4a0FjMnNUOUgyYkIxTkw2dkNuS3hNZ3oxOUcwWQ?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-11T04:25:07.739350Z"
   }
 ]
