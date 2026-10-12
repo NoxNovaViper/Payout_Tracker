@@ -6078,5 +6078,45 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-10-11T17:25:32.635840Z"
+  },
+  {
+    "id": "6b09bb6064",
+    "headline": "New Jersey man who sought $27 million settles police brutality lawsuit for undisclosed amount - Times Union",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXV4cnBoM3JZUGxHZEkzb3FFcVNXVEt4MjhWalp0NkV4VmpuV091RU51bU1DUVpxdkFpTTltTXBrLS1XVVJpUnpMekFUUUFSQktldWRkaDVGWWJIcmEzcnd0QmNPVmJfbUlrVG1yY3FfWDN2aWpnNi1iWEkwQVFLZHdLcGZvSFBfQTVIX1drLTZxS2FvZzg1ZWxPOU0wR0FWMG9Jazg2NkpVOWhETjlnZDln?oc=5",
+    "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-12T20:58:52.863656Z"
+  },
+  {
+    "id": "3ebdb4c528",
+    "headline": "Las Vegas Police Pay $29.5 Million to Woman Wrongfully Imprisoned for 15 Years After Detectives Fabricated Evidence - Law Commentary",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVVObVpvYkpXc0lLeFkzTmhiX0lxQkdqUzYyR0hwdmhRUnFsS21vdXR4SW1KcWdGMUxBNVd3WmRuZER0bllnZF9xR0V2VDQ5ZmVZUmR5eUFEdmhQMVZnOFpQMXBvcVNCNDNseXB0eHlLUUN6Y0diQWZsLU9Dbm5EVTE1M016TXYyUG85blh2T2MybWFNRmpObGF4bnVhWnB4?oc=5",
+    "published": "Mon, 12 Oct 2026 15:50:47 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-12T20:58:55.988360Z"
+  },
+  {
+    "id": "6426a694fb",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - hometownstations.com",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTNhaWdadzI3Si14MVBEWFBBMURHTmlvbHFkQ3ZnRTYzekdnRFNiR19zbjBPT2VEall1SG1DSFBub3pNVGVCanAxVWhGR1BROFh4X3ZGc1o1S1U1QnhZMzBOWVVjdy0wYURzS3VKc3VNQ2Vkd0ExMmlCLVZYeFh4NDdMS1g1WThFWkU3Nm92b1FwdkVqT0xSNG5CR0RtUUZlT1ZXa1A4djRGOEJBaThkN3hPOVpST2l6a3NTc0hWOFhRZ0pp?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-12T20:58:55.988394Z"
+  },
+  {
+    "id": "b313caf9a6",
+    "headline": "City of Seattle pays $515,000 settlement in police shooting - FOX 13 Seattle",
+    "detected_amount": 515000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURVdExTSTcwSThTT19Gd1lYOENDRkNBT0s1UWdsZWNpUEVQUmdhR0RqdVBtc0czWmRxSFVQUk56NkNLZnNIRkV6a0FsWksxQ25TbEJjSVNUWDlBYzhnNXEtR1ZVYnY2MUhpemNsOW1LbkR3QnZlWFp0X0xOQU1vWnNJVHdramphX2pwMUVvNkUtVFdiMFHSAZsBQVVfeXFMTTRkdHZjeUFpV054el9mNlpiMmVUQUdCdFo4VjZHRW5uZjFpVUJZUWNHLW5RR3BUbVF4MVJldHdGWU5BdE1RV1htdGc4TW1DZkJmVkhQb2hTb0Y1R0d4allDcTlDdUVPQUxaOS1UcG0wY1hXblNRSDlNVlBYZDF1LTd0Nm0zby12dUkyUDhPVlh0cUhCajJuZS1mUkU?oc=5",
+    "published": "Thu, 14 Oct 2021 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-12T20:58:59.327504Z"
   }
 ]
