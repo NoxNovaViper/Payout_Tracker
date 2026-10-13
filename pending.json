@@ -6118,5 +6118,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-10-12T20:58:59.327504Z"
+  },
+  {
+    "id": "cc01fa89a2",
+    "headline": "California woman, Nakia Porter, violently arrested by Solano County Sheriff's deputy secures $17 million settlement - ABC7 Bay Area",
+    "detected_amount": 17000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3VSemM4NW50NE84cXBrd2FISkQyM3Y5cjNwTU1LTFdwa1BTU2ZlRS1KODdDeGJIYU5uNkpPeUh1NXdQeVFMb1daY0hOWXkwZEFHSWJHQWJlRXZyTUIwSzU4S2M4S2Y2X3ZUWkNrenNDalZsS1VkbTRuRTg2LWtwS0RkLVYzdDlLSkpGMmxBMmFzMUZua3VBZ2h3QzN0c2wyNnVzMC1n0gGrAUFVX3lxTE5RSEYta3p2QWJIR1gwMElGM0hqaTAzUlFLMEhWckZuVzhrejBWVHhLNXZiZHNFTHJLX0pJeHdOQXB2M29xS2h0VHdvcEtjdHNhOXQ2SHJyU3pxdE1oU3ZkNlRFTkhWMDNIdTZiVHRVN19kSzhUb3BUcVNDWFFwRFFVQWpIc2hFZHpBMUVmSjNOb3duRW1lN0lOdDBWSURPMnh5aENfbEl3cTJDRQ?oc=5",
+    "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-13T05:46:05.446928Z"
   }
 ]
