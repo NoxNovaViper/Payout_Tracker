@@ -6128,5 +6128,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-13T05:46:05.446928Z"
+  },
+  {
+    "id": "53ddf28dee",
+    "headline": "Minneapolis to pay another $2 million to resolve police misconduct lawsuit after George Floyd unrest - Star Tribune",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaDYzMVB2NUd1YUtuYk1MRTVmSy1qcHFCZERvNkRWTHdmcWNaU1pOQTkzVEtxOW1jVElsWHFzZ1FUNDd3ZmIxck1qOThQbU40LXkydkpKTGJGei1neFZNRHphZFloemFOSTFRMVVlODNKVjY4OW5UazdWY2ZZdms?oc=5",
+    "published": "Tue, 13 Oct 2026 21:35:48 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-14T03:49:27.037940Z"
+  },
+  {
+    "id": "81be49656a",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - WOWT",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUY5SW1TdVdra3lfSHRQYURpR3NqamQxdV8zOFEzRFRTa2NuTk80RGM0amVXM1B4Zmk1cUhLVkdwaGtrTUpSNTd0czdIT2hGR1RMTS1Vak1aSGRVck1pMFZFV0hjWEJwQnRCUExnYlhLZVo4T290cFhfNnh3Vnl3ZTlqY2k4Si00aTZSMFJUNXY4Q2pIME1ubWg2Um8yeHo3a3pUaXpmQ3VwMklvd3dxX1VNb1g?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-14T03:49:30.085985Z"
   }
 ]
