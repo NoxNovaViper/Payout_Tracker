@@ -6148,5 +6148,35 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-14T03:49:30.085985Z"
+  },
+  {
+    "id": "5ccf899c97",
+    "headline": "Chicago City Council to weigh $261 million police misconduct settlement, Mayor Johnson's veto of higher debt threshold - CBS News",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZUMxaVFkSHFOd2NncFgtUzZIMnFqRi1UVmZzZU54dTFDWkNFdWFDMVdLTEZMM0hFTnJvSk9PYzhHV1BXalNjRHJTYzBjVlpqcWpHdGQ4TGRkTzlNUEJuWHJzNElVa1lod0RhalpYTm1Rd3RTSUhGaGNUUGx6Z3d3bHdOZHdxemVVYV9ZOU9fcUZnSTBOdlVhZEJPbWk2UWd5WUY2S0dSNk9pZE1ZQkpZa3FZTVhTR3ZkZURJS1NHdXprRjU0cmYtYUNWR25MMmktbnVac1NhUQ?oc=5",
+    "published": "Wed, 14 Oct 2026 16:26:24 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-14T16:40:30.035292Z"
+  },
+  {
+    "id": "2473a33526",
+    "headline": "Chicago City Council set to take up $260M police misconduct settlement tied to CPD Detective Reynaldo Guevara - ABC7 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0s3QWw3SnE3b2tvZktGOTUxYVBlWkk5ZjRpUWdtSjk3SHh5TVhUNi13NkR3amxrWjBzb2NCN0lwV0tEcmg1MGRzdDNtS3FGSGN6a3hzcnZ4S0N0b2JobXNleFBLLVNSSG5oNU5pdU1LTUVwU1JZN1hhdm5sdlhSdHAxcEFlT195Q1F2ZjNSTXhibjVnTnZpUkFIZ21fem9qNFB5MF9PQTM1d2FRbXFxbXlHSFUyTWVFS2lkdDVJV2MzR2FqeUk2U1J3dnc3cjVfTjIxU9IB2gFBVV95cUxQdzBHZ29oU3BXTElRS0NKeUlpaHQxeVBSRmdyUHBSUXozanhRZWJsZk1BbFI1TTdTOFBiNllHajVCOTBheTJyR0tHSVpZNVRnX2FlNHA4V0FHejNBbEJVcDd3T1hQYjZYMWFMLWFPZjhubFJUSGl4Y2NyQ3dnYjVFMGhEamo1RmVnMXh5T2JRWktkTVQ0Z1RYQko0ODZRRFJPU1FMSzZTNjAzcF9FMWZTN2prbEl0ckx0RWFhWHV1aVBYY2FxdGs5Tm9FZmdubDlIRHFubVRfWFNtUQ?oc=5",
+    "published": "Wed, 14 Oct 2026 10:50:33 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-14T16:40:31.640569Z"
+  },
+  {
+    "id": "7b2aecf5c1",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - FOX Carolina News",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1hqY01yMHh2UkRSM1lRRzNiUmFJQmRmemJZdVc3VElQM3VaUjdFNFJDWTRkZGVPeHJCVXg1TW5jR2NmRG5hdDc2SnZfd21DZzBVQVFfQlVxQWtrbks3OEktM2tyRnpmbFdtU2ZrdlpwQUVWX1gtbUhMYk5naE5lREdmSlJ4bTAzc2pyVHE0QjF0TkJjZFV6Ym42dk5OQkNFeHZHMzE1Zkd3c3JvOHRjbDRGQWpzRlBlNDZ1Wjdn?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-14T16:40:31.640600Z"
   }
 ]
