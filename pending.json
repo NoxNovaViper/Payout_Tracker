@@ -6228,5 +6228,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-15T03:30:55.950599Z"
+  },
+  {
+    "id": "f69edb3a09",
+    "headline": "$260M police misconduct settlement approved by Chicago City Council - NBC 5 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjh0Z3c0S19CZ1lTTmwtcTg5cGV2dHljRlJaX2ROMWExNDFGQlk3VUVESTRqeTVFcUR4LW5sUUE2NnZBMHliUUt3ZnhPZU9uTldUVE9JVFF1Qmh4SFREYzYtdnQyYlFieU5jNUs2aEdDeWpDTEF1S3hva08tZTVXZTAwQUUtLWFlZHpaLU1yVlc3dDZqTC1DdllOVDkwM1hhT0hFMjdacVlYeXdwSGU1c1BOVzdFLUZjcGM1NF90Z21aZ9IBygFBVV95cUxNaXhhMUxQVkZqNnZ4R0RtY283b2JPQlpDNERKalFhak11b0J5X3JTN1VKTTJpQWlhWC0wVXdHQ2kzalNjR3o1bVVXZElNZ3JmR3BrckhDS0cxcTQxcWpaemthd3NTeF9JRnl4OVpVUVhLaTNlYmlJSXdrZUlLRFhwV2RtZVFHSXQyd0M0OEItdVRrVXdLQ3F5WHRQMmhGOTlOZmxHRzF0OHVIWGFMcFFxVzU4TDNoWE1NRnVqRWpEaVVocERDcnNiUkhR?oc=5",
+    "published": "Wed, 14 Oct 2026 22:18:38 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T16:26:07.285177Z"
+  },
+  {
+    "id": "42ec327aed",
+    "headline": "In Largest Police Misconduct Settlement in U.S. History, 17 Men Framed by Corrupt Cop Reynaldo Guevara Settle with City of Chicago for $261 Million - Loevy + Loevy",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTDlJOGFsQTItTTNvTEhGa2hIeE9JaHFoRmFmbmE4T09PaE5JdVg3ZmhYR2NoNURUT2d2bU1YUXI5LVBOME9XMER4VWdFdDl6WGlZM3lvWE1xa21jNkNiOEN0WFljU0YwcndRQTlDQnhEZ2wyZzROREljQ0NrQVdOazVydGplVm14TVhneFRsQkpBN1ZkRVEyczhsa2RHNXNFdGJMcFFXdWVndDROUnlRcnpVZFNCM1JnMnZ3Q3dIRXg1aGhTUG80M3p6N2I2X2Q3WlFIbkJUWUtXT0VwZDlOaXlPZUh4eXphYmVoY0JudEdNLUF6Yl9nMjRjMGxpa1poOUtSQU9jSQ?oc=5",
+    "published": "Thu, 15 Oct 2026 00:37:20 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T16:26:08.805708Z"
+  },
+  {
+    "id": "820b83098c",
+    "headline": "Chicago City Council set to take up $260M police misconduct settlement tied to CPD Detective Reynaldo Guevara - ABC7 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzBHZ29oU3BXTElRS0NKeUlpaHQxeVBSRmdyUHBSUXozanhRZWJsZk1BbFI1TTdTOFBiNllHajVCOTBheTJyR0tHSVpZNVRnX2FlNHA4V0FHejNBbEJVcDd3T1hQYjZYMWFMLWFPZjhubFJUSGl4Y2NyQ3dnYjVFMGhEamo1RmVnMXh5T2JRWktkTVQ0Z1RYQko0ODZRRFJPU1FMSzZTNjAzcF9FMWZTN2prbEl0ckx0RWFhWHV1aVBYY2FxdGs5Tm9FZmdubDlIRHFubVRfWFNtUdIB2gFBVV95cUxQdzBHZ29oU3BXTElRS0NKeUlpaHQxeVBSRmdyUHBSUXozanhRZWJsZk1BbFI1TTdTOFBiNllHajVCOTBheTJyR0tHSVpZNVRnX2FlNHA4V0FHejNBbEJVcDd3T1hQYjZYMWFMLWFPZjhubFJUSGl4Y2NyQ3dnYjVFMGhEamo1RmVnMXh5T2JRWktkTVQ0Z1RYQko0ODZRRFJPU1FMSzZTNjAzcF9FMWZTN2prbEl0ckx0RWFhWHV1aVBYY2FxdGs5Tm9FZmdubDlIRHFubVRfWFNtUQ?oc=5",
+    "published": "Wed, 14 Oct 2026 10:50:03 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T16:26:08.805757Z"
   }
 ]
