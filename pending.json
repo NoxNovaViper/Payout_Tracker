@@ -6178,5 +6178,55 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-14T16:40:31.640600Z"
+  },
+  {
+    "id": "122d662b5a",
+    "headline": "Chicago City Council passes a $260 million police settlement - Axios",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVlWZWRsamk4Z2htUHY3aDJsQzViNlZxN2cxalh3T2ZYNFQ0dHNaWWxaeVpNNlh2UHhuWHZSdEEtclhtTjQ2TGNJWFhESnpDeDY5QTFuNTdzQVNXMHRGN0lzOGtNTU9XcGNhN0RPN0F1V2JqN0VWMGtWWG1rc1BzaVNBcFhPSFdMUnRvTHN4ZFRaSzJGR0g0bWNMTTR6QUhmVVZTM29JUFc?oc=5",
+    "published": "Wed, 14 Oct 2026 21:19:56 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T03:30:52.975051Z"
+  },
+  {
+    "id": "3d2ecc6b96",
+    "headline": "$260M police misconduct settlement approved by Chicago City Council - NBC 5 Chicago",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXhhMUxQVkZqNnZ4R0RtY283b2JPQlpDNERKalFhak11b0J5X3JTN1VKTTJpQWlhWC0wVXdHQ2kzalNjR3o1bVVXZElNZ3JmR3BrckhDS0cxcTQxcWpaemthd3NTeF9JRnl4OVpVUVhLaTNlYmlJSXdrZUlLRFhwV2RtZVFHSXQyd0M0OEItdVRrVXdLQ3F5WHRQMmhGOTlOZmxHRzF0OHVIWGFMcFFxVzU4TDNoWE1NRnVqRWpEaVVocERDcnNiUkhR0gHKAUFVX3lxTE1peGExTFBWRmo2dnhHRG1jbzdvYk9CWkM0REpqUWFqTXVvQnlfclM3VUpNMmlBaWFYLTBVd0dDaTNqU2NHejVtVVdkSU1ncmZHcGtySENLRzFxNDFxalp6a2F3c1N4X0lGeXg5WlVRWEtpM2ViaUlJd2tlSUtEWHBXZG1lUUdJdDJ3QzQ4Qi11VGtVd0tDcXlYdFAyaEY5OU5mbEdHMXQ4dUhYYUxwUXFXNThMM2hYTU1GdWpFakRpVWhwRENyc2JSSFE?oc=5",
+    "published": "Wed, 14 Oct 2026 22:18:38 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T03:30:52.975074Z"
+  },
+  {
+    "id": "dde07079bf",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - KJCT",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDVmQmtudllwRjd3ZHRLSmdwbTFTUHcwN3pFNFdUbFpKQktfXzJLQndFZlE5aW9hUVpMSFE2NmNLcVZrOEdiZnNCMjdtZ0ZWVmZ3VVcyN1NuSTN5WnZSVXVyM2hIZG56aUdkX3l0R0tVV0cxWEZPcjRpeTdXdG1RaVEwRlVpM1VuWGpqSlJ0bHdHWlJyVVdsVkppN0p3QWlnMEVOY1JDc2hBeGNlVmgyb1k5TlVxdw?oc=5",
+    "published": "Wed, 07 Oct 2026 04:57:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T03:30:54.447333Z"
+  },
+  {
+    "id": "05e8703776",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - Upper Michigan's Source",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVR6Tjh4T3VsRXFGeUNuNWdBT0w1emZpb0c5Yl84a2hLNmZNTldJbkstZXd6R3AyT094VTF2eElMSEJndnZqOFNNT1JXTHdYWk9JNHZVenRQZ2sxZEFnVDE0U0ZtbG1kbHFPS2k2TjVvaVNzc0hXYmw0UU5mSlJ0eDZydFBwRUpUcEJ0Sm1ZZFlFYklpLXc4MWpGUzVPNGVHd0pSNmNMSnY3b1h2YVJGNkxPdUhPMVZMd29qYkpGSjc2azJCdmx3NTN3?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T03:30:54.447363Z"
+  },
+  {
+    "id": "a0efde8e49",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - WIS News 10",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWFBdkNnTUtZUVpfSUZHd0RIZDdwUDVpM3hjcWFQakhZeHl0Q1FaTXdpMTYwaFF2MERKNUR2d202MVZGdnI4WHFFZFBqenA1N2d4S1VORHQxQmtrazhYR0hYTVBFelpCT3FYZWJJNTFoTGs4eGc4bUhjbjdrQS1xMVZyRUJ5c2s2SXZqMjNEM1JOUlJ1UGo4NkhDU1dsTFBnLTUzWUZOU0Q?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-15T03:30:55.950599Z"
   }
 ]
