@@ -6258,5 +6258,25 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-15T16:26:08.805757Z"
+  },
+  {
+    "id": "be9aca6a22",
+    "headline": "Chicago City Council approves $261M police misconduct settlement - WGN Radio 720",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlNOWDZWYndqa09oUC1zN0FNZ1hyNUZtM2V0VGVrSXA0NmpPSUYtWFp3cFNMWkktRG5mWHdfLU5rSXlESk9GcTQzaFlIRklQZzhlOEdRRmRxblpsclk3Y0NuQjBmVE15MzQyZHJ4Vy10SFJHVGotNkhOM1pJNUE2by1GRk5Kbkl2dDhPMkhUTGZKSlh5VWFZTl9CREtNeW400gGmAUFVX3lxTFBNTDl2TS0xaEVkM0oyY1lObG0wTmNpM1VwbkFHMDlCaE11MUxMcWRZWEluNm1BMTZfM1FGZUdHV1ItR0pVaU1ncVpjUFlySGRNVGpnQ09WNHFBZGpScEN1RG9hUHJxZWs4Y3hCX1FMdUptZ2M4ckdkVkNRcVRUZUVTM1V5QXRxXzNyeXhPV2hYc2ZDbnZJajZrd0JaMEVKSW1EMENQQ3c?oc=5",
+    "published": "Thu, 15 Oct 2026 20:04:48 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-16T03:26:41.605368Z"
+  },
+  {
+    "id": "c6e47c7d43",
+    "headline": "Cost to Resolve Lawsuits Tied to Disgraced Ex-CPD Detective Reynaldo Guevara Tops $473M, With 25 Lawsuits Pending - WTTW News",
+    "detected_amount": 473000000,
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSC0xdjcxdDYxMWNSUDhmMWFRa1ZzQXliWXhMYkhkQkF0Q1BOc0hlRWdyZXVaYloyMlcyQmRuZWtRN044S3NQOEw2M3paQndUNnRuMnd6RVhHUC10VldfVVZSRVQyalFnU2oxSXEyc0EwMnZPZUh0VGl3SVdtS1czMm5oX1E2Qnk1Q1VRbk9DTnNLQTJzd2F2bzdlcVZLTy1nZ0hPOS1TOGdkZ0t1eFdQSFBVQ194SE0?oc=5",
+    "published": "Wed, 14 Oct 2026 18:55:08 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-16T03:26:43.207906Z"
   }
 ]
