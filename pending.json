@@ -6278,5 +6278,15 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-16T03:26:43.207906Z"
+  },
+  {
+    "id": "767b8a1f09",
+    "headline": "Family of Waterloo man killed by police reaches $3 million settlement - K8 News | Jonesboro, Arkansas",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEgzdlZ5T01sNGwxQ09HQlN2RGY5NUpBaWNMeDF2MTByTy1XUHoxV2FzQVpIS2R1UG9nOE9yOGtIanRycEdSZmoxMkdnNjFJUXZvLXlpOThrNEtnRnFRX0NtNlhTTmpkYVpObUpDNlRfVk52ZWladTFDME5pMnlwWlMtYTI2V0pmRTY5MzdSZ2dfUDBteFRNVTYwQTJ4WXlCbmZ3aGl4WFE?oc=5",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-16T16:11:46.314462Z"
   }
 ]
