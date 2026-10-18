@@ -6308,5 +6308,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-17T03:17:09.215810Z"
+  },
+  {
+    "id": "105d62f741",
+    "headline": "Chicago to pay record $260M for police misconduct settlement - ABC10",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa05EOUNuVHpzNG5HLXRwRHJ1NTRVRm53NHhhc1ZqZlZfZFNPVVlJSU04MzNzTmFKTWpNOGlzYnZoLVVUbDB3cE5yME9KMTYzU3llU3ZLQjFGMEhrNEhlWmRrbWFwSG85c3hnTE8tdnpNM3ZvMkRDcHJRUC15VmNSU0RuR3M3cnVIMXVUTU9kZWliRWxkWEhLM1R3R2hfTGZ5WU81VXpSYnRVR2JaSk5hT0tBbVdxNXR4Q0otd2NNNjhaaTdZVFR2RFFITHEtclB4bnJ3elVqNktzdHZOLVNNbU93ZHhROUFGWjdz?oc=5",
+    "published": "Thu, 15 Oct 2026 10:53:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-18T03:22:04.151985Z"
   }
 ]
