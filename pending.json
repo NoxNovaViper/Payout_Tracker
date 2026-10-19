@@ -6318,5 +6318,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-10-18T03:22:04.151985Z"
+  },
+  {
+    "id": "727bee561c",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - WBKO",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFhfdmlmNVc5SGhmcEEtN1dvcm43RVpjQXRMam9XU0R5TW9uQjBmSnVnYVJpb1lhWWY5a0ZyNmhQQkktaHdOdE1FWklsZ3JPM3EweEFzV2pBOGIyVDJkbENtQVVvdEVnN2IzSDk1QThMeS02Vnd1YTI0aWFKVmwtYXVxX2VEM0VMdndoSXgwb2d3LW4xcGQ2MFRUYUVxZjFLUW5lRkVsbWpqUUNySHg4bFlXWjM?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-19T03:33:25.761461Z"
+  },
+  {
+    "id": "5b1b376330",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - Cleveland 19 News",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEwtSVNpQ1RvanpIU0xBRjM0R3FvT2NIUXpyUHZoQ005azUzZlBWOGJvV0p2SkZIOVZYMlBjRkFzSUd6N2ZuTktyeUtGVzlRUlVwa2pURVZGaWFkZ1VBM1lfZHBmbEkxVFNaWDhFX0xuNmdFcTV0N1FpbHBJUUJIMEdaU2FrYUdkOTdlOWg0WGFna3A5NS1ITFQ5U1NBcmlQR0JNTk8wS1VzT3VqelBoZ3BWNjY3VkkzOXlKVVV3?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-19T03:33:25.761486Z"
   }
 ]
