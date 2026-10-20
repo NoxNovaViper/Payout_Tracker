@@ -6348,5 +6348,25 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-19T18:25:16.330653Z"
+  },
+  {
+    "id": "7c3fe0053f",
+    "headline": "Canton proposes $3.5 million settlement in fatal police shooting case - Canton Repository",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW4yTGNtRU1lNkRvVmRlTjRydlZnbVlpeHVwa0l0MzZOUmN1bW92TDdwX2lnWW1KbUhXcmxsWVRsdW9ycFRkRXJZbTFtS0lMb3hhQWNOUDRHdTdDN1NxcllKMXZDMEw2VVNrN09JYnppRlJjLW5uNWF1M05TSXhhdDJRTDN5SHoxUWZIR3k5dm5FbTRCUmVJUVM0QmZ1ZU5rZ2pHYURUQkRfY3hBR2dEdjh3eld5VEhhUFh1TzQ2U01tNXVZNV9WY2NDbkhUWllrNWVZWThwX1M5QkEx?oc=5",
+    "published": "Mon, 19 Oct 2026 20:44:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-20T03:43:56.638567Z"
+  },
+  {
+    "id": "7e7895ca56",
+    "headline": "Committee approves $45M settlement after West Town, Chicago police chase, car crash leaves Nathen Jones with brain injury - ABC7 Chicago",
+    "detected_amount": 45000000,
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG5mb25FRTJrVVRaQU9OV1Y4YU5ZU0pJeW1Lb0FEYXNKWjRnTnVUT1pJYkd4RnA2UXZWYWxTUFhOWjdHRE9PQnpXOEl3XzRWN3ZzU2xFNlpVTEN2M2Rha294U0hPUTU0ZzNTREU0OFAzYzVtaXhkV0k4THNQREN2OS1kM05aX3p6YUx2MlhyQTJOV0toWWMtcEhBb9IBoAFBVV95cUxOenZnazdjal9PYjlra2N5eVNIQ3lqSnRrdkVnRnJtNGFDT1Q4dVVFcmhtLVBCVGVKb2hXSlBJNFdzMEctYnAtQUdWZnNUN0hvLUg2UkU4TlhhdEVVX0FFYnV5R1FMZzl2SDR4QmpUTVdqbE5qcmd3LU5QN3R5VkpiQXFITlU2ZEJzNC11Y1NneUtxVHhSeDFWNlhpUWsyMjJB?oc=5",
+    "published": "Mon, 18 Mar 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-20T03:43:58.157470Z"
   }
 ]
