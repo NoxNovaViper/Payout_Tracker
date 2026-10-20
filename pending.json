@@ -6368,5 +6368,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-20T03:43:58.157470Z"
+  },
+  {
+    "id": "b8ff9cc93e",
+    "headline": "Family of man fatally shot by Canton police officer in 2022 reaches proposed $3.5M settlement with city - WKYC",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONTRsdzlfdnFSTWx5NDZGNExfN2FldS1wYlE1TTNCQzJ1YjNoeHFQNUNCbzcwanp5eGY1NGNQMFM2VlVTOGpORXhRY2VrZ1BTd1h3YzVsQnBaSjlFMEdhbmtwSlk0aGw3dFNBZDQ4RmVQQkthNU42RFVKdGZNTEZZd2o0NGV4VHJVd3V2WlRPY2JyQTVEUDBZWUpBVkkyYnhFSmV0eGZsc20tMWdEbGlSNi1wb0MwakNva0pKTHI2b2xWQ3pneF8za2t0dzYwN1hvdlI5RTlMa2ZRdzVqQmJBQlZfZzVLZ2F6b1Izd1VHelVZT1prVWpIYXQ2RDhMRnJsa3dnZmRSbnh0N3NJd1RuYzI4b0FqQQ?oc=5",
+    "published": "Tue, 20 Oct 2026 15:50:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-20T16:26:48.408528Z"
   }
 ]
