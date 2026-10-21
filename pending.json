@@ -6408,5 +6408,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-21T03:35:37.142632Z"
+  },
+  {
+    "id": "6d549499a7",
+    "headline": "City of Sanger approves $5.25M settlement in case involving former police officer - ABC30 Fresno",
+    "detected_amount": 5250000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSV8wZjJRN3F1MzY0UlNvYXk3VkJHZE00ajNKYXhfbC1Ea1dyZ1lDUHg1cEYzaHlUZXRkOUt2SmxrTkl0WlBoN0lNeE9TYm9DU0NpZ1RPbkE2akRFWmRidm10YWdXRXFWX2tpSmRfdGoyWGFQVVIzelVqT2xaeDJNQ0x5NlBKMHRjMGxwc1pNNWs4dUNKOTBzbTBwN2VQaGxHNjNEQkprUUM2QdIBrwFBVV95cUxQSDFIcFBRdTJNTkctNFZzWFRKNXB4UWwtSThhOTVKdWIxYmhqYUZGTlVETl8tODVQZGx5ZUxQamgwVlBxeEp4TUNNaU5nazdGU3o2T1dKTTUyaU5IM1hFYmNBVmRIbVhiUXgtdlhDVVYxQllIY05wM0Npd3lWbENKT21XTzhMT081dDk0NlVVbmhWQTVTU0c0VHdKREJXQW5SS2lvRTd3T2pmbjViZWVN?oc=5",
+    "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-21T16:43:47.923000Z"
+  },
+  {
+    "id": "f21d880c2b",
+    "headline": "Chicago to pay record $260M for police misconduct settlement - wtsp.com",
+    "detected_amount": 260000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHp4R1lmR2Rqd09yQkZjUkJ5SEkxN0xtWTQ5TmdQeE13X2dERVBmZl9TRUFNeTlZeVBSbkp5NlVLSEEtUG1YSTVmYW5CYkptT3pybk13cUR2RnZ4OXZ5UzJNNGwzWVBTdWZrOTBqZkhNR1F5TjA5YkZCbnd4cGprbjRzc3BBX1RVOEtsR25wNVJsX0ozZmk2X0VqMHdCd1Q0aFZKeUxCbkN4aXhVME9PMEEzR0FHbmFiYkl5Q2Jtb3RydlRWSGg0dURlQVktbkt3Sm1ZeFQzMTJ1WlJ5Wk5kTGFlR180NGxVVWc?oc=5",
+    "published": "Thu, 15 Oct 2026 10:53:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-21T16:43:49.508934Z"
   }
 ]
