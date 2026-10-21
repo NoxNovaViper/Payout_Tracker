@@ -6378,5 +6378,35 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-10-20T16:26:48.408528Z"
+  },
+  {
+    "id": "a3650e3e01",
+    "headline": "$3.5 million settlement proposed in Canton police fatal shooting lawsuit - WKYC",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjNRWXk0U3p5cV92TUozZzR2UENqVlhKc18yQWlhNFVJd3k0TlZEbDk0ODd0Zlp5Q2NRYWJHd2FlQ0dpN0xXMlhzTHg2Z0tUY20xall1amVpOUdKSDQ4T0FRclBGYlRvZElrSDFXUzhrQm9HV0pQMk9zY2QzLTZiMms4LVV0N3JENGl3Nlo5XzhXenVMeF9fU1JzUVFaa1RucnBiR2ZGNjNoY0hZQ2F3ZnBKZVE1M0d0cDJnMWF1Wkx2ZXhMM2VvUmRYU3RvQQ?oc=5",
+    "published": "Tue, 20 Oct 2026 22:47:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-21T03:35:32.177417Z"
+  },
+  {
+    "id": "f534ce7413",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - FOX19 | Cincinnati",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQk5mazczVkNqbXZfTmhPcnQ0T3lpWVJNRnFWUjFWRmFON21mN2N1OEJjeUszSnY3ZFktbWtDUFJLMVI4QlB6aEhaaUs3dmRJYTNNc0lfYzFGOGUwdVVrLTFIczBjNGZLTy1nTGs5cVE3NW1SYWR3UjlBalUzRXF0Z3lHaHlIT1lFVzMwUjZFWHJ1LXdkNklaaUhWYXBibXh1SmVnRDJkUTR4MExFLUxTcGJDRlVpZw?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-21T03:35:35.499906Z"
+  },
+  {
+    "id": "e9078456df",
+    "headline": "Family of driver fatally shot by Memphis police files $35M wrongful death lawsuit - Action News 5",
+    "detected_amount": 35000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUN4MUptbmFUSlFmUEp6OXNRZzV3eGlpWnZLdjdKQk9ob25Wem84dDUyMUNGeGRBVFRDeWlLYkx1ODJZeEZYNzNHY2RUc0UyQ21LSG96azdfYTJ5MVpKYWR6Vk4wVDNjN1M4azdtYjU4cVJBcUszZ1RZQmZmemRheTBSWFJBdmVEMldNMC1iYWZrTUc1dDJ2QnNwc0FRalJkd0NfSW5KMEdJSEpXU01XUHRCRHJmcUhX0gHMAUFVX3lxTE92eXBHZnkwS25YZ1V0bm1BWUE4QmpMZXVQWXd5VkVialBqOURFSlU1akRta2Z1R0FvRDZ5WmtyLXdmMF9ncjE0OGZWSmxlR2pEWHNldjlybmpOX25VQmQtMVJCd1pmVDc4U19qLU9aU3ZGem1rc3pnR0lMQUdIbUE2R183R2xlTGtseGNnS0JScjBPdFNXb1YzQnFaTUM2UTBwMENFS1RMdzBBNTZJOWp4OTZ3SDlKejVJSkJjaWJHaEktM1c1LXlRUXpHaw?oc=5",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-21T03:35:37.142632Z"
   }
 ]
