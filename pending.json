@@ -6428,5 +6428,75 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-21T16:43:49.508934Z"
+  },
+  {
+    "id": "32e108f3c7",
+    "headline": "Family of Canton man killed by police officer reaches $3.5 million settlement with city - Cleveland.com",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYU1JeWUwWU9QZFlEUmVzMUplYkdqRlZXRlpiN0tYQkt2Yk1hM2JGN0ZJOUJyWXJxOXNEalQyVFUwS0V5RFUzSDF0VTVZV1pvbnRKakd1cE56SFN3WU9KRUJ3N0J6LVlvbmZsZGRfQmNFMlhiSUJHY3M0X2hrU3JCV3pDdFFZTWM5WTJMNkZvRW1RN1Rib1ZEc01MTklRRFI0dlI4cndSMkVtUW5aMU9LOHNuVUZZV2JJQ25fMTNrLVcwQUNnM05uZWdlOVRsR3V4Q0tKSg?oc=5",
+    "published": "Wed, 21 Oct 2026 20:22:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:00.228675Z"
+  },
+  {
+    "id": "dd94544f38",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - KFDA | NewsChannel 10",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmxzYXh1eWJmUzlSQnFaZUlOVFlxa1ZaYURoYTdIaXl5VG5nY3B2OG5JVk5CU0dPTWVLRllXZnpjWTdNRUVJcTlZMG9BQm05RTZaVkdVNTdqUkxGY1lFNGY5UERjZlpmTzRWU2NTWkRZMXZrLUpnTldyUldqbzBPemhVWEl4WWJNQzZYZUV6SzRyQXVkc3UwLVh2cVZDckQ0MnhxUEVGSnR5UnJRcUVkQ3FDWmVtNlBWUmthWEdsTmg?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:03.412994Z"
+  },
+  {
+    "id": "2e76a04285",
+    "headline": "BART to pay $6.75 million settlement in police shooting at Union City station - CBS News",
+    "detected_amount": 6750000,
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHJuMzdyc1Q4a0dyRFUzYTJQRHg4VHBoUzJhNWhYeWhBWjZSeXZCYlZtSnFDR3dDT282Y1BmMmh4R2pQYnBVZnZSY3JKM0VXUVNUYmF5Tm5fZFB2WG4tUFZhN1cwZ3VKTGJCTDlhVk1jYkJnM0RJR3NieGpwdGR5S2hjaGEtOTVNeW5INlFUem5rQnV1S1J0X3hB?oc=5",
+    "published": "Fri, 12 Sep 2025 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:04.972164Z"
+  },
+  {
+    "id": "c9e0328b5e",
+    "headline": "City, family reach $2 million settlement in Florida fatal police shooting - CBS News",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWFpXzNtYlVncDA4YnBsQTV4ZDJRV0N5Uy1aalZ1ZWFaUl9DS3R1RzU3QksyS2thZTRvdnRfTWpSdlZzSkpNWkVYdDhOVDhJTFBCZWplZDZuTUMwRTdxdFVwSGhHbnZlU0lORzBaaloxUFppSm5lNjR5bFFIRUZVd1NKcl9pMlN2MlUwVXNSVnJqdnhnMWVlc3c3eFhMblp2ZnNIWC1nT090RXEtbG5QOVR5UQ?oc=5",
+    "published": "Sat, 25 Feb 2023 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:04.972181Z"
+  },
+  {
+    "id": "787fea44ea",
+    "headline": "Philando Castile's Mother Reaches $3 Million Settlement Over Police Shooting : The Two-Way - NPR",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaExhaFc3cm5QQlduRjM5MGFSTDhvZjdjSzVRTUk4UW43dGd5MEw0N0xTU0V3V1ZwYUpSVF9tMXpGc0k5SV9ucnh6MUs0dFl4eThpZDkxN0pISl84RUNtTl9ybjU1MDU1b0pWQ2J3MHFCUk9pTGl2ODNKdWtrM1lzOWx3bWlsOWlEQTZ4Q0h5RVlQY2VFWjFDSHhqMExDU2JBMGZyXzF3cE8tb3g4ZEcxMWpLamw2eTd5VU91ZG90bWdHT0E4LUlybWtRYU1EekRQ?oc=5",
+    "published": "Mon, 26 Jun 2017 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:04.972193Z"
+  },
+  {
+    "id": "d80ffd9256",
+    "headline": "$10M settlement reached in 2017 Fresno police restraint death - KMPH Fox 26",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYTlZS211WDBNOGx4aE1jTnBzMW1xTWdnc2llWTM3bDlsTV9FcFFHQ3JQaHR5SWJFNjFDRkY1YmdZSGFxWmxkRXZ3VUVpQ0V6VW1ldXA4RWV3QTNuOGVwb0VOVHJGQTlxbFJZTFJ6SDFFRWxJMk9HdUpfSEJSQmZpSHJ3VEdBRDdvSS1Pb1M2TDJXbEg1Z0g1N1VvQ0JLbE13cUZYR3JJRllHYm1aR0VwOFhCcmtNWklVb0NjVEtkS2tmY2piczZaRTNsMGd0cFBza3ZqWXJIWkVqd0hBV0w0cC1qS1BOUFJBVjRJR2kwejN2c1k?oc=5",
+    "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:09.808023Z"
+  },
+  {
+    "id": "efe65a62e7",
+    "headline": "San Diego considers $30 million settlement in police-involved shooting death of Black teen - Click2Houston",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXM5TTdzUVNoQ0VyQU1oa3h6VHU1aXNTNDhBZjZQQXF6Q2x4c09paUNnM3ZkMF9wUi1uVU42c2Q4VjZDajFLd2UtTE5tdEdGNFh5bzNZWE1Jbnk3NTBFZTlxUWFtQXJZazlUOERybW9tZmg0S2ZMNTJwVkZweDdDS3JwanYwdG1Cdk8yb0N6c0NBZVNqX01MamtQZm9IaTBOb3A5dXBpa25wUTJzZXpSLTBDLXVXQTBmbVNKeHoybUluOUptcFlveXdjalZhdENHU3lpSGZIME85T1VCd2c?oc=5",
+    "published": "Sat, 06 Dec 2025 08:00:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-10-22T03:35:09.808287Z"
   }
 ]
