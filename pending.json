@@ -6518,5 +6518,35 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-10-23T03:40:10.386427Z"
+  },
+  {
+    "id": "5de85f14c5",
+    "headline": "New Jersey man who sought $27 million settles police brutality lawsuit for undisclosed amount - Yahoo",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQXpYUTh2V01qNDNqemdiYk5YTVA3UW9jd3RVQVRQSzBIb01kQktMRGRPd2hRazg0MDgwSVFBcWhtRnp2djZyTVlkMzQyMnpneU5wbFB3N2ZIZEE4REt4bmVXVEViUjRqVGRQMTBSYVZNTV9EVkp0aV9wdmU0NXNPUHpob0pWaENxbGc?oc=5",
+    "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-23T16:35:07.901190Z"
+  },
+  {
+    "id": "8703ffcea8",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - WLOX",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWk4bGJ3VGtHTFZMU0c4NDRtZXZIUThFUmpCaUo0U01GYkcxeGZSenh1ZGFCbm1EMjc2QWdpbS1sVlVIMnlaeWI5dFRZV0hQSEUtTkZ6ZVBBUWloOHBDQWVEYUtGZ19pMnBpXzNhdTJHamtWYmhuQndueTA0SUNXbHFWbjhUMU1WamNIZWFIYTVoX2YxUk5EcGlxbk9GbHhqeUM0S294LWEzS0c3Rkl3OVFoQl8?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-23T16:35:11.252433Z"
+  },
+  {
+    "id": "9d0ea83060",
+    "headline": "$2 million settlement reached in Dunbar police brutality case - WCHS",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9aNnM3ZHJiNmhTanVsM2lvazZkbG5mOHpaNzVvQUYxMjlyaXN3SE83N0Q3N3ZmMC1CZHlqLUloZzhROTJtcHRUUDRMM0JvSm5Za21ycjZFcEg0b0Q0UlhvaUpfckFldnR5aW55a1R5SnM1NlVnS0Zlbnd3UVcxdDdrTDNNdVBLNHc?oc=5",
+    "published": "Wed, 16 Aug 2023 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-23T16:35:16.209396Z"
   }
 ]
