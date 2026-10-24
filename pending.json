@@ -6548,5 +6548,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-23T16:35:16.209396Z"
+  },
+  {
+    "id": "1fb4763943",
+    "headline": "Chicago City Council approves $261M police misconduct settlement tied to Detective Guevara - ABC7 Chicago",
+    "detected_amount": 261000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0s3QWw3SnE3b2tvZktGOTUxYVBlWkk5ZjRpUWdtSjk3SHh5TVhUNi13NkR3amxrWjBzb2NCN0lwV0tEcmg1MGRzdDNtS3FGSGN6a3hzcnZ4S0N0b2JobXNleFBLLVNSSG5oNU5pdU1LTUVwU1JZN1hhdm5sdlhSdHAxcEFlT195Q1F2ZjNSTXhibjVnTnZpUkFIZ21fem9qNFB5MF9PQTM1d2FRbXFxbXlHSFUyTWVFS2lkdDVJV2MzR2FqeUk2U1J3dnc3cjVfTjIxUw?oc=5",
+    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T03:34:00.665017Z"
+  },
+  {
+    "id": "e42eb6285b",
+    "headline": "$3.5M settlement reached in deadly Canton police-involved shooting - FOX 8 News",
+    "detected_amount": 3500000,
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDNVOUk0UlZIMWRudFpKeU1QTFF4ZVNfZ0JjMzlUakQ3eHhfRXVaMm1TNTFVWU5KX2p6LUJpYl9yTW1Jb3pEUHZjTFBCSkZxZDVkRHlrZGFTVWNwVVRhN2dBcHJmT0ZvOUFPVVR1U3FQeTA0YjBaUlhLVlNGRnRFYWozNThoTE9JZE5mdmNwYVpMMko50gGaAUFVX3lxTE5EQmpBWVY1djdNLTRxQm5XMW5LTTNCakowUW02WmZnMkNRVEVjT1JobkdXam96bW9ScXB4eU1RQ2U5eDUyWXVlb2VzclV4dGc2TVFSMUltem5raG9TQ0FTbHllOV9KNmgyeWJRYmJESGdiQk01dWZMSEFQbGk5NXpSQVBBV3pNR1otTnNLRzJQQXhxelQ4Z3A1NEE?oc=5",
+    "published": "Wed, 21 Oct 2026 20:58:24 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T03:34:08.860934Z"
   }
 ]
