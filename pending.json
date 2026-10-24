@@ -6568,5 +6568,65 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-10-24T03:34:08.860934Z"
+  },
+  {
+    "id": "4beab97d77",
+    "headline": "New York Police to Pay $1 Million to Settle Discrimination Case (Published 2025) - The New York Times",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlNsM1ZZNnNIY1RQUDBndnNWODZEcVBQRi1FRlBOVHJac0x6clVmMWxXUk9XeEplVVA1ZkhweHN5Y0hpX3duNGFWcThaYjU1VWg4N0VJVDNQRjlRcUd6aWhQenhXVnhRVkJmZklfOWdsdUJHMURVY0pyc1RvcWlubjc4bHhiTUhsUk5KcUpKVQ?oc=5",
+    "published": "Thu, 12 Jun 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642058Z"
+  },
+  {
+    "id": "b5587a0c02",
+    "headline": "Excessive force lawsuit against Colorado Springs Police Department results in $2.1 million settlement - Colorado Public Radio",
+    "detected_amount": 2100000,
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGl0MXNOMVBra2V5R2pfaFg3M2Zadk10S2RCM1NSS1pCS0VHUTI5S25OQmF6enNTUm02SFRkQVBBbEd5SUJEeW9yUXVoTVZiZzNFNjh2bHNxUmVfaS1OQ0x6RE1YUXdvNnotS05HekRncmo2X0VwLTNHZGlub1M3OGxwTEVObVAyZ1lHWHdnQ3RMcmxqS0VIdkJMRFIyaDFvQTNmUDdBMENlcUlYckd2YVNVcGFqazZnMVA1RWRzM21Td1FZcjlKSEJValo?oc=5",
+    "published": "Tue, 14 May 2024 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642079Z"
+  },
+  {
+    "id": "d913cb313f",
+    "headline": "Randy Cox case settles for historic $45 million, four New Haven officers fired - Yale Daily News",
+    "detected_amount": 45000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnFGci12UkFKNDhVU0NNQi1VdnNRajEwR19lY19HODBVN1Bhend2ZDlMZnhwYTlGNFhRbGJRYVp3WjFiWnlCcEszbHRRX1JMYkhMVkVBRmVRYXlrcWRQZ0VfQ0VpeTFCUWtKdjE5Rzl4ZllURUljaUJFMHFTMWphZFFvTUFybXJGRHlRbkMwQXdTYW1xazZoclF4TEg4YWR4b3RqdWtaUzRpd2ZuZzlzbw?oc=5",
+    "published": "Thu, 31 Aug 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642089Z"
+  },
+  {
+    "id": "712d33a4ea",
+    "headline": "Randy Cox, paralyzed in police van, reaches $45 million settlement with New Haven, Connecticut - NBC News",
+    "detected_amount": 45000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOME4zMlVHSnN3UjRYX3VwU3RvOFdaTF9DUTVvVDFlc29YNko1ZVJpNjBtWEVGVVFNcUc4RVZEN1A4R251OFZPaWxJbHp5X1pOa19ydHFJV01ZbENBQ3JIQXYwRFlSMXI0YlV6eG82SVExSlE2ZVp3WWNLZ192QUVKRWh0MmQyNjhMLTFKd1NiUW50S3BYTVhVeFFPTktMVGxxNm9ieWVoalpQOE5ydGpLNmM4elp5dHVT?oc=5",
+    "published": "Sun, 11 Jun 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642110Z"
+  },
+  {
+    "id": "71a4f54b34",
+    "headline": "California man paralyzed from run-in with police gets $20 million settlement - AP News",
+    "detected_amount": 20000000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWtsd2IxVUY4WlNhNFhOeWE3TGdSZWE3S1dVeW5nU0o2anBRMUZEWHFsbkREOWs1T0FJaDZkMGo1UlptTEhZZjBfSmNERjFiejVKV2JRNVR0STc4NXpNVmpCTmFTR1NqN2hYSUZkbnZLV2xNMlFpOHM4dXZpczZzcGc0aHFFUWI4YTJJZnBDS1NpemZKdnJJcHFmNjJZcXFz?oc=5",
+    "published": "Tue, 11 Jul 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642119Z"
+  },
+  {
+    "id": "be340d2716",
+    "headline": "Sean Bell Lawsuit: $7 Million Settlement for NYC Police Shooting - CBS News",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUxnZDlkMFBRb1ZmamFxT1RtS3RCNzAyNnFIMWw3Yk40YmNpd0hLUlpvZVFlVkItdHdoNEZkRVZodzB1YVdQdzQ2UVhWbE1GbTlIeHRXT1FDam0tVktuQVBQSUMxQ282RTg4WGlKejVPT3VzT2hHaEFtWGhDT0QzODAzTzVDajl4QTRyRzJyVG1XOFVKa193?oc=5",
+    "published": "Wed, 28 Jul 2010 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-24T15:29:15.642143Z"
   }
 ]
