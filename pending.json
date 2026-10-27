@@ -6638,5 +6638,35 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-10-26T18:20:22.055349Z"
+  },
+  {
+    "id": "2df5f35805",
+    "headline": "$45 million misconduct settlement for man paralyzed in police van \"largest\" in nation's history, lawyers say - CBS News",
+    "detected_amount": 45000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanlYaUR2eXc3bDA4QzU5dUc2czBRZVpGdUpEN3ZaalJ6VUFZNkVHSFA0SFpKUUNhQVVhdHJid0o0aVI1QUZZY1VybjI4dmtLbWZhX0ptaGtHZDd2VXpLUzZfMDFGb1FEZVg3bkpsRVJGa3RoaVhhNFdnZXRWdFN4SVNjRWFUX3owek81S3Bfc3NiVnlvanltQjMzUmpldzc5Wmc?oc=5",
+    "published": "Sat, 10 Jun 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-27T03:58:40.828665Z"
+  },
+  {
+    "id": "5cd85cd64a",
+    "headline": "Springfield City Council approves $450,000 for police brutality settlement - MassLive.com",
+    "detected_amount": 450000,
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDQyX29IVTZkSk5SaUpnX0VQeDFXSlk2RDJIYi1zS2lwZFpGQWM3UmVrZzFtN1dJOUdxSHBnOWNpU1UtX2JjbUxXVUFTdXFDN3NRbDZZdGx3M3F4LWs3d1hJTHRMaUw3TUM4XzF1RWJNZFpDT3lyZWU5cGpYOS1Sdkg1TXYyYjBsWmlkT1Q2eDhQa28yT3JZcFZCczRjMENRbzk2Zl9PRVZ4ZEZlSVVDUDdMMG9yUdIBygFBVV95cUxOZGtpcV9ncE9WQjJCRnV3d0VTUTNQMkFrdjNiNk1rb1BVWW9Bb1FsRk1zclc4S2NONkFtWHprYXlkeWc2b2EtZzZWVUxWTXB3bUh4RnQzTlJJY0JLbFl2SUlfbGJnc0JSZ1VZc0YyOU5YRlFsOGpLTm0xbjU5SEdQWHp3RVVyZjFybHgzUE5fN19HaUxMSXBlOEplQ2VvYVR5TkhrWG1rNUtKcUgwbUVXRXZudXFrUkw2RWl5U29CM2EzSVJmWFJDRm93?oc=5",
+    "published": "Mon, 17 Jun 2019 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-27T03:58:42.328447Z"
+  },
+  {
+    "id": "53bbb7239e",
+    "headline": "Springfield agrees to pay $700,000 settlement over police response to 2020 protest - Oregon Public Broadcasting - OPB",
+    "detected_amount": 700000,
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1F1MVFvbmJ1a0lLbmNTaWFFZzRxckV1VHc1ZWpzc0FuNkc0ZVBWaFBKYVk0Q2lnbmFfdEV2b0hNOGVzOHlVU3VRRkxnVl95NkIxZUd2eWlNb0VPcnNuT2EzdTRmMWdJU0ZLSlFudmIyVTF3MzRCdmVMa0N2c2pBMA?oc=5",
+    "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-27T03:58:46.728224Z"
   }
 ]
