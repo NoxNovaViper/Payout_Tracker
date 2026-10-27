@@ -6668,5 +6668,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-10-27T03:58:46.728224Z"
+  },
+  {
+    "id": "4766dcd675",
+    "headline": "Milwaukee Council OKs $3.4 Million Settlement Of Police Stop-And-Frisk Lawsuit - Texas Public Radio | TPR",
+    "detected_amount": 3400000,
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemRYMDRZSmpfLXNDN2dLazR2bUpKR0gyODdHYl8yRjdlUW9EMnJDUmNNM2pubk1wWmlLTHR3Z0RNQWhUUnlkZjFwUnJWLWdBdEp3M05iVFRBdzBGQUoxaFdyd0lKTnphc21MZUVnSDVnVFVoS25BNkxJUWM0bXBoQmF5LTVXQmNsUWY4VmpXWVFZSWlzRm5XelNDT1JuYWhtYVFtczZDVml6dmtE?oc=5",
+    "published": "Wed, 11 Jul 2018 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-27T17:34:53.499981Z"
   }
 ]
