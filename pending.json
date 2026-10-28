@@ -6678,5 +6678,35 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-27T17:34:53.499981Z"
+  },
+  {
+    "id": "2498ca726a",
+    "headline": "Springdale City Council to consider $50,000 out-of-court settlement in federal lawsuit over police dog bite - Northwest Arkansas Democrat-Gazette",
+    "detected_amount": 50000,
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTBxcVd0RlRWalZRU0N2ODBucFpQNk0tYmNGR09QRmRySXJyUnJIMWpvSEJEMF95bmxyTGIyRG51dmc1WFRHZmQwMmhkeXF1MTZISXRkU1dyMzF0a0lZZXJIRHNoMEt0TUtvU3U2cWsxTmpWeFJ6bVlEVDRzNUx0NTduVEdQOHZUR1dOd1VYYVl2bG5CaHBTUFM3amhMd1lx?oc=5",
+    "published": "Sun, 25 Oct 2026 02:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-28T04:22:46.056129Z"
+  },
+  {
+    "id": "e1dff19435",
+    "headline": "Illinois Department of Human Rights announces $120,000 Housing Discrimination Settlement with Coldwell Banker LLC - The Troy Times Tribune",
+    "detected_amount": 120000,
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXJuREJPZDFWTWpEc3NHZ2dHb3JHVk1NOUx6bWlQeU9kdVVHcGhkVHJTM2Z0cFlmTnlEcTlUaTBHdDdOdEhzVENXVk5CdjhiZktRLTBzNERGeWxyOUVpSG9hWGxuTjM3UUlHSy1Wbmc3cGdmd01nVlBadmpMUk5qcU55RzZacm5NM2JuNEZ1Vml3eGtfZFFrZTJnZU5NalNLMXZTNFNreDdqZ0dLbVEzWXRUWmcwZ3NXUU5TSTg5RVZYVk5UM2RFX0VzUVZQUTg2cnNVellINzlCLXROc3B2UnFLTWxic3oxeE5aXw?oc=5",
+    "published": "Tue, 27 Oct 2026 20:01:40 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-10-28T04:22:50.498807Z"
+  },
+  {
+    "id": "150395ed0f",
+    "headline": "Colorado Springs reaches $2.1 million settlement with Dalvin Gadson, man who was beaten by police - CBS News",
+    "detected_amount": 2100000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd193eEtGNVZvNGx2ZVpIa09UeHlzRVVEeUR2cEZVNXY1TWxMLU1QMC1aT3VwWnQ1Q1V3OUxOeXVtSDNVc25iZmQwNjdDdzZjWnZYNHFpb0xvdXZZalc0aHJyN0dsY0pnVC05MzV2VnRodExWMXNCNXZQcHQ4UG9SSVFTSjF6UDNfUllLUXljNGsyMV9NRy14cC1kTmlZVW56OXg1RXlHdVQtUVlqYkJ6MGFKOHA?oc=5",
+    "published": "Tue, 14 May 2024 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-28T04:22:52.044359Z"
   }
 ]
