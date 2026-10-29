@@ -6708,5 +6708,35 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-28T04:22:52.044359Z"
+  },
+  {
+    "id": "016ea614e1",
+    "headline": "Phoenix approves $575,000 in payments to settle 2 crashes involving Phoenix police officers - ABC15 Arizona",
+    "detected_amount": 575000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzRlUGNLcVk4bGlidXpKclpzalRfcThIWkNOSmlGeEVvN2pDaUNxWTBuMXFjMjB6WTJwZTFQc3lyb1lGQjNqWWlSNjhqYkJSd191NVlPM0xJbDBMXzhiQUlNZm00UXhkX0tRREEwbExMdGJfUjdzMXdhUGdSckNPb0FxQTRHd1JQc0lLRHd0dTFxQWZfSW10M0pPVGdsQjZ1X1ZEQkFhdlVDOFV4ckUyQ3AtMjV5TERJ?oc=5",
+    "published": "Fri, 14 Mar 2025 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-10-29T04:41:52.749192Z"
+  },
+  {
+    "id": "fa65b8ae9d",
+    "headline": "Owners of south St. Louis bar settle case against St. Louis police officers for $4.2M - STLPR",
+    "detected_amount": 4200000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2JIaWVVV0xiYzhzdW82ZlZKSlhtY0czelBCWlJZZ1FEMk91S0IwWFhIWV9EYlA1N3NyemEzZDZwV0pwQ2lXUl9QVnAwWXZKVEtRSnhILUsxYmVaLXIyX2kzbk5lTWptRE1oMG1pZE5VRXRpYlgycmN4U2h1YTJpQVRnM2xmMEk0ZE93ak1NSmloZm1aejVkeWllTFpmdXdkMW1lR04tMTUwdlNzbmdjV041c3E3MjNfUmdTbnBtbDdIN21ZQlE?oc=5",
+    "published": "Wed, 28 Oct 2026 18:08:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-29T04:41:59.296865Z"
+  },
+  {
+    "id": "d8d2232d40",
+    "headline": "City settles Bar:PM lawsuits for $4.2M after officer\u2019s disastrous testimony - St. Louis Magazine",
+    "detected_amount": 4200000,
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JQmQxeEtNMGptdW9rWk9CWWl6M3FJSnBVb2lqYjdWMVJoOUI3bkdUenpoZGxvY3VfY3VnMDFVWlN1SGxpUHpaQzZKQzVsalhiZERsQ05YTFpZbVBVS3hRa3l4bGhkdVpv?oc=5",
+    "published": "Wed, 28 Oct 2026 18:48:04 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-29T04:41:59.296912Z"
   }
 ]
