@@ -6738,5 +6738,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-29T04:41:59.296912Z"
+  },
+  {
+    "id": "0906e35060",
+    "headline": "Town agrees to pay $1.8 million settlement to police officer who alleged retaliation, discrimination - Brookline.News",
+    "detected_amount": 1800000,
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmZobjFXSnBqYXdZeW10WXpHQXRhOXJOWVdoVnpSaXM5cGlJMlJwRFZPZzJ5aHNhVERpaHlrbHpha25xcHUwUnJ2TzBBWk5zY0Vhdm9ERl9nX0ZpVmdnY3NTQnEzWHI2WERzVlpnOUhEWXJPNzNxUUhaVnhUNVFDbUJrX1N5Qm5ZX1RaS0FUbkxGc0JPZXVhcGY3OHpDbmN0M2VPaUJUTndRekNaUGt1X1FBZDVNWXhqbV9Bc3NDaw?oc=5",
+    "published": "Mon, 31 Mar 2025 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-10-30T04:41:17.805584Z"
   }
 ]
