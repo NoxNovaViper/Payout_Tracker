@@ -6748,5 +6748,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-10-30T04:41:17.805584Z"
+  },
+  {
+    "id": "79a79199b2",
+    "headline": "ATF agent wins $1.6 million in lawsuit against Columbus police over 2020 arrest - NBC4 WCMH-TV",
+    "detected_amount": 1600000,
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHQtdlR1LWV2TnAwRm9MblVSZjFObVZqNEVwZHRRRHlvdUtHZnNRaGRMRmtWdlIybkN6ZG5YdlRCMWQ3YUZFdElHV05CdXp6eUpNa3NGNDlDTDVyc0RsMXBVS1UzQVE2V2lLUU5pZVdXTzFubWwwaFhlalhOdy1DLVota1g2LU5Vd2l2VUdNZFVUcnlvTWpIQmpienRlZXYtUWxPbVFscUFLZHJHYUY4VFdRVENWU0QxZlRxX0hQeHBwX2N0?oc=5",
+    "published": "Mon, 18 Nov 2024 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-10-31T16:54:41.495048Z"
   }
 ]
