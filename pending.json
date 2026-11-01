@@ -6758,5 +6758,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-10-31T16:54:41.495048Z"
+  },
+  {
+    "id": "e3737fffdc",
+    "headline": "Court records detail 2020 Amherst police crash that led to nearly $14 million settlement - Buffalo News",
+    "detected_amount": 14000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUw0dVBzOUtyUkUxVzNwSEMwN3hPd0F1clRiVk1waFdHMTU1eDdBLVk5WWtuT3dETHBxb2g1aUx5NmQ1X3hRWEx6VlNpTFlLMW5hUDhfWHB1WnRTNnRvNldCS2xEczVkOUFJaG1NTExyU0hnYkdsRVB0M2lXWHdtSmxLSERBU1pueE9Kcw?oc=5",
+    "published": "Sat, 31 Oct 2026 19:45:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-01T04:44:41.852894Z"
   }
 ]
