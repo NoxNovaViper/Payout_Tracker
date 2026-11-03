@@ -6768,5 +6768,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-11-01T04:44:41.852894Z"
+  },
+  {
+    "id": "cf93fb97cf",
+    "headline": "Journalists win $1 million settlement after attacks from police at George Floyd protests - The NewsGuild - CWA",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUmNCY3Ezeml4UkNMUUNJTFpiUkp1bVBaS3R0eE5CaXRyNVl2UDlILS1GZmRENmFRVVlfTFU0YVlPX3FOQTZnUnF0YWlXOXhQcHpyWmtMRFhJOXlyamF5NC1FQ05KUmxaM2hULWhubWFQcnltZnMwQlo0UUpkRmJ2R21BQjZTU1k4WVhhUUJwRUY1dVRlZjFzV2pKMFY5RnlWVURKeHZHYjFsZ3JiaXIw?oc=5",
+    "published": "Thu, 08 Feb 2024 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-03T05:37:48.370348Z"
   }
 ]
