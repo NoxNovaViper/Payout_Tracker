@@ -6778,5 +6778,35 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-11-03T05:37:48.370348Z"
+  },
+  {
+    "id": "71ea6cec80",
+    "headline": "California man left paralyzed after police traffic stop gets $20 million settlement - NBC News",
+    "detected_amount": 20000000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLVlqOXg5RXJfemQwREVkVkMxaTlDSE52Y3Z6N21FRU1taUsxcm9JVWJRMzNDdG5sVmlKcnppMWxkZk5BdjhNR0RRMTdmSkhyUUxrdmdidXNBMVBYN1lUX1c1RkNwaURtNl9Dd0NNMm5qNVBKMW9Tc3ZjYm9ULXZsLUNOQzctTGRUVl9LOEoxMG5LNzh5WktWVHFxanF6YngtTXQydVI4b0RZcHNJQkE?oc=5",
+    "published": "Wed, 12 Jul 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-04T19:26:28.811980Z"
+  },
+  {
+    "id": "b78563836f",
+    "headline": "Refugio council approves $104,476 police vehicle purchase - SouthTexasNews.com",
+    "detected_amount": 104476,
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlZJcGxNT3pDemt6cXE4OUhVdGN1X05JYmtCRHlDLVlrcE1WLUtGd2J2VWVrUm9tZ3VVRWFNTlJpX0E3VEVKMmZiZFdBSmkycHRxRlFsa2ZFYzBEWHlMOVR1clo4eUptdHRMbmdGVmNSc243YnE3Y3RlTGRWMFU0RDRBOU04V2NZNUVaclNYZi1fWmFhQ2V4czkzOXY2dVNPZVpoZDVUdjliSTRYU2RVNUQ5OUNDUW9fb3gwVEU4dUlKT0RCbDBQbnhvbFdWcG93cTBnUnhZSzJraWR1YVFzY1h2d1JpV2tlRFZSY05obw?oc=5",
+    "published": "Wed, 04 Nov 2026 13:30:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-04T19:26:30.392101Z"
+  },
+  {
+    "id": "1faeb14063",
+    "headline": "Bijan Ghaisar's Family Reaches $5M Settlement in Park Police Shooting Lawsuit - NBC4 Washington",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRElKQlhsZkJuTFFrRDNqS1VqRVN0Z0wtOTl3VVFUYm01Z2pqd0N3VFg5OTVpX1Ryb25TRlZYMFFyMzJMMzRqbE5kaEgzM1liXzVMd1RCcUQzbjJIb3ZrU3ZVRThuYks0dERDTVR6Um5RSExKZ2xyZGJaWlAtc1UwSm9Pb01waDNNdzM0MGtTYlFBTktEUU9oUkdaLVN0bGQ2clJ3Qk9LTnNwOVdTUHAyU2p1azNVUEZ5bk9iOG9yMnJuVWc?oc=5",
+    "published": "Fri, 21 Apr 2023 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-04T19:26:33.432644Z"
   }
 ]
