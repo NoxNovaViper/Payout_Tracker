@@ -6818,5 +6818,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-05T05:28:18.093733Z"
+  },
+  {
+    "id": "e79dd9e6be",
+    "headline": "Pocatello City Council to vote Thursday on $4.5 million settlement over fatal police shooting of Victor Perez - Idaho State Journal",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaWszY3dGRWtLTHRLY2FxRTZDbEN4YjBseGQ4RjF1bkZkMVpabmhRbi0waHdtSTZCQXRkWGZnVkpUb25lbWhSWEVtOG5iS3JJVFczSURMZlo2Nk1MekJLWlE1akktWUNfM29UWE5hSmpzSHRwTTRYQTBMQTkzRU42djhXeDNhdTRXd1YwRm5OMENNSWhQd0M0czNRUDF3eWRGTkxZWG9wcGFTQTEzNWk3TGRVOGFHQnhQdlhsaXVTNlNFVnFrV1NxaE5tajdER2Z4LU9oRWswbjllMXBiVTFOdk5DTkxzc0xXTmlqSk5NWURtbUU4ZDlvamdycU5OQ0tERHJiUXNfd2l6M1NGMGZzZFJMMEFkZw?oc=5",
+    "published": "Thu, 05 Nov 2026 06:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-05T19:35:51.761868Z"
+  },
+  {
+    "id": "df018b64ea",
+    "headline": "Black Woman Police Director Wins $4.7M in NJ Wrongful Termination Suit - Newsweek",
+    "detected_amount": 4700000,
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGpwSUJqbVBSWnQxakcxWHhJZU56LWxEUnRiem90SkZESlJwRmVpUzRNOTVzcklsRXJCX3RZb3U4TEx4bEtNZEI5ajZBR3pDUmNtUURSbGNOd1Z4QUdMUFExS3kzcmcwd2lKTDN6dVMwdl9OQ3hCUWt5OXlzUWVlU0pxcmNhU3IxdDhHTl9UYXJqU3hubDREb3RVcFdmbWstekRIaU9R?oc=5",
+    "published": "Thu, 05 Nov 2026 17:59:00 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-11-05T19:36:00.592491Z"
   }
 ]
