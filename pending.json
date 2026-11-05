@@ -6808,5 +6808,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-04T19:26:33.432644Z"
+  },
+  {
+    "id": "6bd3f6efd5",
+    "headline": "City, Ferrell Family Reach $2.25 Million Settlement In Police Shooting - WFAE 90.7",
+    "detected_amount": 2250000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWdaUHlBcmJnV21sdjBVMVpfekFRcE9EODR0S2tLR2xoSHQwaGxNUmVLVEx0bWM4WFloQktscUFPYWNWQzZOTmUyZGZlVnJDUzR4Tl9QZmw5Rm5JbnUxY0l6WE5FWHFYMzc4U05iR2hBOE1nVUVIMVRucEVnYmZVSzBGOTlmMVlvbUc2QW44aFV1VVU5RjJTM01KMXRMOExhc1Z3cWVacDQ0M1lLYk1qZA?oc=5",
+    "published": "Thu, 14 May 2015 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-05T05:28:18.093733Z"
   }
 ]
