@@ -6848,5 +6848,25 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-11-06T05:26:55.618366Z"
+  },
+  {
+    "id": "62c91b5ca1",
+    "headline": "Attorneys, family announce $75 million lawsuit in police shooting death of 18-year-old in Newnan - 11Alive.com",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYlgwV09sN3ZfazVMNEZENjVlUWIybFRER0g1WVJ5OWY2aEtqOHJIZFIyR2U1TGdUZmYzUXhwMTFGV0tSQlpYV3V3UEVaOWNaNzhxVER0RzVCUzV4T2RpeXFxLUx2WDZYTk5GMGNCcE9hRnlqSnhHa0NqdnJQN0E2UXRYS2Jta1ZZdVNVbkx5MVVRMTJVRVhmUkt0TlBjdkFUZTBFMWw1Vm9HS1Z4czhQeDYwWlRwa1VVUWk4RFB6MUEyZUpSa0swb0FxYjRDOUZSMEdYQ3QyV3JsV0ZCbFZiV3lTeUgzT1NlRVp1QTVkTkpSM2xKcjRDM3U3ekdKSlFUM3o1N2lB?oc=5",
+    "published": "Fri, 06 Nov 2026 18:48:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-06T18:57:43.037981Z"
+  },
+  {
+    "id": "62f4961990",
+    "headline": "Family to file $75 million lawsuit in death of teen shot by police - Yahoo",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWVKRk1XMk5nVEQ2Q3Z6ZjNjeW9VN1NIenFuMTNDUEdDakdLZldqOVQ1RElEZVBTY0llUWVZQkstV3ZqQVUyUC15ZDEtODVtUGUzQk4tS3g5Y1hnM3FhMGhicWZNd09lVjYzZnBZZ0hxeE9wbGp6RHplSXlUWEM4MU9CS1ZxNXhBSmJsVA?oc=5",
+    "published": "Fri, 06 Nov 2026 17:33:23 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-11-06T18:57:47.608216Z"
   }
 ]
