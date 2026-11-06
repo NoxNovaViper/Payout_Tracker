@@ -6838,5 +6838,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-11-05T19:36:00.592491Z"
+  },
+  {
+    "id": "8ef1f04baf",
+    "headline": "Pocatello City Council unanimously approves $4.5M settlement over fatal police shooting of Victor Perez - Idaho State Journal",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPM3ZnWnFYZ3BRMjAtb1N6amcxVi1hSV9QcWdzZkxYdVNOdHBmZTBjSmtiUGZXTEhvOF82d0FyeVgwbV9oRVJLbWV6QnA3Tl9nY1VGRzROa0ZLX3BqSFpZbmZNbElqcFptUHBUVnd0UHh1OHdQMm9qZjM2YTVfUEpsVHhycU91U3RjRDFLLU8xMVk2eUV2MG9fMWF6M3NJcmFvLW1DcDNfWmw0dy1idUpZLTF1ekpKdG5ZTHcxVmpaelRnMllwdEFaUzY1VGwyZHVfendjRmY3UFhRMEpNczJtUkc5X3c4WUF2NFB0NFE2VnVVLU81bGZydl93X2NaVlFHRXRfazZrM1p6Y01MZnZJaGZ1ZWNubzZUMG5sOUJmOUc1QjA?oc=5",
+    "published": "Thu, 05 Nov 2026 06:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-06T05:26:55.618366Z"
   }
 ]
