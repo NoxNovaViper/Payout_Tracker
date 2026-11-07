@@ -6868,5 +6868,95 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-11-06T18:57:47.608216Z"
+  },
+  {
+    "id": "c5b4c747cc",
+    "headline": "Pocatello approves $4.5 million settlement in police shooting of teen - Idaho Statesman",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53b2F6RHNfMl9FQUxZTEx2WWIwcUJOLVVZMHowX09Va1BWQzZVVzByQWtXWjVJWWQtUkIyNlJlZ3hKSXFOQm1UcFJZUTBjYzk0bVZRNmtFYXh1RzdyTWFLVDkxdGFzcnNOLXdBUHBzTlVqU3BmbXpvRWEwVHBjUdIBfkFVX3lxTE1wb0N5V090VGxDQ054RDNHY3lEaWJPZnYyaGxtUG45S3RHUThicFl3aHk0SWNBTXhKcGVkc2xtcF9sb0lXakY0NFZsajBuR0x4T2J2R0NVbWRuME56Rzdud2kyTlNaa29ZWjhOeF9xQlc3QzNEVWZUZnJNY1FiQQ?oc=5",
+    "published": "Fri, 06 Nov 2026 22:43:54 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:29.749816Z"
+  },
+  {
+    "id": "95e7398b3e",
+    "headline": "Attorneys, family announce $75 million lawsuit in police shooting death of 18-year-old in Newnan - 11Alive.com",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkdOeno1NjJqZURoQTlFSDZiaWhtZTVqWXVDZEYwX2JpTm00T19yYndOU2JSYjB3TUJKTW85UzBqRHV3TkdJaXpjdFFJbDQ5NENoRl93VkxaLVlGVkNhdXJJeTIwcGdMQVl0dDBkeU1tamV0YUMxdXJ6ZUlpcnl6Y1RLbklHSlFDR0Z4Vjd4TDRvWm1Yb2p4Mjc3RHNkWDd6UFJWdlJmbTl3dWswMjlvN2JfczlReE9idnlsc0poZGdhVDRya3JSZ2ZJRkI2VU5nc3dj?oc=5",
+    "published": "Fri, 06 Nov 2026 19:28:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970171Z"
+  },
+  {
+    "id": "5dab0f9960",
+    "headline": "Ben Crump announces plans for $75 million lawsuit over Georgia teen's fatal police shooting - CBS News",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjBYS1NvVERrakFORUticktHZWJCTXloM0pEemdpVzYtSmNBOWtQU0VjaVJuRHVDLWNvdlgxbjhULXRQdloyODZvVU1xSzB4Z21VN0lUOUtqZ1Mwc1Q2MktFcW9XdnRpQ1VLVGdLeGNpaWthZlp0MzVhY1JIUGxoYVZkNDVkcnRreENnTnJfNjMzWGRwNGNOTjRxeWFIZF9fTFNEVU14S2paRGJFMl9qUVZ5SV9xTTE0N2Y0OUlfMVlBek9hQmc?oc=5",
+    "published": "Fri, 06 Nov 2026 18:07:21 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970192Z"
+  },
+  {
+    "id": "7a3f1a35d8",
+    "headline": "Newnan family plans $75M lawsuit after police shooting - FOX 5 Atlanta",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WjUyRlRlZFFGZjY2SEg3RUZtako5T3JaaUxjSDF4YWh1UmFWT1hjakJWTFdEUF9fY2NfQk13aE8zRXhTZHdlTjZlc1dOWmNmS0taMUIyTWdadFNHcl95YTN3Qk3SAWpBVV95cUxQZ1BrdGx1ZHhFYzlHM09DaEFKVnpBa3BueEJzN3BWejlpYjBhX0hKbl9JQlRKUlhYU01VUU5LUU9IbEVDbTFieWRnM2tTWE55dFdWS3daWkc1cXhOZUZlNVZDZ09oSjdadHh3?oc=5",
+    "published": "Fri, 06 Nov 2026 23:59:34 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970202Z"
+  },
+  {
+    "id": "36ab5dc318",
+    "headline": "Family of teen fatally shot by police plan to file $75 million wrongful death lawsuit - 95.5 WSB",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV0NzaUNWMmhVRzJNMlBjNHc1MGlQRmxkN1lSa1RVVVZoc3ZGdlVGdkp1OVRoVXJSak5JTDZXNm93bWJud3FjcE5PSWlOSFFNZDhRT0VITlUwcWFiMlAyY0dZcXJUcGNkellvNFQ4SW9xYW1WdEcwN3B1T0twUHVJbXNvRkFKMDRVX2xVZjI4dHpJZG9tT0pzWlhrX0xTLVJmc1Z1VzJrUnJQOVhlVTIyRVNpdDZ1d0RaVEZOSV9TUVo5NDVOLWlTM0VBajltaGhJek9vbWtUSm9uUdIB7gFBVV95cUxOdnFweTdIbDBKNVY1Y3lSZGtGc2JST3JVbGlBeGJ1REJnUjYyMG96eEhSTXlLb0dfY2s1QUZkNThaWnJsQVFsMlNvb1BVbm1RaGpSMHBEZHpITHBUS3lkQkpBbTFIWXMxYnFNTGE3aU5ESFhWUlc5dHhXRkJBemY1Y1h4Ynk5ekdoR1ZHdjRNRGpkM1dlNlRkX3U5MTNfY0dpZ2VycE4tQzJKUzZReDlfcGFaRmJJaEhuY2lQaU9pd2psSlpoY1lGaUtoaUI0b2NBOUQtUXowR2p0dk9ybG41T3dnMUtMWDA2NlFPNm9R?oc=5",
+    "published": "Fri, 06 Nov 2026 20:04:46 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970212Z"
+  },
+  {
+    "id": "e964581307",
+    "headline": "Family to file $75 million lawsuit in death of teen shot by police - WSB-TV",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXRaREVRRW9LOFRJeEdTOWUybjNrTWpiU0hZU0lPQWtUbUZ3cUF6Z0NPR2ZNSHgxTnQwY1lYbDFLUnNTaTRzYVJiRWM1VXBIUFdCakw1V3VBNlgzRDZidWZ5aUtTT3lyM1RUV0dCVm8ydGROUWxNMjRtbGV3ZjZzSU5Ba0NoaVRSMF9OSS1YM1VsV2hEcGg4VkFQVVk3UWpYaU9SN0E5aHUzWU1rcHdPbW9PNlBSZUI0RVNRby0wdDJjSzFjV3lZaFI0TdIB3wFBVV95cUxNeTVuXzFNdnhVZVYtZG1wX3NEWW5oSGNkQnpxUlJpNkhKQTlpbDVsRTJyMGRBZjh0UjR6dktoM3dTSHNkREpNbFIxcVNtTVExVTgyeWU4WGsyckpYNFU3OXhIWk95LWJjTDNJZDN6d2ZSb09DOTV3ckQ3aHpVSGVqQ1VtT3NRdmdaeldseEQxWjVQRWdsRXF4MFVSOTVqenJSMXNaRFA3dW1yUS1FMnB2VTdTR3VqczlfQlRWQThJYmhiVGRCeWF4VDVtWUpRMTJDSlZXTGFfNXhlYjRvelQ4?oc=5",
+    "published": "Fri, 06 Nov 2026 21:14:06 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970222Z"
+  },
+  {
+    "id": "15eaf3c4d3",
+    "headline": "Family to file $75 million lawsuit in death of teen shot by police - Yahoo",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmxYLU1yNUJWMVFHWmN1MlBnTlRkMm9UeG45bDdtSFRNVVJpZUJ3Nzl6SnFfajVNcDdxcmNZTkczcVFLYUFTendGVms3eUdRWS04Zk95RWZoclpBcS1KUkwwRWRhWVp2TzhzaldjajllQW0wcFpMNG1YS0Y2Vld4Wjc1ZENHZw?oc=5",
+    "published": "Fri, 06 Nov 2026 21:28:11 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970235Z"
+  },
+  {
+    "id": "e5e7de9ff8",
+    "headline": "Family to file $75 million lawsuit in death of teen shot by police - WSB-TV",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGhCZDh3X2ZEREFvNUl6SFBxNWNfb2tRWGNlQmtQSUpBa3p5SExwNm9FakI1ejVaek1UU1FHbERKa2w3dGI5enBuMERMdjBpekJmbE5McmIwLVN2dnc1Z0pRaUI2cjMycThrQk80Z1kyV1hmT29iNG5hTTM3TFJ4M1NDaUpPWHF1YWdBc1Q4VnhYODNlWUV0dGZTa0V2ZHUxaGhGbmVfaGNPSlpYUVAwOUVtQlNpSHhOdWxQeHRJdGNrMU1yMWV1VzZvb19za2s?oc=5",
+    "published": "Fri, 06 Nov 2026 21:31:21 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:33.970242Z"
+  },
+  {
+    "id": "a06d450bbb",
+    "headline": "Pocatello City Council unanimously approves $4.5M settlement over fatal police shooting of Victor Perez - Idaho State Journal",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaHBSM3ZxWVphMXY2RlhkWkJNa09TbF94UTVzMHBGMkRDZUdZWDJVWVQzMVFvSjJENThxNlJQSTVCVDJqUjN1eDQtUERmdWQ2dTU4b0VEZ0xJZzQ4X2ZsdldjRS00OU5wUDFnVk5VMjNSUFRvcW04RVJzazJKb3RtVVFJaUJ2T2UtTWNkUDhXWWJySnI5OXd4TjhGUVJvWnVQdlc3M3hmU3dTTDdEYVpNMVMtckZVbGhYZ0Jaem1pT3pqa1J5ejNDLUJJVE9nUkV2VXc0QzE4dk5nZGFzYXdaOWIyUzdzSnNaWF91NEhOZ3FhVnRPR0Z3dVhLbGRWaEVUbi0zNkp6ZWd3c3ZCV0NfaW5BaGtmOTZCUWc?oc=5",
+    "published": "Thu, 05 Nov 2026 06:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T04:55:35.286093Z"
   }
 ]
