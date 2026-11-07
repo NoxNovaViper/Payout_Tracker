@@ -6958,5 +6958,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-07T04:55:35.286093Z"
+  },
+  {
+    "id": "75840aa93f",
+    "headline": "Pocatello approves $4.5 million settlement in police shooting of teen - NewsBreak: Local News & Alerts",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlU3ZkhfdzFlQnBiY0o3bWl6eGZOcFhtOHNqNWJScU9SbUl5aXJleWJhVWxzeHV2cVQ2QzhVd3dTdzY1anhLN3NzSDIzQXFKUzlaaFJ0aHFUemxrZHcydlZ5T0JlS2tqZEw3Rl9RYWRTLU1PQ1VBaVpTd0xxMkV6aXJZTnI2WHNhZDNoNEs4cWJNUDJybW93VjJwTnlfNGFYaHoxUDQ5aXF3bXBXTW10V0toWktWZ0NTTlRkMm1tWl9qY1dNVThZMDJsaTY?oc=5",
+    "published": "Fri, 06 Nov 2026 22:55:51 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T17:29:50.217982Z"
+  },
+  {
+    "id": "c3a2232ee0",
+    "headline": "New Jersey police director awarded $4.7 million in a lawsuit - Knewz",
+    "detected_amount": 4700000,
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGwzYlFjOXI5OFRMOE11SmNXb0dRMzdMMVl5dzFzamdxRzJRTWVfRzBXX2F4eUM5V0xOTkFFMVFuOGlCUmVXeE56QzdwT0JLTUpDc2phMjFVaGpjMS1VVzdUODNRTzZ5TW5rMEdvLWdNNHpVQmtVakQzZ05XT3NEcVVBd3dqVlpNd1dPTm4tU1RoeFI5cW1Mb05B?oc=5",
+    "published": "Fri, 06 Nov 2026 21:36:47 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-07T17:29:51.669590Z"
   }
 ]
