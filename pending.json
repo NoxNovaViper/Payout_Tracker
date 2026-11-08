@@ -6988,5 +6988,15 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-08T04:48:41.226186Z"
+  },
+  {
+    "id": "f86f7f2ade",
+    "headline": "Family of Colorado man killed by police during mental health crisis gets $19 million settlement - AP News",
+    "detected_amount": 19000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSllrSXlkUldTVmZwb2FPSmROWldrc0NHTjVzSjQ3NTNWc0ZpNGthQjJvUWdRRkdRN0VGR3hXUkUxeTdiWUhTNXl3TE8zbktkcTBzYzcwWjlweWpMc0hIcFBwLU9UNkJ1T09mbUxweFNEZ2dvZHJreDA3YlNqaTZNazVqY2FidDNIR3lnb0lqWDZEYkhMdkpUNFFFMnQ1UGRiM3dFVE9Gc29RNVlZcEpZQTdOSQ?oc=5",
+    "published": "Tue, 23 May 2023 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-08T17:41:05.226642Z"
   }
 ]
