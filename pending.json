@@ -6978,5 +6978,15 @@
     "matched_query": "wrongful conviction settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-07T17:29:51.669590Z"
+  },
+  {
+    "id": "e555e4cc95",
+    "headline": "A samurai sword killing, a $4.5 million settlement over a police shooting and the Giving Machines return - NewsBreak: Local News & Alerts",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV1YyVmhjWGg1QVV3ajVmcDlQZ0RfYXBwMXFTV0lwQ09tQ3Z4SkxDWWxndEpyejhmZU9ZN2lFX2pPMGFxRDhZUmdZaHUxUU9TcG53ZjlJRlpzS2pFMzdkM2lCOEdzTk03ODZheTEtSVFnZS02ZVVfOGVTZ0lUWklYMWw2dmh5TjVNQndKQ0x4Q2dlbjRQaVlvZ2RSZkMzbjg5X0NHYjVmMFFvNGZPX3Q5UnN5X2h3aDkwam1YQzVLUGFMdjlvTEVpQXZXRUR2Y0lUYUg1RDFINWFBazZpcjBOM1d0YklaNDJUaWdZeHp2YWNGYTVGQzVwMTNQbHEwbFk?oc=5",
+    "published": "Sat, 07 Nov 2026 11:59:58 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-08T04:48:41.226186Z"
   }
 ]
