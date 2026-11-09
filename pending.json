@@ -6998,5 +6998,45 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-08T17:41:05.226642Z"
+  },
+  {
+    "id": "3cf6b978b4",
+    "headline": "$5 million settlement reached with family of military veteran killed by police in White Plains - ABC7 New York",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQek1KQmxFLUpOdlFUQ2FxT19fcGFrVzNLZ2hhR3lwLU9lTzJpWVZZOFhaTzhXMjJQMENmb3RNdEdvX1pUTXprbGNkeUFsRlpJR1FrelhaZlhLQ3J2VVpFdURGbThZZ2c3dHEteFhhSG1rMXNUQzN3U2M0WFVndExfdkdENE84cG9XT2dObnJhVXU?oc=5",
+    "published": "Wed, 09 Aug 2023 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-09T21:59:05.800295Z"
+  },
+  {
+    "id": "23dd9f72ce",
+    "headline": "Family of Philando Castile reaches $3M settlement in police shooting case - ABC News - Breaking News, Latest News and Videos",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeS1ZTnVOUkNyTXNZdWUwZUl1NXR3Slo5bGFQQWlDVXBTYWtMU3BWYmNpXzYzVVpyNUhmN2lETUNpQW13dmdWVS1UalpzTnU3UjBiWjdWb3ZkRXVTcXNTbF9YY1hBeUNESnlyNGhjZ0NTbXA1Mm5JX1M1TVdMZ1MyM240WFVoWkluZnEtZlZjeDg3a01SWnY1eWNFTjlObTdzS3oyanVqMA?oc=5",
+    "published": "Mon, 26 Jun 2017 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-09T21:59:05.800329Z"
+  },
+  {
+    "id": "48f816ef07",
+    "headline": "Pocatello approves $4.5 million settlement in police shooting of teen - Yahoo",
+    "detected_amount": 4500000,
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmJURVgyU095a3NMeFdNU0lLVFJZVzlmYVNxR1kxMDEySEZrSmN1a2lqN1pRQ3B4bDF6QkJyU29jcFVJOHJHa3ZFcDAwZ0dmSlNCQy1XT2ctZ3V0cDFzZTNDS1lZOHIzSnZYMHMzOEM3TGpVVFlZOFdZMXdkSk9LS0FpVklUUjNyZmx3VA?oc=5",
+    "published": "Fri, 06 Nov 2026 22:43:54 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-09T21:59:08.694253Z"
+  },
+  {
+    "id": "ff3cd08c34",
+    "headline": "Attorneys, family announce $75 million lawsuit in police shooting death of 18-year-old in Newnan - Yahoo",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGFBMGhGcHVVRU91THA0cGIxaUg1LVV0c2EwaXI5dWYyRVQyUmYtajNjSzBLQnp1bHpvak9JZGhERzZZa005WnZkWmxwV05XTXNla19feDNGWUtNb3l2NVhEMThzbU5aVDhIRVBqcURzNUh1OFpwLTlaN1Awa2Z0b1NMRjQ0QWpPOW02Rl9TSEpEbXRN?oc=5",
+    "published": "Fri, 06 Nov 2026 19:28:36 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-09T21:59:08.694282Z"
   }
 ]
