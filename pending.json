@@ -7048,5 +7048,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-10T06:13:48.503950Z"
+  },
+  {
+    "id": "77bc20e256",
+    "headline": "Family of teen fatally shot by police plan to file $75 million wrongful death lawsuit - 95.5 WSB",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUZvWmdpN1RRN0dIVy1KR2hvc1p3c3FLOFI2a0QtOFlWc0diMkNiY3h2ZEZFTGlIWFZQMkhtX1ZYS1k0OENnRGRSa3pyUEpuRmdMbmxmYU9JVWkzNFVfT0xTczhXV25QdmJ3LTZFYkNJS1VhamtONWpBNElzdERsUEotMl9NTmZnSHFpZl9UNlFsQjRXbUxuRUZRLWpRR1N2Z2FEOXVHOEhPZkJ5WTB1bTYySkhFWkhVYThkaTZOZnl3Y3ZtN0h5UXBPN3dwTmxub1Nn0gHnAUFVX3lxTE1nN0RHcDUyT1U4YTlsX0JZbTd3aG84UWNTdjJ5b25xWDg2MkFRaDUxMWZkWGlyRkhjTG1vS2JuNjVlczJ0V25TZm5MdkpwOWZwTUltZ1hiLVdtRXA0U05PbDdPcmQyWU05UFZ2T3M3Umx0NXBkTkFyZEN2cmVjRmN6bXNZUy1CY2hfZEZQNWUxaDBsZGl5Ri1tT092R2lJc1ZLQm5aWmFTd09TMW9UYzV4M0UtNW1OYkRTeU1rRTY3TlNRQ1ZkQkZqenplUy1zVXpQMFVEajloZEdack5FeXJ2OGEwS1ktaw?oc=5",
+    "published": "Fri, 06 Nov 2026 19:59:56 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-10T19:24:27.354799Z"
+  },
+  {
+    "id": "3911725cb2",
+    "headline": "Black New Jersey police director awarded $4.7 million in wrongful termination lawsuit - Wonderwall",
+    "detected_amount": 4700000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQekJoWlp5S21UM1MwM01xSmlpczVCZHg5MjhEREZNdFlURlJnTWw5aGxXV2VTQmhaMVJ4Z3VNRTV3c09hdXFnRVd3X0tfOXpyTDFNc2Z4cGhoQVJ3VE5UVGRMcFRjOGNfakVvYmwtVmxrOUpjOGtvTHQxN1o0MDY0cW9ta3hTRktwQ3BVc0E2cm5PQUM2dnlYZ19SVWl1VDhIekNEd2FlM0JyYWVmM1hpLW9GSGFBMUZSdmIydWZMNWhOems4S2pnWFBGYXRsXzFLUEZTMFNhaldFb0E3OFlwYnk2SGhVcG50WXZ3R2RpWTBZekljakdyNnRzS0xkS3FZQ1p5WTZVSDQ5ZU5IZ1p2UmExaUFvUlo3YlBvWEVjZzFKTFh6eFhtT2tYdmd0TkNJMVBlcGloWkl0MkNDYzBTTi1tcWFWQ1pSdHpwSmFXOVl2WUU?oc=5",
+    "published": "Mon, 09 Nov 2026 04:16:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-10T19:24:30.634102Z"
   }
 ]
