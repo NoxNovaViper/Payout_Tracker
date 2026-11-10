@@ -7038,5 +7038,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-09T21:59:08.694282Z"
+  },
+  {
+    "id": "7aaf6a7d63",
+    "headline": "Knox County to pay $1M in settlement to veteran who was tased by deputy in 2022, attorney says - WVLT",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1RLZTczWVRPRFdTY3Z6emx6SlpwRjUxOWZlVmtzbGZGbXd5Q3hDN0lmS2trSFliUHE2OERUUUg2cG5QVGgwV09SOExsMGR4TmlDTHFlck5wbThGajVPQlY1Y1NBWlRCTEdZcF9RZlJDWXNyUm1Tb1RCZjN4SzRLVHEyWmNkYzVWVFhFTDRUM1ZhZHJkc3VBU2pTckhBQ2VSb04zSEJNRmJwS25laGxWcElB?oc=5",
+    "published": "Mon, 09 Nov 2026 21:59:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-10T06:13:48.503950Z"
   }
 ]
