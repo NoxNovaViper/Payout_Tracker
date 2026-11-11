@@ -7068,5 +7068,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-10T19:24:30.634102Z"
+  },
+  {
+    "id": "23dec0d059",
+    "headline": "City of Flagstaff agrees to $8.9 million in settlements after two crashes involving same police officer, one deadly - 12News",
+    "detected_amount": 8900000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQTDFyN0J6UG4tR0ZNWEJFdDR5RU9vdWh6ZTZIMFhVaklFTUlVWUV5WUpMUjE0Z3BZT2FOdEZwaE5OaGlBdWFKNkpUTWt3NkMxNE1rajNMOHJ5TEVzWkNoVXYzZVNzbV9HWkFMZE1QNGkyc3V1Qm9qYnk0czlCS29ob3pneFB5dmlMbGpPb3Z4a2VBZTFHRGhJZXI5VWRmOXJVbl9MYXBhaFFCRHpKOWlyUHFWa2VUWmhfODItdElDVFhWNGd5X24zbWE1Zk83MzFVUzh2QXJLd09jUTg1LXBlVU1mTzBod3czZTdSaG1yUUJWVTZXSDluVzhSclFoVGxrSkhTN3pBWEZ2OW5SMHBjd28zdGtJNHVjN243ME5xYjhaVnBwLXFZRG9jYVM3Nkd6aFhpQw?oc=5",
+    "published": "Wed, 11 Nov 2026 03:53:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T04:58:40.847548Z"
+  },
+  {
+    "id": "d5776570df",
+    "headline": "Riverside County pays $2 million to settle sexual abuse claim against former sheriff\u2019s deputy - The Press-Enterprise",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT09pYnp0WTVmaGxSNkF4N2pCTXR6ZnNBVnNVNVZYT3ZLSnc1WjNFaktaS19XSHQyMmlWVnI4TXUySmgxbTdpRHlnM0N5YTFWclV1blRQRkN3aEtTOVEwaVVTN3ZQNzlnd2Vfc2NiQ3FrTG9VdmxkRFJFS2RtWUtLVTVVQUgxZHlqeWJISm51SE1QRTdrZ0t5NzVMQ2h4Z1VERC1XRUcyTzROXzlyNlhtdEpjZ19WOUY2c2ViTTlCZkJGYXFxa2NYQklXMl8yQ1FL?oc=5",
+    "published": "Tue, 10 Nov 2026 23:22:13 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T04:58:42.286170Z"
   }
 ]
