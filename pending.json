@@ -7088,5 +7088,85 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-11-11T04:58:42.286170Z"
+  },
+  {
+    "id": "83a2955734",
+    "headline": "Jo Ann Hardesty accepts $680,000 to settle leak lawsuit against Portland Police union, 2 officers - Oregon Public Broadcasting - OPB",
+    "detected_amount": 680000,
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjlLRmlPVms2NUNkV0psMEdIdUZINXdCeVRMMURuUHpqMF9ja3ZUZVVzQ1V2cmtnMTg3UTczT1Znc1RwMlRNOEhfdHY1cDRkdDlJQVJqeFhyTVBGQzdLS3pxeXR1QzU3VUMzc3NfU2tZeHh4MTRVbG82LVhIb0hmZDdnWFVGOFlMYXBkTUFacDRKb29QSlFxWEZabmdpeFVmZW93b0tsaWNOM2JBUmR1d1Q3SlM?oc=5",
+    "published": "Thu, 21 Sep 2023 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:02.692687Z"
+  },
+  {
+    "id": "54d422f118",
+    "headline": "Massachusetts State Police to pay Karen Read $100,000 settlement - The Washington Post",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVdCSDFCdEpWTXd1NWVzQlJ3SGZIS3dlU3pTQm5VS2ZMYzJNRGk2VGE1dEdKdTR3UmdZWENzNS1wNTAtTFNNSC1GT29RRnVQcHd4cTQ4dVZvRVNXZzlsWF9NMTdqR290VThsd2otRDdqTXFnaWRIbFZ5NnNDYmd1WDdUY2JaMHU5aFlqdUN3T2UyamZxZ2luLTdIR0k1UkVPajJPdENSRnRfU2pIbFE?oc=5",
+    "published": "Wed, 11 Nov 2026 04:30:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:05.760388Z"
+  },
+  {
+    "id": "14e33ed0fb",
+    "headline": "Karen Read lawsuit: Massachusetts State Police agrees to pay her $100,000 - Boston Herald",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTBPS0U4QlZlN29fSXh0YllEaEVORXNTOV9LOU9GcXV6dk03cmMzVk82d0tJN0t3a2tXOVlqbDdCN3JiMlJhSDdIT25DVXZOZ0dub0ZYbWV2MDZ3dFQ2VEtJTVZrN2k2ekRXM0U4OXExOW9MS0g5emtaMi1MSTZkZ2lXTEtZUEdQbEF5UHdCS2xNTi01Mk1JZE5QVzZJY1d3a3dERUs1UzNHd1VZNEpJaQ?oc=5",
+    "published": "Mon, 09 Nov 2026 21:58:34 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:05.760420Z"
+  },
+  {
+    "id": "bd44e604b8",
+    "headline": "Massachusetts State Police reaches $100,000 settlement with Karen Read - Yahoo",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUZPODVqZ0FUaWVTRHZOZzVuU3VvTVY0U1BDbTU0Sk5uRVAxeXJiaFdiS0tqc3VDMWdmWlpoR253bjBRYWV3ekg5Vzkyd1A5bUhJRVJQM3JRRUZ3eFVFZS1VdzNlSmk5WHNZRV83c3VWajZqNkJLRzFHUXpfTUo1RVA2bzBQZGFpY3pYSGdzWHhYUG1BTjZz?oc=5",
+    "published": "Tue, 10 Nov 2026 04:31:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:05.760425Z"
+  },
+  {
+    "id": "ea6c7db18c",
+    "headline": "State Police have agreed to pay Karen Read $100,000 to settle her lawsuit against agency - The Boston Globe",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONi0xa1hXaGNWemtoc1kwenNXNFFsVFFiNW1PNl9GbU03d1kzWG1OQ1hYUUFNNk5rNHFueVFkUll1Q0hQQXlLZjFQcnl4X2xMdUM4M3BibldGc2RiVUVPbG9qX28ya04xRExaT0xmRHR5MmRTNzA5allFemwwam1XU281WlhrajFNLXoxQUhySFFXd1diQ1FYWGVYSkU4azNOSm9v?oc=5",
+    "published": "Mon, 09 Nov 2026 15:41:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:08.869518Z"
+  },
+  {
+    "id": "99f325b24a",
+    "headline": "Massachusetts State Police reaches $100,000 settlement with Karen Read - Boston 25 News",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNkp5TGpzeGMyN2IxWXVXM1IwVE9CeTAzaVcxNGxuTXRnSzR2c01VM3ZSNHZwS1VaVU5wcXZPbjNydmJGYy1sR2VFVU1oR2dNYmd0eEhDdlZUcm02bE81WHNEQnpLamRpU09zNVFvWUFwSUF4UENnNGpyTDBtU1NhRDZjcEdmaTJGVF96b3lMcDdMc1RVTm1sUlk4V0NNbUpTNHV0bkFTeHlPaTBWNDBEcE52djVDNlFRQjNwUU9BcUIxMml2NVFqMGswN2RrbUhOdnfSAeYBQVVfeXFMUGxBdHZyb1FtaHlYc0xOaF9INDlmMkdmb1JOVUxQY0JUTHhkaWhPQ05KOGE5VldLSkFGMnRncUV5NWU2RDY2X3J6RHBLOEwyLU5aZlhheXpNeVRnaUMxOHhENVAtTVZYdFowS2t6MXlQc2ZwRU42bktmeEJkSmU4NkMzZjJ1S0I2bmdXbm9YTmM2bDlGeGpRclJ6RFliM1JTdHFNUk5kbmlvRzJzZmw2eXBSUDJLVkVERFpLNTdlMHZPT2NCY2pjS3RFeWZ5VXhDQ2hxNllQZWQzSVFJNGRVb016cWQ2cGc?oc=5",
+    "published": "Tue, 10 Nov 2026 04:31:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:08.869539Z"
+  },
+  {
+    "id": "70e02af5ce",
+    "headline": "Massachusetts State Police to pay Karen Read $100,000 to settle lawsuit - Modern Ghana",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydXJGSWNfb0ZHc3gxUmRsOTM2NEdRVV9yQVdTMUxmVHBYT3JlblZxcHRUdW00bUxYS2VWbWMwcVB2RnV0eHlIODAyQ2g4OHRzd3JMMEJvMVI4RW9hWkFZ0gFcQVVfeXFMT2pCUG5VZ2FFTWVWcFVyemJVNzBXbjg0bjV6Y2RFVXlNM3JrQ1llQnJRa0FObTJCNmlEbjdjT25ESVVDNGgzZ2VJVzMzOUZIN19MV19wVks5a3pTRGo?oc=5",
+    "published": "Tue, 10 Nov 2026 21:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:08.869588Z"
+  },
+  {
+    "id": "bf5d0127ce",
+    "headline": "City of Flagstaff agrees to $8.9 million in settlements after 2 crashes involving same police officer, 1 deadly - Yahoo",
+    "detected_amount": 8900000,
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTFjaXJXSjlWYVVYeTNkZzY0WWhVcTAyMy1RRjh6SGZvVGxwbmppMFBoZG5Wb2M1RmNPSngyTzg5b1dJZHBMNzlRb0NBTkY2WmlzSmptQ0Q0Uk82NHRvbzhVajM1YmNHbWpoUnpiZDIwUUstV0x2Y2p2WkJxcDlrVXJqencwUQ?oc=5",
+    "published": "Wed, 11 Nov 2026 03:53:30 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-11T19:18:10.335439Z"
   }
 ]
