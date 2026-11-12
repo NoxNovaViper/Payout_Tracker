@@ -7228,5 +7228,25 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-12T06:01:11.590180Z"
+  },
+  {
+    "id": "7e234af62e",
+    "headline": "Officials approve $30 million settlement for family of teen killed by police - WTOC",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmlYbjhrNURDeEFBbnhyN3I3UTNQZ3FNUjVBT1RpaE1tcEd1UnZsU1Q2ajJXWFluRHJiYTZlZHpXeFg3bExHQ0k5Mk9kRS1wbmg3ZVAwUzVkaUNicTJfLVMtNWhwMllSRHk0UlgxTlRUbmluWGhQRk83SzdVWENCYmdnR1ZfeXJvR2VEeUgxZDYwVlFhclRldWR0a0RjYW5ybkJv0gG3AUFVX3lxTE1reVFyVHBpSlZzcW42QzlLQzJ0ejMteFBTVFZjVjhhTGo1TjNKSF9FQzZFVnY2TXR1NEJKbUNheF92Vk1nVmhRTmR6dXoxeVNIY0dIZmN2QS1OcjRWRXVQTUl1NjY4NVpKQ0dlREVvcEtydWVteTZFMHllOWw3WEFhSnFlcVhtZUFSLTZTdkpJWXlnT25Ed1J3REhrQ3pLeTQzb0NvZTd2NTdyckIwQ1dyOXBwSmRIWQ?oc=5",
+    "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T19:36:42.605918Z"
+  },
+  {
+    "id": "4309b091f1",
+    "headline": "Massachusetts State Police to pay Karen Read $100,000 to settle lawsuit - WHDH",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDE2ckN2Y0hETmdjZG9IUHpPYXB0b1BrTEJtbUwyUXNZci1LWTJHOUs4NjltMk5oUTlRemZ1UkdGUjFJbXJjbm1kWmlmb2dGQWpxN295cVg2R2x0VEtWYlRyWFZ5OFdTaWpIV21vOHlmbExSY2VJZ2xMOEhCNS03Y3ZsR3pSTVRoQjZrTGZZYnBCUjZ2N2RB?oc=5",
+    "published": "Tue, 10 Nov 2026 10:00:59 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T19:36:48.777902Z"
   }
 ]
