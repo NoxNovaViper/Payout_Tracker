@@ -7168,5 +7168,65 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-11T19:18:10.335439Z"
+  },
+  {
+    "id": "2b585af711",
+    "headline": "Family of Man Suffocated by Antioch Police Restraint to Get $7.5 Million Settlement - KQED",
+    "detected_amount": 7500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVRzNDNuSnMwT3BFYkhKN0VCMHZKakFseTFpcVVweU9GRWxXajRZMmNhMHZqV1ZxUFBoMHl6d1E1MWNlTDcwSjZuQjJTMG50SmxYQVdPU0E0eU1pTjlZcTlrX3NLN0dNLUFadTl1aU43YjVETU90ekUwUE5SOEtEcnJlMnNjX2w5Tk14X1dFS0ZiUlNhYnlzSzFoQU1ETndOSmNiWXJXbnJ1bURzajdMM3NCeGJLdThD?oc=5",
+    "published": "Wed, 15 May 2024 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:04.699076Z"
+  },
+  {
+    "id": "7b9c115b96",
+    "headline": "Fort Worth approves $150,000 police misconduct settlement - www.kera.org",
+    "detected_amount": 150000,
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDAwQjhQcmc4dXNFNkFrNkx5R3BScVh4NHdFNWt1U3ZLQnF4bDRrdGJwM3YySFVlbnZRcDZDdXIwVjZua3lDc1VtQldxQjViS2hMY3kwZnFzYlhEQ0FMWGFyQXNTTVB5YVo5Z1dFaTBXWDRZR0JDNUJVeldINm1jN0FfbVF6eDlvZTJ6RWFvSE0zQQ?oc=5",
+    "published": "Wed, 27 Mar 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:06.111755Z"
+  },
+  {
+    "id": "8c251066cf",
+    "headline": "Committee approves $45M settlement after West Town, Chicago police chase, car crash leaves Nathen Jones with brain injury - ABC7 Chicago",
+    "detected_amount": 45000000,
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzRrODBOWlpNMjd4ZDIxMEM4WV9vbGJvek5rejZ1dE9oRFVlTzJkbExLSWNhQmJ0R1JCWjlURzdtQVAtWUJhWDVIeUJRemxtWU5hYk5qclhySzk4aGdtNkRQZ2hadjBDMTRPc0l1dVEzeG0tM0dfaE0xTWtib3VaaWtmSmJRZkxhOWFEZi1jZmNkSkZB0gGgAUFVX3lxTE56dmdrN2NqX09iOWtrY3l5U0hDeWpKdGt2RWdGcm00YUNPVDh1VUVyaG0tUEJUZUpvaFdKUEk0V3MwRy1icC1BR1Zmc1Q3SG8tSDZSRThOWGF0RVVfQUVidXlHUUxnOXZINHhCalRNV2psTmpyZ3ctTlA3dHlWSmJBcUhOVTZkQnM0LXVjU2d5S3FUeFJ4MVY2WGlRazIyMkE?oc=5",
+    "published": "Mon, 18 Mar 2024 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:06.111809Z"
+  },
+  {
+    "id": "2d3e1bbbf7",
+    "headline": "Knox County pays $1M to veteran who was severely hurt in wrongful police stop - Knoxville News Sentinel",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkpDY1JHVXFGRU1tN3FKZ1I3ejRsd05yOElTVGRBZGRTd2FMTm5vM0dBby1NMHI4Szg3N2RteVlCYU9RU1FYcC04LTdqSnVoR1l2SlN6NC1XOWs5ZENmMVlfYWJRNTZ1bXNkS2p2VTNxOEJSWUxDNUNzRzFvLURvNnZidHNQTXhEdUVWOVBmdUdXcTM1anZXME9CMkNjSlJLVmVZMDZBQVgyaUhGNFFWWlhoT2YySVRhbGdkd2swVU96ZkRZanNn?oc=5",
+    "published": "Mon, 09 Nov 2026 10:04:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:07.490158Z"
+  },
+  {
+    "id": "696f050bc9",
+    "headline": "Ohio family reaches $7M settlement in fatal police shooting of Casey Goodson Jr. - Spectrum News",
+    "detected_amount": 7000000,
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnRyR0hHWDZidFRlbllmTzNSZGk1WkpJYVEtOTQ2TVdiT0VQRDNUeld2cGhQeGFOaG9PdGVSQWdjLUg4eEpPUTl2TmYzakFDclZwTm5MSlhiR1VPV1AxQ0xUZnNqTDVBSkR2Z0FtZ2h5NUV6N2lBNHRLWWNReHBmOEVvZ3ZQT21qdnlEZjQ0cnh0dVdNTzNF?oc=5",
+    "published": "Wed, 14 Aug 2024 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:08.841705Z"
+  },
+  {
+    "id": "842083065e",
+    "headline": "Knoxville man wins $1M settlement over 2022 stop in which deputy Tased him - WBIR",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGJyeDRxcW9MVzdpNFFhWWhaSDhZOHkybmRhd3BQckhVQ3o5QW9LcjlIM05JanFZVDFVVnZlZE8zX29rV1Jac3BoZ1pQVVFxSkJOLVRlQllNdVdwUG8wN2w5dmMyaTBsUHhCWGFrbHkta2dUVE1XZHBPYVNobVdkbHhoTVZ1R0E5TGN2VkVadk4ydVRFTHJyZk9zdHFxZ3prT1d0NU0tcWY2cTkxOVZpeGdUZERYaVBkUzloR1dMbmJPUEVIYXh5LTd2VkdVN2NwQTN1YTdxS0ZycGZhSV85dQ?oc=5",
+    "published": "Mon, 09 Nov 2026 12:51:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-12T06:01:11.590180Z"
   }
 ]
