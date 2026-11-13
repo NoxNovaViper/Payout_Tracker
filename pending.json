@@ -7278,5 +7278,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-13T05:25:54.227048Z"
+  },
+  {
+    "id": "288cab86bd",
+    "headline": "Ariz. city agrees to $8.9M in settlements over 2 crashes involving same officer - Police1",
+    "detected_amount": 8900000,
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLTVTaEJ6VDVQRzhOX1lvSEE0QWZ2UXNlOC11OHdXbDVMRUxnd3RqcjE3WkQwOW4xanRETWJKM2pvTllJTExRVVNkb2l2bU5ON2FlMzlBZUlIN2plelFxdUIxOGt4ZDRtcUlQbGJsTkhzS2d5X244d1JHVEVBOTFFZExzQ0ZxY2dkUnotLVFYOWVTWTExMUhyS0FENFdjZlU0akF0emZNa3FKaUc1MFAtcFNLVTM1bS1V?oc=5",
+    "published": "Fri, 13 Nov 2026 17:02:26 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-13T19:16:51.501545Z"
   }
 ]
