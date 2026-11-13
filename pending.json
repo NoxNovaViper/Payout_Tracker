@@ -7248,5 +7248,35 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-12T19:36:48.777902Z"
+  },
+  {
+    "id": "28d18e1e6d",
+    "headline": "San Diego officials approve $30M settlement for family of teen killed by police - CNN",
+    "detected_amount": 30000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1NwNFkxWmVfeVJYYU1WMjI0OE1kWklrNGhCUTRVb1FNSkhBWUV5UGVTdmkxTXMxN1doVjhZMXdTaVdGUUgwbG1MVjhpSm8yZkdSdmRNZmdJTGttb3RMcG9DUXl0T25qQkRwYjV0OTlkcFlIMmlqbk9BeHFmd3M4RDVSSmhwTlU?oc=5",
+    "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-13T05:25:46.587117Z"
+  },
+  {
+    "id": "41d88d638d",
+    "headline": "Phoenix City Council approves $5M settlement in police use-of-force case - AZ Family",
+    "detected_amount": 5000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3hmak5kQWx2QjQ5cWVVc1NQcjNCTjZvUmRKeTNuSVIyeEdsOTlGYUtqVXNxMjF4YU4weUFkaXZ5bnpWMllVNi1kcmZLN0pSd3h5WndiMUpXSU5sZ2NmRW5UbkZlTzd0RXdhQW5UTWNHSXI2djRWdGx4clhRamRSNXJmRk1xSUxUVmdSTmNKbmRhU2xRYTh1UXh0cWtPU05vWFZERTRMMjHSAbwBQVVfeXFMTXZmdkx1MzE5bVRROVIxN3ZBelVXbnNRRmpQRzZscjVZNWwxaEh2MjhjUFI5WUVWWlc4dm1aaDFKYm83eF8tVkphYWtCbnRJUHdaWXdQaEJfRmMxWjlaSVdoZlJud1Q1UDlFSUNkZDVvRmI5SHA5ZVZwc2t4XzRjTElTMVRUaGpjUENjRG9SUDJZblR2RUQ1T3cwNmFIaGhyTmo0Z0dqRVdJSGMyZEg2c3l2QlZIX2ZlSE9taEM?oc=5",
+    "published": "Thu, 07 Dec 2023 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-13T05:25:48.166607Z"
+  },
+  {
+    "id": "2f69926965",
+    "headline": "City of Flagstaff to pay at least $8.9 million in police collision settlements - Arizona Daily Sun",
+    "detected_amount": 8900000,
+    "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONHBWdHRnUE1jX2lxWW9OMzN3bHQycU5NU21mdDdtczRxWWwxel9RMTZJM1lZSEUtTXBnWGl6TDZ2d1hWZS04Mks1aEVWYnRMOGdYangzeVdXWVJ0VGlBQlVxN3o3cEd2VFVkc1pPS254TUtSVHpwQjZUVEdvbU9WYXlXUGgtYmJXdE1nLUR5TDZ6Yk5WaEZrZmV1c0EtTG05SUc5eGhXSzgzanAzb0JnMlpNZVJSaERqRjM5QXpGRG52dDRndVUxYnZuclE5ZlhsZ2tiZDl4LVBuRnVSQWozbkFKVDVJZWdicFl3TzZ0QmpuZk9QbE5OQWNqT2twUXpDY3FOdUZpUVA4Vkl3U1ZGbA?oc=5",
+    "published": "Thu, 12 Nov 2026 20:45:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-13T05:25:54.227048Z"
   }
 ]
