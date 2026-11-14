@@ -7288,5 +7288,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-11-13T19:16:51.501545Z"
+  },
+  {
+    "id": "176f76609b",
+    "headline": "Christian Glass case: $19 million settlement reached in death of 22-year-old shot and killed by police - CBS News",
+    "detected_amount": 19000000,
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFpDTmh5cGUyVlluU1h0MHR6TTNNUTVGNnlGVEtKb2JhZlNIR0FvaE5MU3doSWRRRDhQZG04UDJqZ3ZBa1hBSE1GQTQ0VlQyazVNMFQ5WGQyQmhUS09KdFZ2U0MxbkJsdUd4MXdJRFY2dGoxT25TVVNsdk1rRVRnWFVUb1l0djRaUDRjTUtLR2RUdGFwSHlJQ0laRW9zOHhGWjdXQ0JaSEhzNXQ4V2FXSTBYMEw4QTBtREdFRG5sX0ROYVVpQWFB?oc=5",
+    "published": "Wed, 24 May 2023 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-14T17:43:04.611943Z"
   }
 ]
