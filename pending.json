@@ -7298,5 +7298,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-14T17:43:04.611943Z"
+  },
+  {
+    "id": "cfbc2f15d6",
+    "headline": "Karen Read and Mass State Police's $100,000 deal: How much does Massachusetts pay out in settlements? - Boston Herald",
+    "detected_amount": 100000,
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFktQ244T2tsUmRYRC0zMXFhLTF6YlNyUUlTdGwtbVdOMTEtcjFLVHB2ak9obEI3UVJUY3NiS3ZTOTJzZHYwTnZyLUkzOUpobURQR1JyUXRUM0VQVnFNcDZrZDZVckZzMTJFZV8xbnFWX2otOVlHUV9sSllOU0pRSTQzQjFKOGFJaDdRS21kTDlhb0dTOFhhTDRtUzNsTXFNSkFFZE1XNzNaUTZlRmZjak1QbTNCT2EtdVBidEVmVUoycjlzMWFFc1FRUDZ3UXYwQWVR?oc=5",
+    "published": "Sun, 15 Nov 2026 08:23:46 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-15T18:32:37.460223Z"
+  },
+  {
+    "id": "b6043663ab",
+    "headline": "VIDEO: OLD WOMAN DIES IN POLICE CUSTODY, COP HAD KNEE ON HER BACK AND LAUGHS, FAMILY WINS $1.4 MILLION LAWSUIT - CHARLOTTE ALERTS NEWS",
+    "detected_amount": 1400000,
+    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc0piY3otYTh5OEVGUUxiNVlXeTlNbk9kYXVoMUp3ZnJmcnhxYWpKdGxMNnY4UjNXLUhOXzVrM01pV0I1M1V3V1kxWUNmb0NkS1N5dU1jRmhZWG5fLWp1UE9NdHRsdXNvLVFRM0U2LVk1TXRkUzRzRkdoV1c2WDlodjVRVVItemN0TGJZQ3U3bTBrdXNIUnhGSXItWjJJcUxkakNwejdiMVJGY1dBVS1zYk40Zl8xQ3AyRE9TVnJTcUZtNFBieVZqbXAwRXlndF9nYTNKZkxRaVpPU0xPZERuRnB3?oc=5",
+    "published": "Sat, 14 Nov 2026 22:12:09 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-11-15T18:32:46.196168Z"
   }
 ]
