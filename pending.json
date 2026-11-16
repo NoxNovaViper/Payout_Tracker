@@ -7318,5 +7318,25 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-11-15T18:32:46.196168Z"
+  },
+  {
+    "id": "c741c02808",
+    "headline": "Aldermen Prepared To Approve Nearly $4.3M In Settlements Of Police Misconduct Lawsuits, Including Payment To Woman Dragged From Car At Brickyard Mall In May 2020 - CBS News",
+    "detected_amount": 4300000,
+    "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0F4RUhWdUZ3WVlSUE15TWx2UWpSd1FxSGhlbkNOT2xwUXV1OGRyeDJ2UmZKSXBtLXhIVlJOTGpDVkpuNjY4VldDdEZNWWNrOWxOamNSWnBlZ0UxVncyX1dWTFU2YWc3NEJJT1pLcVBadHlKTDJ4WC1pNHZqaE5EeUd5VEVWcTN6ck1MMGtTc3FGZGtraGVhSjRVT0V4cFh5aExIRHZQNUdGS3lyaFRTX0tZbi1oUldvMEVWek9USlR6ZmJIbHZvekhReDFwaTItd2V1blQyaFNuWmR1cWs3cUc4WldNMXVUTnB4UTViVHpialhoeFh5WEpxWnBlYlhJN2R2NmFDZURuRURv?oc=5",
+    "published": "Tue, 15 Feb 2022 08:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-16T05:06:16.708843Z"
+  },
+  {
+    "id": "43f715fc16",
+    "headline": "Miles Hall: California city announced $4 million settlement over fatal police shooting of mentally ill Black man - CNN",
+    "detected_amount": 4000000,
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zdjMybG52MHRhWXdSREx3cXZXcVViYUtaNGI0NWJGRGhfVm1vcy1DcmtGX3BiUEp6YnhLMTdtLW9lbEh1dkNqZ1pNc3VMVWlhMGFyZFNHdGpMNVR6SnVRUzZjZ2ZXQktaRndJN3pIV3hVV1hJR3IwSnE3NA?oc=5",
+    "published": "Tue, 22 Sep 2020 07:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-16T05:06:19.630498Z"
   }
 ]
