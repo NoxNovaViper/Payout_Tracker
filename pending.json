@@ -7338,5 +7338,25 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-16T05:06:19.630498Z"
+  },
+  {
+    "id": "1b7ed353ef",
+    "headline": "Santa Ana Taxpayers Spent at Least $8 Million to Settle Police Lawsuits Since 2020 - Voice of OC",
+    "detected_amount": 8000000,
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGttakNDVEtna3hiVjhka0dfalRtMkY2U3BQTWVyMUI1bEdBUXp2M0E4WTlSaEVKUWd1ZVE0SnFIdkNHNDBlYVJYQlRtYVBHbEU3cHRMRUVfY1FfVS1QcGVDUmxEQ1Q0Ylp3Szc5MTNpWDY3ZGtua0lGNElzVTU2ZFB6T0drUlBLRHdXaWNlcm02OWU5cERzX0M0WXI1MzhjS3lta2dfS1A4OWg5ekJaU2RR?oc=5",
+    "published": "Tue, 17 Nov 2026 13:58:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-17T20:31:24.574746Z"
+  },
+  {
+    "id": "569bc0b70b",
+    "headline": "POLICE DEPARTMENT PAYS $1.7 MILLION SETTLEMENT FOR TEAR GASSING PROTESTERS DURING GEORGE FLOYD OUTRAGE, COP LAWYERS TRIED TO GET CASE DISMISSED - CHARLOTTE ALERTS NEWS",
+    "detected_amount": 1700000,
+    "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWjBYX1ZXVDM0M29pTmZ4WURJYUNEbGJfcG9WNlprQ3JXU1ZlM3QyOVFpR09mckV6YWp5YXhESlE3dEVYR1pkVjlBWXpHZHV0Sk1TeE8xMlRmOVhlU0RQQ2prNEYxZ1d3U3NoaDMxU0RnanZWaEdDSmFaYTkyajVvaVZId19IQmhyUGFfZUtjVXcwa29NWkUtMXcxQy1mYkhIcndIWWpZSjR4YkhhUUd2WFBIaFNXV0I4OWRDRlpxSkpINkNNNm5RblFBREQ2TjFWT0dNV0tKdWlyelpoNHIybDM5UGl0MlFxc2xRZDVKQjZTN0dDWXl3VnFDTmtaMXNlTHVXcllnY2JMbWs0REpqZA?oc=5",
+    "published": "Tue, 17 Nov 2026 17:01:36 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-17T20:31:24.574926Z"
   }
 ]
