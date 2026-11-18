@@ -7358,5 +7358,15 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-11-17T20:31:24.574926Z"
+  },
+  {
+    "id": "d3e5abdc09",
+    "headline": "Charlotte attorney hopes $1.7m police settlement leads to more changes within CMPD - WFAE",
+    "detected_amount": 1700000,
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEhNX2NXQVhhbGpUMzdvWGpsVmpndWU4cWFTRWFrNzJNdkJuOXNMLUoxamdtMC1ITVRtdjlBYjI0WE9IaFdWWVJXajZhNEsxWVVBSWJIMGxKYnY2cFBudTZpVFA5VDNIQlJLSzdhaERPWDFkbDkwZlRLLUtsTThNMmlySHRDNE5sQkVta0dXZ1Rfdm1ORklpZGE5UUZjNDZ1R0VXb01uZ3M0eF9za0VvVnVn?oc=5",
+    "published": "Tue, 17 Nov 2026 21:19:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-18T06:12:51.041266Z"
   }
 ]
