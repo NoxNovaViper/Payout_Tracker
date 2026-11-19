@@ -7378,5 +7378,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-19T06:14:35.038509Z"
+  },
+  {
+    "id": "a799f8cc4c",
+    "headline": "O.C. settles lawsuit over blind man fatally shot by sheriff\u2019s deputies for $8 million - Los Angeles Times",
+    "detected_amount": 8000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGFLOGxIU25XY01mTGozODZiTVBkREt4bUVaMF9aMFFkcTNlVWFtUmlMZWRWbFNwZmJEWWFGMU1MYktnVEptVnM2TldISGVPX1ZPNkxBcm1aVEQ0Ukhxc0JwdmJZYXNjSkdpUmRrcjdkWkxfdHo4OVhpRzE2TWVmU2JFVWdIaE5WckVHYmRncWRvNWQ0dUtTOWNucExPMzU5RVRMTVRoZ2RKdFdMWUxoRkZrTQ?oc=5",
+    "published": "Thu, 19 Nov 2026 18:27:36 GMT",
+    "matched_query": "police custody death settlement million",
+    "status": "needs_review",
+    "detected_at": "2026-11-19T20:01:52.543895Z"
   }
 ]
