@@ -7368,5 +7368,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-18T06:12:51.041266Z"
+  },
+  {
+    "id": "c8891a9436",
+    "headline": "Minister, police settle N$3m assault claim - The Namibian",
+    "detected_amount": 3000000,
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aR1N6b1pWZjFVZmdTX0FPR21aWE53NmtPU1o2UngyS0FjazdIV3BoWTNtc29YWjhvYnVFQ0VIcHNQTTNVaGFfUWYwV0wwM2xnNVViUVBCelZxWmRSMDAyWi1XdTlLMmFZRTFjOGR4TkFVMjRMcVZKWg?oc=5",
+    "published": "Wed, 18 Nov 2026 15:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-19T06:14:35.038509Z"
   }
 ]
