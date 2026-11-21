@@ -7388,5 +7388,15 @@
     "matched_query": "police custody death settlement million",
     "status": "needs_review",
     "detected_at": "2026-11-19T20:01:52.543895Z"
+  },
+  {
+    "id": "4711b9b11b",
+    "headline": "Denver City Council approves settlement of $500,000 in excessive force case against Denver police - KDVR",
+    "detected_amount": 500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkdpM3JQUGJKeVZsMGVlZTVmNHpIbUVUdVBLY3VyYkZvbXk1MC1GLUhIVkRxWUVTd282M3l4X1oyTFo2SW0zdWlBb3pPdzVWZlpKSndUbGs0TzRGVVBNLVNDWnJLR18xcW9iX2JxaHkzQmpfRDBJYWdQcFZzamlnNnVyZFFIakRlNXNlemxFcmNNLXdiQ3lsU3ZPdkJiNHoyQVBJZGowNmh6aWszbE14ekR0cmlMenVZVmwybUhiOEdTQdIBxwFBVV95cUxNdHA0bEJkVk5iQlJvYU9KQjlOc05pQWhORm5GalEwS3ZRUEczYlY2U3NBUTNXcG4yazdhZ29tdG5tZ0VnelQ5R0FTejhNbnRQNlhZekZvVWFZd0tfTzdlV01GZElYSXMzdUVtMFFtYldiUEtlWjVvVkNla2ZfQlo4SlBBbndURWtHcTZvb2F1N05WdThUaEhIVld2eDd0UG9Kc0g3a1hONUxVNlphX0NEaElUcHNXTktoNzZPdGZQR2tUZUQ1YVY4?oc=5",
+    "published": "Tue, 17 Sep 2019 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-21T18:45:51.903628Z"
   }
 ]
