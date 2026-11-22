@@ -7398,5 +7398,15 @@
     "matched_query": "city council approves police misconduct settlement",
     "status": "needs_review",
     "detected_at": "2026-11-21T18:45:51.903628Z"
+  },
+  {
+    "id": "c73e07341d",
+    "headline": "Recent settlements against Portland police surpass $6.7 million - Street Roots",
+    "detected_amount": 6700000,
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNelpGcm5QTzhvdjNuSmlETmF2NVJKYk5tVVBPcU9HRUtMSWRsQ3dqTjhZZ2IwZmNDalJzZmdKdmVoUDQxckhMNnhJWjJpdjdoYWZFOVpQT2x0WmZqOEswOTFoTUNERVRCNXRHdHREUW1qU0NSSjhWeFVpb3FYNG5DUzBJSzBQRmRHUzFSTkY0SnZsZHN3aE1Idm1yNWQ?oc=5",
+    "published": "Wed, 28 Jun 2023 07:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-22T19:07:28.888979Z"
   }
 ]
