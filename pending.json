@@ -7418,5 +7418,45 @@
     "matched_query": "police shooting settlement family million",
     "status": "needs_review",
     "detected_at": "2026-11-23T06:05:21.829646Z"
+  },
+  {
+    "id": "cf52d3c897",
+    "headline": "New Jersey man who sought $27 million settles police brutality lawsuit for $350,000 with town of Lloyd - Yahoo",
+    "detected_amount": 27000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzhqNUJQLVFZdG1rZWppajNOV1RZSU1zRDRHcVF2QXhaandQNXlxVktoMkFHbkpzOFJWbUt6Ykh6TjkwMFBJVnRiV0F3V2tiUTdtUEtYM0FtMWlEVzVVcnFfS1hoTVJIOEk4NHllcWhDNmFJUExlRGNpZXpFSlFOczRXUGN4djFncUE?oc=5",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-23T23:28:22.557713Z"
+  },
+  {
+    "id": "08163ef6f4",
+    "headline": "Norwich council approves $50,000 settlement in Baptiste suit, denies officer liability - citizenportal.ai",
+    "detected_amount": 50000,
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdk9TQWJKcldxa2NoSmczVmRuTXV4V3k5c2UxVlNERXk5eGJfODlFbXdlRnpQMVlJck1zbm5KdG5xMWpVMEpfMXU2TzVpSHVCUk53NXJRVUJ5bHY3TE9GUXhXMkUwS3M5TEhRN2J4a1ZiLWNSajI1UmZwTVVtMnU0b0V6eWRrMlFZVUpSZXJDenBaOXAxMElmNHY5LVBKWGN6RWpmUmFoR2NMZFBoYmtuZGp4TGZhdEJ5LXJhQUJoT0xZMjRvVXJJSU1QRDFEU25CTmF5Mm1hUzlkUW5UT25tNUkycUJscjUzdjZ6R3Qwc2dkLU41UHc?oc=5",
+    "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-23T23:28:24.151422Z"
+  },
+  {
+    "id": "c230ce27b9",
+    "headline": "City Council votes down $2 million settlement with family of man shot and killed by police in 2014 - CBS News",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd3ZSekJJOF9hejFrYWpQY2g5NnoxM2FBU2V6T0NvZE1ETXBPc2pqSXk1RjN0TVhSYmlXdmlrdjhuRzZnWUhlZGNYMlh2QnhmRkpzR0dka2diQkk2Y3hWdjhOSXhhLXE5OUVITkVZLXlTWkpIcVVhU3RuM2t5VGZxMVcwLUY3R0RMdUV2RjkzWmtLWmx1WVZxSTRWLUEzU0kwYVVHYnExNXI?oc=5",
+    "published": "Wed, 19 Jul 2023 07:00:00 GMT",
+    "matched_query": "city council approves police misconduct settlement",
+    "status": "needs_review",
+    "detected_at": "2026-11-23T23:28:24.151568Z"
+  },
+  {
+    "id": "b533a50ed2",
+    "headline": "Poulsbo to pay $2M to settle police killing lawsuit - KATU",
+    "detected_amount": 2000000,
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDR1Szg3UDZFRmJsVDhjMGFnREU1di1QejYtOEdFYkJGN3BwQlNYN1FTS1ZEYjNmV01SZ3kzczZLYklscC1HY1BxUl9pNlpRXzBCVHJLM0tVV21fbWhUVWs1SnpqVVNEdG1MUUs3d255b1pTNlhxSDgxRS03VnlJdTcwTEY?oc=5",
+    "published": "Sat, 19 Mar 2022 07:00:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-23T23:28:28.724758Z"
   }
 ]
