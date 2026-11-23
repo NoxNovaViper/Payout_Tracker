@@ -7408,5 +7408,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-22T19:07:28.888979Z"
+  },
+  {
+    "id": "4d5d0f3c88",
+    "headline": "Fatal Police Shooting: Teen\u2019s Family Could Get $1M Settlement - Honolulu Civil Beat",
+    "detected_amount": 1000000,
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkRwZHV4bjhmamdkSm91R0Q2cm9IWlJja2FDUVFvU0pPOUF1b2JxVEVXUzFqZHVyQWRUM0NjWUJYaXJUeks4OEg0a0tFZDdDOWFwUXp3VnpuN3RFZmpCcTR0MERuMGlXUjVHSGY5ZzE4WmcxckRmWEd2RVdaZVdyUER2RXFIbU52d3lsSEJsak5BWEh6MHVraExRNlZ5amN6WVE?oc=5",
+    "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-23T06:05:21.829646Z"
   }
 ]
