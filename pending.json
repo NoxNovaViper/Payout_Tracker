@@ -7458,5 +7458,15 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-23T23:28:28.724758Z"
+  },
+  {
+    "id": "938ff7e6c0",
+    "headline": "Knox Co. Sheriff's Office lawsuit payouts total $4.58M since 2016 - WBIR",
+    "detected_amount": 4580000,
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZWVBSlBISVZXWmtGSE5WNEdsRy02ZjlaVktoQmNMeXpSYlgxcXo2X0JtY3NWQThaZXhNd3dfQklocy0zTlVJb1Y3ekRGZ1Ewb1RiUFRxRS1CNGdIZ3BWNy16Ym9weDAxbUxKUlJYSVpwQXFDRS1HWXNyYXAzSFYtSkE0bjU3TWZEdTBEekJWMzFqVVNJTDVwVWZNMG94NU5fdmlBU3dTWlNwYm5WZGJBYm5ZM3pHaUpCUy1aZFBLRzRyalZzRVJKa2lzNzhySlpha3ZxVjFzbktPS1I0?oc=5",
+    "published": "Tue, 24 Nov 2026 11:04:00 GMT",
+    "matched_query": "police department pays settlement civil rights",
+    "status": "needs_review",
+    "detected_at": "2026-11-24T21:58:30.559377Z"
   }
 ]
