@@ -7488,5 +7488,15 @@
     "matched_query": "wrongful arrest settlement police million",
     "status": "needs_review",
     "detected_at": "2026-11-25T07:18:34.497004Z"
+  },
+  {
+    "id": "eced7ab76d",
+    "headline": "$5.75 million settlement recommended to Chicago City Council in 2024 police squad car crash - CBS News",
+    "detected_amount": 5750000,
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFVlNlN6ZVZmeHlyejFxREstLUhoQVE4TVdhajVjb1NwLVNnbGVXOTd0cUhnRkhSRGNwWnFVNzBWVjVGMTB1OEdNTEVyWWY2RldNM19HelVsbUFtaVFkTmU5YnBXaFAyeEk4LUtoWk5kR2FRNEpPYzlveWoyeFM2ZmlTaG5DQl9JcGs4ckszb1IyU1ZVNmc?oc=5",
+    "published": "Wed, 25 Nov 2026 19:31:17 GMT",
+    "matched_query": "police settlement million lawsuit",
+    "status": "needs_review",
+    "detected_at": "2026-11-25T21:10:00.396215Z"
   }
 ]
