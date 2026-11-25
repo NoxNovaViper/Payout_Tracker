@@ -7468,5 +7468,25 @@
     "matched_query": "police department pays settlement civil rights",
     "status": "needs_review",
     "detected_at": "2026-11-24T21:58:30.559377Z"
+  },
+  {
+    "id": "dcd1707e8d",
+    "headline": "City of Flagstaff to pay $8.9M to settle two cases involving former officer - KOLD",
+    "detected_amount": 8900000,
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnZKaUY0YWVkdFFfRlZrMFBKLVBoSW5RZE1ROGt5cnZwU1BIQlVqekNuX2JUR2UwN2N1cllFMGNpX2NWMGRWZ3ZMZDBqbThPcE1XalZnN0dVWVptSk1WYURGR1NjUUZfTkxhc0pjZnMtM29GbTlJQXN6ZHpSdHdDU0FkSk1rTThqeXhmWFlndHQwVzZoSlhxazlCelpvQdIBsgFBVV95cUxOMTNENjd3azJxSTFWZ1FOUHIzMUNqa1VmSTcyZi14aU9GZVNTQl9PZFUwcUt1R0lkRGMyMXFnMUpEZHJwQ1Q0ZFBmTF9WVmlGOGpEMzBtdmMtcUp2U3RuT1F3dmZZdGdMUEVvMDVxQS0zX3UxMEcwaTRMRVNaLW1Bc01PN0VGOUNBeXpGcE0yQkczMjdBdmZMLVVpdENST0JyVi1JTHRDVm1FTll0c2hzbmhR?oc=5",
+    "published": "Wed, 25 Nov 2026 04:35:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-25T07:18:29.718888Z"
+  },
+  {
+    "id": "b7e45c0932",
+    "headline": "Seattle settles lawsuit filed by 2020 protesters against city, police for $10 million - KOMO",
+    "detected_amount": 10000000,
+    "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcFFrWkdOZ2VtRnlqLV8xMEMtMnFrSE8zNjBTUjlaem5JWUhSSnIzWjBVY0hkYURtTW1Ta2Vzd2FPd0VFX2Yxc29UcV84R1RZVWNDejVkU1RrQ0x5NFd3THZ3bkhPWUZseDl5STBTMXNEMXlDclVWWnBwVGhpU3BUNGpnY1JiWUlGMlRQVzdyX2J2RDk0UVRTVml3cGFwUDIyVmJxcXNZaHFua1J0V19abURyaU5QWWlENmxZNmJMSTlLeTZEdmFvOWI2TG5WQ3BIMG9QRkRGTXAxS0tfRUVzX20tdEJlYllxNmRqMlJiQlBLWXNUQjBjVWlFVHc3bVc2LU1hVktOckxSWnZLUnNSeWRab3hXdGJCNzdvWDV3Mmc1bjk4S2cxRU1PR28wQy1QYTExWUJKT1VRcFIwT1JESndiTEM1NzByRXVvS0VoSQ?oc=5",
+    "published": "Wed, 24 Jan 2024 08:00:00 GMT",
+    "matched_query": "wrongful arrest settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-25T07:18:34.497004Z"
   }
 ]
