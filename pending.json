@@ -7498,5 +7498,25 @@
     "matched_query": "police settlement million lawsuit",
     "status": "needs_review",
     "detected_at": "2026-11-25T21:10:00.396215Z"
+  },
+  {
+    "id": "1bb09b2b9a",
+    "headline": "Woman wrongfully convicted of murder receives $29.5M settlement from Las Vegas police - AZ Family",
+    "detected_amount": 29500000,
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXFQZjhuTTJQOG14MjBhUVBYSF8wd1VqcVlVNDRsRlpWc1lCNzA2MmgtNHRDeXNpM2xoZXB3Tk1UV3QzbkZLZk1hYXdteDF6S1IzajRzVGZfTzBOSkdvYjFxSmVTV3kzRGQ2UjBjNW11dXE5VkwwVVVKQk9rN2dRMGh4V25VQ01aUlFzelFtMG91d0p2WEwzdjdhT01Za0dwbWloQ0ZWOUQwdHpja1ZkWDhOLVloNjlEQUE?oc=5",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "matched_query": "wrongful conviction settlement police million",
+    "status": "needs_review",
+    "detected_at": "2026-11-27T07:02:14.034201Z"
+  },
+  {
+    "id": "66f8a3dacc",
+    "headline": "Newan Police shooting lawsuit seeks $75 million in damages - 11Alive.com",
+    "detected_amount": 75000000,
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVVdlVFpqNldOYWxpRjBJSUsyWFlvSmMwOHN0VlktdXFDQkRFcTNCbDJ2ZVpGNUstbVRUQlIzNVNNNXZtakRublpZOUFzT0IydHdCejc4VHZxQ2RZNVktTUlGUGJiMDlKRDZWMi1mR2RuMEI1U2hxNlNCQmNwd2dyNlItODRUeHF2dTRzVzBhWE5mdHBPVnpiQTRrTko3cnFldnFrbkdkdXY0QTJ3SEZvNG9NVUZMT3hrZXlRV1NGNTBpQjJqNWpaLS1IbEtuWWRqY0tTMQ?oc=5",
+    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "matched_query": "police shooting settlement family million",
+    "status": "needs_review",
+    "detected_at": "2026-11-27T07:02:15.744208Z"
   }
 ]
